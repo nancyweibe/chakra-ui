@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap');
+
+body .scrollbar-track {
+  background-color: transparent;
+  z-index: 11;
+}
+
+body .scrollbar-track.scrollbar-track-x {
+  display: none !important;
+}
+
+body .scrollbar-thumb {
+  width: 4px;
+  left: 2px;
+  background-color: rgba(black, 0.8);
+}
+
+body .scroll-content {
+  > * {
+    position: relative;
+  }
+}
+
+@-webkit-keyframes shine{0%{background-position:0 center}50%{background-position:100% center}100%{background-position:0 center}}
+@keyframes shine{0%{background-position:0 center}50%{background-position:100% center}100%{background-position:0 center}}

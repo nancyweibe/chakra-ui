@@ -1,0 +1,50 @@
+$c1: #17a2b8;
+$c2: #00816f;
+$c3: #e9ecef;
+
+.donutRing {
+  stroke: $c1;
+}
+
+.donutSegment {
+  stroke: $c2;
+}
+
+.donutText {
+  fill: $c2;
+  font-weight: 700;
+  transform: translateY(.25em);
+}
+
+.donutNumber {
+  font-size: .6em;
+  line-height: 1;
+  fill: $c3;
+  text-anchor: middle;
+  transform: translateY(-.25em);
+}
+
+.donutPercent {
+  font-size: .5em;
+}
+
+.donutNote {
+  font-size: .2em;
+  text-transform: uppercase;
+  text-anchor: middle;
+  fill: $c3;
+  opacity: 0.7;
+  transform: translateY(.7em);
+}
+
+.donutLabel {
+  fill: $c3;
+  font-size: .09em;
+  text-transform: uppercase;
+  text-anchor: middle;
+  transform: translateY(.7em);
+
+  &:global(.you){
+    font-size: .12em;
+  }
+}
