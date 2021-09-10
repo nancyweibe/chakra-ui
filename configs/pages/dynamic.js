@@ -64,6 +64,47 @@ export const pages = [
       img2: "cta4.png",
     },
 
+    comments: [
+      {
+        comment: "I hired a sales agent and got an offer from a reputable distributor, but it wasn’t tempting. I like Filmhub’s simple, straightforward terms.",
+        author: "Courtney Daniels",
+        role: "Director of What Other Couples Do",
+        img: "av-1.png"
+      },
+      {
+        comment: "I keep my rights, and the payout is great. Every few weeks, another streaming service picks up my title.",
+        author: "Shaun Mathis",
+        role: "Director of The Plug",
+        img: "av-2.png"
+      },
+    ],
+
+    howItWorks: {
+      title: "How it Works",
+      button: {
+        name: "Get started",
+        link: "#",
+      },
+      img: "chart.svg",
+      list: [
+        {
+          title: "List Your Title",
+          description: "It’s free, and you maintain your rights.",
+          img: "hw-1.svg"
+        },
+        {
+          title: "Get Streamed",
+          description: "Let streaming channels worldwide discover and license your work.",
+          img: "hw-2.svg"
+        },
+        {
+          title: "Get paid",
+          description: "Receive 80% of all revenue your titles generate.",
+          img: "hw-3.svg"
+        }
+      ]
+    },
+
     customers: {
       title: "FILMMAKERS:<br /> Get your titles on streaming services including",
       description: "...and more",

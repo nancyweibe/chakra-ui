@@ -59,6 +59,7 @@ export default {
     },
     dark: {
       900: "#111827",
+      800: "#979aa5",
     },
     cover: {
       100: "#dcdddf",

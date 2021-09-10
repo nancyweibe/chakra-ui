@@ -120,6 +120,7 @@ const CTA = ({ data }) => {
             <Box
               background="linear-gradient(270.27deg, rgba(178, 14, 202, 0.01) 4.48%, rgba(178, 14, 202, 0.45) 52.87%, rgba(178, 14, 202, 0) 97.38%)"
               backdropFilter="blur(42px)"
+              borderRadius={{base: 0, md: 0, lg: "109px 31px"}}
               mt={{ base: 52, md: 32, lg: 0 }}
               mb={{ base: 52, md: 32, lg: 0 }}
               pt={{ base: 0, md: 0, lg: 32 }}
@@ -157,6 +158,7 @@ const CTA = ({ data }) => {
             <Box
               background="linear-gradient(267.32deg, rgba(255, 255, 255, 0) 6.7%, rgba(255, 255, 255, 0.12) 57.75%, rgba(255, 255, 255, 0) 93.4%)"
               backdropFilter="blur(42px)"
+              borderRadius={{base: 0, md: 0, lg: "109px 31px"}}
               pt={{ base: 16, md: 32, lg: 32 }}
               pb={{ base: 16, md: 32, lg: 32 }}
             >
@@ -181,6 +183,7 @@ const CTA = ({ data }) => {
             <Box
               background="linear-gradient(267.32deg, rgba(255, 255, 255, 0) 6.7%, rgba(255, 255, 255, 0.12) 57.75%, rgba(255, 255, 255, 0) 93.4%)"
               backdropFilter="blur(42px)"
+              borderRadius={{base: 0, md: 0, lg: "109px 31px"}}
               pt={{ base: 0, md: 0, lg: 32 }}
               pb={{ base: 0, md: 0, lg: 32 }}
             >

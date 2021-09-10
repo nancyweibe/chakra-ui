@@ -5,6 +5,8 @@ import Hero from "../sections/Hero"
 import Quote from "../sections/Quote"
 import FilmMakers from "../sections/FilmMakers"
 import CTA from "../sections/CTA"
+import Comments from "../sections/Comments"
+import HowItWorks from "../sections/HowItWorks"
 
 const Home = ({ page }) => {
 
@@ -20,6 +22,8 @@ const Home = ({ page }) => {
       <Quote data={page.quote}/>
       <FilmMakers data={page.filmmakers}/>
       <Box pt={10} pb={10}><CTA data={page.CtaChannelBuyers}/></Box>
+      <Box pt={{ base: 0, md: 0, lg: 10 }} pb={{ base: 0, md: 0, lg: 10 }}><HowItWorks data={page.howItWorks}/></Box>
+      <Box pt={10} pb={{ base: 0, md: 16, lg: 32 }}><Comments data={page.comments}/></Box>
       <Box pt={{ base: 10, md: 10, lg: 10 }} pb={{ base: 10, md: 10, lg: 10}}><CTA data={page.stayInTouch}/></Box>
       <Box pt={10} pb={10}><CTA data={page.distributors}/></Box>
     </>
