@@ -12,13 +12,58 @@ export const pages = [
       imgAlt: "Hero image"
     },
 
-
     quote: {
       title: "Join thousands of filmmakers distributing strong, fresh films & shows made for an audience",
       quote: "… dynamic disruptor in the film distribution space",
       img: "variety.png",
       imgAlt: "Variety"
     },
+
+    filmmakers: {
+      title: "Filmmakers",
+      description: "Get your titles on streaming services including",
+      button: {name: "Sign Up to See All", link: "#"},
+      list: [
+        {img: "logo-1.png"},
+        {img: "logo-2.png"},
+        {img: "logo-3.png"},
+        {img: "logo-4.png"},
+        {img: "logo-5.png"},
+        {img: "logo-6.png"},
+        {img: "logo-7.png"},
+        {img: "logo-8.png"},
+        {img: "logo-9.png"},
+        {img: "logo-10.png"},
+        {img: "logo-11.png"},
+        {img: "logo-12.png"},
+      ]
+    },
+
+    CtaChannelBuyers: {
+      title: "Channel Buyers",
+      description: "Interested in joining Filmhub’s roster of 100+ streaming channels licensing fresh, amazing cinema?",
+      button: {name: "Let’s talk", link: "#"},
+      variant: "violet",
+      img1: "cta1.png",
+      img2: "cta2.png",
+    },
+
+    distributors: {
+      title: "Distributors & Sales Agents",
+      description: "Want to expand your distribution to new territories and channels?",
+      button: {name: "Let’s talk", link: "#"},
+      variant: "light",
+    },
+
+    stayInTouch: {
+      title: "Want to Stay in Touch?",
+      description: "Subscribe to receive the occasional newsletter with distribution tips, industry news, and product updates.",
+      button: {name: "Let’s talk", link: "#"},
+      variant: "light-form",
+      img1: "cta3.png",
+      img2: "cta4.png",
+    },
+
     customers: {
       title: "FILMMAKERS:<br /> Get your titles on streaming services including",
       description: "...and more",

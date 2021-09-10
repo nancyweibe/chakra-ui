@@ -45,7 +45,7 @@ export default {
     "9xl": "8rem",
   },
   colors: {
-    brand:{
+    brand: {
       50: '#dafcff',
       100: '#b3effa',
       200: '#89e4f2',
@@ -59,7 +59,11 @@ export default {
     },
     dark: {
       900: "#111827",
-    }
+    },
+    cover: {
+      100: "#dcdddf",
+      200: "#9ea1a8"
+    },
   },
   components: {
     Button: {
@@ -119,6 +123,33 @@ export default {
           fontSize: "4rem",
         },
       },
+    },
+    Input: {
+      variants: {
+        light: {
+          field: {
+            border: "1px solid",
+            borderColor: "rgba(255,255,255, 0.4)",
+            background: "rgba(255,255,255, 0.2)",
+            color: "white",
+            height: "48px",
+            borderRadius: "25px",
+            paddingLeft: "20px",
+
+            _placeholder: {
+              color: "rgba(255,255,255, 0.8)"
+            },
+            _focus: {
+              boxShadow: "none"
+            }
+          },
+        },
+      }
+    },
+    Radio: {
+      label: {
+        fontSize: "1.125rem"
+      }
     }
   },
 }
