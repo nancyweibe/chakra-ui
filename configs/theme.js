@@ -65,6 +65,10 @@ export default {
       100: "#dcdddf",
       200: "#9ea1a8"
     },
+    col: {
+      100: "#328ca3",
+      200: "#B20ECA",
+    }
   },
   components: {
     Button: {
@@ -81,6 +85,25 @@ export default {
         },
       },
       variants: {
+        "radialPrimary":{
+          padding: 0,
+          height: "30px",
+          width: "30px",
+          minWidth: "30px",
+          fontSize: "0.8125rem",
+          flexShrink: 0,
+          display: "flex",
+          alignItems: "center",
+          borderWidth: "1px",
+          borderRadius: "50%",
+          borderStyle: "solid",
+          borderColor: "brand.500",
+
+          _hover: {
+            bg: "white",
+            borderColor: "white",
+          }
+        },
         "outline-grey": {
           bg: "rgba(255, 255, 255, 0.1)",
           color: "white",
@@ -145,6 +168,24 @@ export default {
             }
           },
         },
+        transparent: {
+          field: {
+            border: "1px solid",
+            borderColor: "transparent",
+            background: "transparent",
+            color: "white",
+            height: "48px",
+            borderRadius: "25px",
+            paddingLeft: "20px",
+
+            _placeholder: {
+              color: "rgba(255,255,255, 0.8)"
+            },
+            _focus: {
+              boxShadow: "none"
+            }
+          },
+        }
       }
     },
     Radio: {
