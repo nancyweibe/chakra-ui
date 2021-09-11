@@ -1,4 +1,4 @@
-import {useEffect, useState, useRef} from "react"
+import { useEffect, useState, useRef } from "react"
 import { Box, Container, Heading, Text, Image, Grid, GridItem, Stack, RadioGroup, Radio, Button, Input } from '@chakra-ui/react'
 import Link from "../../components/Link"
 
@@ -12,7 +12,7 @@ const Bg = ({ data, scrollBar }) => {
     if (scrollBar) {
 
       scrollBar.scrollbar.addListener((status) => {
-        
+
         if (true) {
           isCanDetect.current = false;
           setScrollTop(status.offset.y);
@@ -46,10 +46,12 @@ const Bg = ({ data, scrollBar }) => {
     }
   }
 
-  return <Box w="100vw" h="100%" overflow="hidden" position="absolute" left={0} top={0} transform={`translateY(-${scrollTop}px)`}>
-    {data.map((circle, i) => (
-      renderCircle(circle, i)
-    ))}
+  return <Box w="100vw" h="100%" overflow="hidden" position="absolute" left={0} top={0}>
+    <Box w="100vw" h="100%" position="absolute" left={0} top={0} transform={`translateY(-${scrollTop}px)`}>
+      {data.map((circle, i) => (
+        renderCircle(circle, i)
+      ))}
+    </Box>
   </Box>
 }
 
