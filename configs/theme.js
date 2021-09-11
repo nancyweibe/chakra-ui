@@ -3,7 +3,7 @@ export default {
     global: (props) => ({
       "html, body": {
         color: "white",
-        background: `linear-gradient(180deg, #111827 0%, #1A237E 100%)`,
+        background: `linear-gradient(170.11deg, #111827 22.09%, #1A237E 226.92%);`,
       },
       a: {
         color: props.colorMode === "dark" ? "teal.300" : "teal.500",

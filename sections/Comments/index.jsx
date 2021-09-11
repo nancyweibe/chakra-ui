@@ -22,7 +22,7 @@ const Comments = ({ data }) => {
               height="100%"
               position="relative"
               background="linear-gradient(321.83deg, rgba(255, 255, 255, 0) -15.76%, rgba(255, 255, 255, 0.15) 56.72%)"
-              backdropFilter="blur(42px)"
+              // backdropFilter="blur(42px)"
               borderWidth={2}
               borderStyle="solid"
               borderColor="dark.800"

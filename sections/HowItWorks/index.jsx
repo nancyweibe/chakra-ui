@@ -29,6 +29,7 @@ const HowItWorks = ({ data }) => {
         <GridItem colSpan={{ base: 6, md: 3, lg: 3 }}>
           {list.map((item, i) => (
             <Box
+              key={`dvi-${i}`}
               borderStyle="solid"
               borderWidth="2px"
               borderRadius="44px 0px 0px 12px"
