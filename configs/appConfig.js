@@ -14,8 +14,8 @@ const app = {
       href: '/buyers',
     },
     {
-      label: 'Learn More',
-      href: '/learn-more',
+      label: 'Filmmakers',
+      href: '/filmmakers',
     },
   ],
 
@@ -65,10 +65,6 @@ const app = {
           },
           {
             label: 'Channel Buyers',
-            href: '#',
-          },
-          {
-            label: 'Catalog Owners',
             href: '#',
           },
         ],

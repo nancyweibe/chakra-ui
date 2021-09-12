@@ -7,7 +7,7 @@ export const pages = [
     hero: {
       title: "Distribution for <strong>every film</strong>",
       description: "Stream to new audiences worldwide. Make money. Maintain your rights.",
-      button: {name: "Get started", link: "/", varianr:"primary-effect", label: "it's free!"},
+      button: {name: "Get Started", link: "/", varianr:"primary-effect", label: "it's free!"},
       img: "hero-img.png",
       imgAlt: "Hero image"
     },
@@ -21,7 +21,7 @@ export const pages = [
 
     filmmakers: {
       title: "Filmmakers",
-      description: "Get your titles on streaming services including",
+      description: "Get your titles on streaming services including:",
       button: {name: "Sign Up to See All", link: "#"},
       list: [
         {img: "logo-1.png"},
@@ -42,7 +42,7 @@ export const pages = [
     CtaChannelBuyers: {
       title: "Channel Buyers",
       description: "Interested in joining Filmhub’s roster of 100+ streaming channels licensing fresh, amazing cinema?",
-      button: {name: "Let’s talk", link: "#"},
+      button: {name: "Let’s Talk", link: "#"},
       variant: "violet",
       img1: "cta1.png",
       img2: "cta2.png",
@@ -51,14 +51,14 @@ export const pages = [
     distributors: {
       title: "Distributors & Sales Agents",
       description: "Want to expand your distribution to new territories and channels?",
-      button: {name: "Let’s talk", link: "#"},
+      button: {name: "Let’s Talk", link: "#"},
       variant: "light",
     },
 
     stayInTouch: {
       title: "Want to Stay in Touch?",
       description: "Subscribe to receive the occasional newsletter with distribution tips, industry news, and product updates.",
-      button: {name: "Let’s talk", link: "#"},
+      button: {name: "Let’s Talk", link: "#"},
       variant: "light-form",
       img1: "cta3.png",
       img2: "cta4.png",
@@ -82,7 +82,7 @@ export const pages = [
     howItWorks: {
       title: "How it Works",
       button: {
-        name: "Get started",
+        name: "Get Started",
         link: "#",
       },
       img: "chart.svg",

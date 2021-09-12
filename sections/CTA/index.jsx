@@ -16,8 +16,8 @@ const CTA = ({ data }) => {
             <RadioGroup colorScheme="brand" defaultValue="filmmaker">
               <Stack justifyContent="center" alignItems="center" mx={{base: "auto", md:"0", lg: "0"}} direction={{base: "column", md:"row", lg: "row"}}>
                 <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio value="filmmaker">Filmmaker</Radio> </Box>
-                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio value="channel buyer">Channel buyer</Radio> </Box>
-                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio value="distributor / sales agent">Distributor / Sales agent</Radio> </Box>
+                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio value="channel buyer">Channel Buyer</Radio> </Box>
+                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio value="distributor / sales agent">Distributor / Sales Agent</Radio> </Box>
               </Stack>
             </RadioGroup>
           </Box>
