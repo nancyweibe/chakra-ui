@@ -9,7 +9,7 @@ const Bg = ({ data, scrollBar }) => {
 
   useEffect(() => {
 
-    if (scrollBar) {
+    if (scrollBar && window.innerWidth > 990) {
 
       scrollBar.scrollbar.addListener((status) => {
 

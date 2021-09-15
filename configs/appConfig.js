@@ -56,15 +56,7 @@ const app = {
             href: '#',
           },
           {
-            label: 'FAQs',
-            href: '#',
-          },
-          {
-            label: 'Filmmakers',
-            href: '#',
-          },
-          {
-            label: 'Channel Buyers',
+            label: 'Schedule Demo',
             href: '#',
           },
         ],

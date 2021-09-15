@@ -7,7 +7,7 @@ export const pages = [
     hero: {
       title: "Distribution for <strong>every film</strong>",
       description: "Stream to new audiences worldwide. Make money. Maintain your rights.",
-      button: {name: "Get Started", link: "/", varianr:"primary-effect", label: "it's free!"},
+      button: {name: "Get Started", link: "/", varianr:"primary-effect", label: "It's Free!"},
       img: "hero-img.png",
       imgAlt: "Hero image"
     },
