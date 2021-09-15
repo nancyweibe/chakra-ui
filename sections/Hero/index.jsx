@@ -33,7 +33,7 @@ const Hero = ({ data }) => {
               <Link display={{
                 base: 'flex',
                 md: 'none',
-              }} as="a" type="button" href="/sign-in" variant="outline-grey" w="full" mt="5">
+              }} as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey" w="full" mt="5">
                 Sign In
               </Link>
             </Box>

@@ -40,15 +40,15 @@ const MobileNavContext = (props) => {
           link.children ? (
             <Submenu.Mobile key={idx} link={link} />
           ) : (
-            <Link type="link-mobile" mb={4} key={idx} href={link.href}>
-              {link.label}
+            <Link type="link-mobile" mb={4} key={idx} href={link.href} dangerouslySetInnerHTML={{ __html: link.label }}>
+              
             </Link>
           ),
         )}
-        <Link as="a" w="full" type="button" href="/get-started" colorScheme="brand" mt="5">
+        <Link as="a" w="full" type="button" href="https://app.filmhub.com/owner/signup" colorScheme="brand" mt="5">
           Get Started
         </Link>
-        <Link as="a" type="button" href="/sign-in" variant="outline-grey" w="full" mt="5">
+        <Link as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey" w="full" mt="5">
           Sign In
         </Link>
       </NavMenu>
@@ -70,15 +70,15 @@ const DesktopNavContent = (props) => {
               {link.children ? (
                 <Submenu.Desktop link={link} />
               ) : (
-                <Link type="link-desktop" href={link.href}>{link.label}</Link>
+                <Link type="link-desktop" href={link.href} dangerouslySetInnerHTML={{ __html: link.label }}></Link>
               )}
             </Box>
           ))}
         </HStack>
-        <Link as="a" type="button" href="/get-started" colorScheme="brand">
+        <Link as="a" type="button" href="https://app.filmhub.com/owner/signup" colorScheme="brand">
           Get Started
         </Link>
-        <Link as="a" type="button" href="/sign-in" variant="outline-grey">
+        <Link as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey">
           Sign In
         </Link>
       </HStack>

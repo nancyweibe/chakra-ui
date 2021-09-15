@@ -10,13 +10,17 @@ const app = {
 
   links: [
     {
-      label: 'Buyers',
-      href: '/buyers',
+      label: '&nbsp;',
+      href: '#',
     },
-    {
-      label: 'Filmmakers',
-      href: '/filmmakers',
-    },
+    // {
+    //   label: 'Buyers',
+    //   href: '/buyers',
+    // },
+    // {
+    //   label: 'Filmmakers',
+    //   href: '/filmmakers',
+    // },
   ],
 
   footer: {
@@ -57,11 +61,15 @@ const app = {
           },
           {
             label: 'Log in',
+            href: 'https://app.filmhub.com/login',
+          },
+          {
+            label: 'Let’s Talk',
             href: '#',
           },
           {
-            label: 'Schedule Demo',
-            href: '#',
+            label: 'Blog',
+            href: 'https://filmhub.com/articles',
           },
         ],
       },
@@ -78,7 +86,7 @@ const app = {
           },
           {
             label: 'Press',
-            href: '#',
+            href: 'https://filmhub.com/press',
           },
           {
             label: 'Get in Touch',
@@ -89,10 +97,6 @@ const app = {
       {
         title: 'Support',
         links: [
-          {
-            label: 'Request a Custom Demo',
-            href: '#',
-          },
           {
             label: 'Suggest a Feature',
             href: '#',

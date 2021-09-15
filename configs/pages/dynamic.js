@@ -7,7 +7,7 @@ export const pages = [
     hero: {
       title: "Distribution for <strong>every film</strong>",
       description: "Stream to new audiences worldwide. Make money. Maintain your rights.",
-      button: {name: "Get Started", link: "/", varianr:"primary-effect", label: "It's Free!"},
+      button: {name: "Get Started", link: "https://app.filmhub.com/owner/signup", varianr:"primary-effect", label: "It's Free!"},
       img: "hero-img.png",
       imgAlt: "Hero image"
     },
@@ -22,7 +22,7 @@ export const pages = [
     filmmakers: {
       title: "Filmmakers",
       description: "Get your titles on streaming services including:",
-      button: {name: "Sign Up to See All", link: "#"},
+      button: {name: "Sign Up to See All", link: "https://app.filmhub.com/owner/signup"},
       list: [
         {name: "Nuella TV", img: "nuella-tv.svg"},
         {name: "Christian Channel", img: "christian-channel.svg"},
@@ -76,7 +76,7 @@ export const pages = [
     CtaChannelBuyers: {
       title: "Channel Buyers",
       description: "Interested in joining Filmhub’s roster of 100+ streaming channels licensing fresh, amazing cinema?",
-      button: {name: "Let’s Talk", link: "#"},
+      button: {name: "Let’s Talk", link: "https://cal.mixmax.com/jenniferniessen/30"},
       variant: "violet",
       img1: "cta1.png",
       img2: "cta2.png",
@@ -85,14 +85,14 @@ export const pages = [
     distributors: {
       title: "Distributors & Sales Agents",
       description: "Want to expand your distribution to new territories and channels?",
-      button: {name: "Let’s Talk", link: "#"},
+      button: {name: "Let’s Talk", link: "https://cal.mixmax.com/jenniferniessen/30"},
       variant: "light",
     },
 
     stayInTouch: {
       title: "Want to Stay in Touch?",
       description: "Subscribe to receive the occasional newsletter with distribution tips, industry news, and product updates.",
-      button: {name: "Let’s Talk", link: "#"},
+      button: {name: "Let’s Talk", link: "https://cal.mixmax.com/jenniferniessen/30"},
       variant: "light-form",
       img1: "cta3.png",
       img2: "cta4.png",
@@ -117,7 +117,7 @@ export const pages = [
       title: "How it Works",
       button: {
         name: "Get Started",
-        link: "#",
+        link: "https://app.filmhub.com/owner/signup",
       },
       img: "chart.svg",
       list: [
