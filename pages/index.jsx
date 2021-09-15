@@ -22,7 +22,7 @@ const Home = ({ page, scrollBar }) => {
         <link rel="icon" href="/img/favicon.ico" />
       </Head>
       <Bg scrollBar={scrollBar} data={appConfig.bg} />
-      <Box position="relative" zIndex={1}>
+      <Box pt={{base: 16, lg: 32}} position="relative" zIndex={1}>
         <Hero data={page.hero} />
         <Quote data={page.quote} />
         <FilmMakers data={page.filmmakers} />

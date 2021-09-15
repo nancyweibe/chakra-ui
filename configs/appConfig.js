@@ -20,7 +20,11 @@ const app = {
   ],
 
   footer: {
-    copyright: "2021 Filmhub  Terms Privacy",
+    copyright: "2021 Filmhub",
+    bottomLinks: [
+      {name: "Terms", link: "#"},
+      {name: "Privacy", link: "#"},
+    ],
     socialLinks: [
       {
         label: 'Facebook',

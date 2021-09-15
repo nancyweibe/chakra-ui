@@ -10,6 +10,10 @@ const Link = (props) => {
       return <LinkComp href={href}>
         <chakra.a cursor="pointer" {...rest}>{children}</chakra.a>
       </LinkComp>
+    case "regular-white":
+      return <LinkComp href={href}>
+        <chakra.a color="white" transition="color 300ms ease" _hover={{color: "dark.800"}} cursor="pointer" {...rest}>{children}</chakra.a>
+      </LinkComp>
     case "button":
       return <LinkComp href={href}>
         <Button {...rest}>

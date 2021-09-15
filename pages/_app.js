@@ -1,4 +1,4 @@
-import {useState} from "react"
+import { useState } from "react"
 import { useRouter } from "next/router";
 import { pages } from "../configs/pages/dynamic"
 import { filterIt } from '../utils'
@@ -18,12 +18,12 @@ function App({ Component, pageProps }) {
   const page = filterIt(pages, router.pathname, "link")[0]
   const [scrollBar, setScrollBar] = useState(null)
 
-  return <ScrollBarWrapper onInit={setScrollBar}>
-    <ChakraProvider theme={theme}>
-      <Navbar />
-      <Component {...pageProps} page={page} scrollBar={scrollBar}/>
-    </ChakraProvider>
-  </ScrollBarWrapper>
+  return <ChakraProvider theme={theme}>
+    <Navbar scrollBar={scrollBar}/>
+    <ScrollBarWrapper onInit={setScrollBar}>
+      <Component {...pageProps} page={page} scrollBar={scrollBar} />
+    </ScrollBarWrapper>
+  </ChakraProvider>
 }
 
 export default App

@@ -4,7 +4,7 @@ import Link from "../../components/Link"
 
 const Footer = ({ data }) => {
 
-  const { copyright, socialLinks, links, form } = data
+  const { copyright, socialLinks, links, form, bottomLinks } = data
 
   const onSubmit = (e) => {
     e.preventDefault()
@@ -19,7 +19,7 @@ const Footer = ({ data }) => {
       lg: "container.xl",
 
     }}>
-      <Box fontSize="164px" color="brand.500"><Icon variant="logo" /></Box>
+      {/* <Box fontSize="164px" color="brand.500"><Icon variant="logo" /></Box> */}
 
       <Grid
         templateColumns="repeat(12, 1fr)"
@@ -111,9 +111,12 @@ const Footer = ({ data }) => {
             <Text mr={2} textAlign="center" fontWeight="500" fontSize={{ base: "lg", md: "2xl", lg: "2xl" }}>
               ©
             </Text>
-            <Text textAlign="center" fontWeight="400" fontSize={{ base: "sm", md: "md", lg: "md" }}>
+            <Text mr={3} textAlign="center" fontWeight="400" fontSize={{ base: "sm", md: "md", lg: "md" }}>
               {copyright}
             </Text>
+            {bottomLinks.map((link, i)=>(
+              <Link ml={2} type="regular-white" href={link.link} key={`lfi-${i}`}>{link.name}</Link>
+            ))}
           </Box>
         </GridItem>
         <GridItem colSpan={{ base: 12, md: 6, lg: 6 }}>
