@@ -23,9 +23,21 @@ const Bg = ({ data, scrollBar }) => {
           }, 10)
         }
       });
+    }else {
+      window.addEventListener("scroll", onScroll)
+    }
+
+    return () => {
+      window.removeEventListener("scroll", onScroll)
     }
 
   }, [scrollBar])
+
+  const onScroll = () => {
+    if (window.innerWidth > 990) { 
+      //setScrollTop(window.scrollY)
+    }
+  }
 
   const renderCircle = (circle, i) => {
     switch (circle.variant) {

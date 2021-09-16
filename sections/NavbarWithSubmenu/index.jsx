@@ -29,12 +29,22 @@ const App = ({scrollBar}) => {
           }, 300)
         }
       });
+    }else {
+      window.addEventListener("scroll", onScroll)
+    }
+
+    return () => {
+      window.removeEventListener("scroll", onScroll)
     }
 
   }, [scrollBar])
 
+  const onScroll = () => {
+    setScrollTop(window.scrollY);
+  }
+
   const getW = () => {
-    return w?.innerWidth > 990 ? 200 : 50
+    return w?.innerWidth > 990 ? 75 : 50
   }
 
   return (

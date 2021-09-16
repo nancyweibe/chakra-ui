@@ -7,17 +7,17 @@ const Link = (props) => {
 
   switch (type) {
     default:
-      return href.indexOf("http") != -1 ? <chakra.a href={href} target="blank" cursor="pointer" {...rest}>{children}</chakra.a>
+      return href.indexOf("http") != -1 ? <chakra.a href={href}  cursor="pointer" {...rest}>{children}</chakra.a>
         : <LinkComp href={href}>
           <chakra.a cursor="pointer" {...rest}>{children}</chakra.a>
         </LinkComp>
     case "regular-white":
       return href.indexOf("http") != -1 ? <chakra.a href={href} color="white" transition="color 300ms ease" _hover={{ color: "dark.800" }} cursor="pointer" {...rest}>{children}</chakra.a>
         : <LinkComp href={href}>
-          <chakra.a color="white" target="blank" transition="color 300ms ease" _hover={{ color: "dark.800" }} cursor="pointer" {...rest}>{children}</chakra.a>
+          <chakra.a color="white"  transition="color 300ms ease" _hover={{ color: "dark.800" }} cursor="pointer" {...rest}>{children}</chakra.a>
         </LinkComp>
     case "button":
-      return href.indexOf("http") != -1 ? <Button as="a" color="white" target="blank" href={href} {...rest}>
+      return href.indexOf("http") != -1 ? <Button as="a" color="white"  href={href} {...rest}>
         <span>{children}</span>
       </Button> : <LinkComp href={href}>
         <Button  as="a" color="white" {...rest}>

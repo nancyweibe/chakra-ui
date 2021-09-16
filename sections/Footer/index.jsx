@@ -1,4 +1,4 @@
-import { Box, Container, Heading, Text, Grid, GridItem, Input, Button } from '@chakra-ui/react'
+import { chakra, Box, Container, Heading, Text, Grid, GridItem, Input, Button } from '@chakra-ui/react'
 import Icon from "../../components/Icon"
 import Link from "../../components/Link"
 
@@ -68,17 +68,19 @@ const Footer = ({ data }) => {
         </GridItem>
         <GridItem colSpan={{ base: 12, md: 4, lg: 4 }}>
           <Box>
-            <Heading
-              as="h3"
-              fontSize={{ base: "lg", md: "lg", lg: "lg" }}
-              fontWeight="bold"
-              textTransform="uppercase"
-              color="brand.500"
-              lineHeight="1.25"
-              mb={5}
-              dangerouslySetInnerHTML={{ __html: form.title }}
-            >
-            </Heading>
+            {form.title &&
+              <Heading
+                as="h3"
+                fontSize={{ base: "lg", md: "lg", lg: "lg" }}
+                fontWeight="bold"
+                textTransform="uppercase"
+                color="brand.500"
+                lineHeight="1.25"
+                mb={5}
+                dangerouslySetInnerHTML={{ __html: form.title }}
+              >
+              </Heading>
+            }
             <form onSubmit={onSubmit}>
               <Box
                 border="1px solid"
@@ -107,14 +109,14 @@ const Footer = ({ data }) => {
         pt={5}
       >
         <GridItem colSpan={{ base: 12, md: 6, lg: 6 }}>
-          <Box h="100%" display="flex" alignItems="center" justifyContent={{base: "center", lg: "flex-start"}}>
+          <Box h="100%" display="flex" alignItems="center" justifyContent={{ base: "center", lg: "flex-start" }}>
             <Text mr={2} textAlign="center" fontWeight="500" fontSize={{ base: "lg", md: "2xl", lg: "2xl" }}>
               ©
             </Text>
             <Text mr={3} textAlign="center" fontWeight="400" fontSize={{ base: "sm", md: "md", lg: "md" }}>
               {copyright}
             </Text>
-            {bottomLinks.map((link, i)=>(
+            {bottomLinks.map((link, i) => (
               <Link ml={2} type="regular-white" href={link.link} key={`lfi-${i}`}>{link.name}</Link>
             ))}
           </Box>
@@ -123,15 +125,16 @@ const Footer = ({ data }) => {
           <Box
             display="flex"
             alignItems="center"
-            justifyContent={{base: "center", lg: "flex-end"}}
+            justifyContent={{ base: "center", lg: "flex-end" }}
           >
             {socialLinks.map((social, i) => (
-              <Box
+              <chakra.a
                 display="flex"
                 alignItems="center"
                 justifyContent="center"
                 w={50}
                 h={50}
+                href={social.href}
                 key={`si-${i}`}
                 borderRadius="50%"
                 borderWidth="2px"
@@ -140,13 +143,14 @@ const Footer = ({ data }) => {
                 bg="rgba(255, 255, 255, 0.2)"
                 transition="all 300ms ease"
                 fontSize="24px"
-                ml={{base: "2", lg: "5"}}
-                mr={{base: "2", lg: "0"}}
+                ml={{ base: "2", lg: "5" }}
+                mr={{ base: "2", lg: "0" }}
                 color="brand.500"
                 _hover={{
                   bg: "rgba(255, 255, 255, 1)"
                 }}
-              >{social.icon}</Box>
+              >{social.icon}
+              </chakra.a>
             ))}
           </Box>
         </GridItem>

@@ -20,9 +20,9 @@ function App({ Component, pageProps }) {
 
   return <ChakraProvider theme={theme}>
     <Navbar scrollBar={scrollBar}/>
-    <ScrollBarWrapper onInit={setScrollBar}>
+    {/* <ScrollBarWrapper onInit={setScrollBar}> */}
       <Component {...pageProps} page={page} scrollBar={scrollBar} />
-    </ScrollBarWrapper>
+    {/* </ScrollBarWrapper> */}
   </ChakraProvider>
 }
 

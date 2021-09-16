@@ -1,6 +1,6 @@
 import * as React from 'react'
 import { IoCalendar, IoGrid, IoHelpBuoy } from 'react-icons/io5'
-import { FaFacebook, FaInstagram, FaSkype, FaTwitter } from 'react-icons/fa'
+import { FaFacebook, FaInstagram, FaLinkedin, FaSkype, FaTwitter } from 'react-icons/fa'
 import { MdWeb } from 'react-icons/md'
 import { Badge } from '@chakra-ui/react'
 
@@ -33,22 +33,22 @@ const app = {
       {
         label: 'Facebook',
         icon: <FaFacebook />,
-        href: '#',
+        href: 'https://facebook.com/filmhubhq',
       },
       {
         label: 'Instagram',
         icon: <FaInstagram />,
-        href: '#',
+        href: 'https://instagram.com/filmhubhq',
       },
       {
-        label: 'Skype',
-        icon: <FaSkype />,
-        href: '#',
+        label: 'Linkedin',
+        icon: <FaLinkedin />,
+        href: 'https://www.linkedin.com/company/filmhub/',
       },
       {
         label: 'Twitter',
         icon: <FaTwitter />,
-        href: '#',
+        href: 'https://twitter.com/filmhubhq',
       },
     ],
     links: [
@@ -57,15 +57,11 @@ const app = {
         links: [
           {
             label: 'Sign up',
-            href: '#',
+            href: 'https://app.filmhub.com/owner/signup',
           },
           {
             label: 'Log in',
             href: 'https://app.filmhub.com/login',
-          },
-          {
-            label: 'Let’s Talk',
-            href: '#',
           },
           {
             label: 'Blog',
@@ -88,28 +84,19 @@ const app = {
             label: 'Press',
             href: 'https://filmhub.com/press',
           },
-          {
-            label: 'Get in Touch',
-            href: '#',
-          },
         ],
       },
       {
         title: 'Support',
         links: [
           {
-            label: 'Suggest a Feature',
-            href: '#',
-          },
-          {
             label: 'Get Help',
-            href: '#',
+            href: 'http://help.filmhub.com',
           },
         ],
       },
     ],
     form: {
-      title: "Want Filmhub news & updates?"
     }
   },
 
