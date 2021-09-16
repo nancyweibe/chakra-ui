@@ -1,23 +1,39 @@
+import { useState } from 'react'
 import { Box, Container, Heading, Text, Image, Grid, GridItem, Stack, RadioGroup, Radio, Button, Input } from '@chakra-ui/react'
 import Link from "../../components/Link"
+import { postData } from '../../utils'
 
 const CTA = ({ data }) => {
 
   const { title, description, button, img1, img2, variant } = data
+  const [isDone, setIsDone] = useState(false)
+  const [isProcess, setIsProcess] = useState(false)
+
+  const onSubmit = (e) => {
+    e.preventDefault()
+
+    setIsProcess(true)
+
+    const formData = new FormData(e.target);
+
+    postData('https://filmhub.com/.netlify/functions/list-signup', formData)
+      .then(data => {
+        setIsDone(true)
+        setIsProcess(false)
+      });
+  }
 
   const renderForm = () => {
     return (
         <form
-          onSubmit={(e) => {
-            e.preventDefault() // your subscribe logic here
-          }}
+          onSubmit={onSubmit}
         >
           <Box mt={10} mb={4}>
             <RadioGroup colorScheme="brand" defaultValue="filmmaker">
               <Stack justifyContent="center" alignItems="center" mx={{base: "auto", md:"0", lg: "0"}} direction={{base: "column", md:"row", lg: "row"}}>
-                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio value="filmmaker">Filmmaker</Radio> </Box>
-                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio value="channel buyer">Channel Buyer</Radio> </Box>
-                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio value="distributor / sales agent">Distributor / Sales Agent</Radio> </Box>
+                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio name="type" value="filmmaker">Filmmaker</Radio> </Box>
+                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio name="type" value="catalog">Channel Buyer</Radio> </Box>
+                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio name="type" value="buyer">Distributor / Sales Agent</Radio> </Box>
               </Stack>
             </RadioGroup>
           </Box>
@@ -34,9 +50,9 @@ const CTA = ({ data }) => {
               md: 'row',
             }}
           >
-            <Input variant="light" type="email" placeholder="Your email address" />
-            <Button colorScheme="brand" px="10" type="submit">
-              Subscribe
+            <Input required variant="light" type="email" placeholder="Your email address" />
+            <Button disabled={isProcess || isDone} colorScheme="brand" px="10" type="submit">
+              {isDone ? "Thank You" : "Subscribe"}
             </Button>
           </Stack>
         </form>

@@ -1,13 +1,27 @@
+import { useState } from 'react'
 import { chakra, Box, Container, Heading, Text, Grid, GridItem, Input, Button } from '@chakra-ui/react'
 import Icon from "../../components/Icon"
 import Link from "../../components/Link"
+import { postData } from "../../utils/"
 
 const Footer = ({ data }) => {
 
   const { copyright, socialLinks, links, form, bottomLinks } = data
+  const [isDone, setIsDone] = useState(false)
+  const [isProcess, setIsProcess] = useState(false)
 
   const onSubmit = (e) => {
     e.preventDefault()
+
+    setIsProcess(true)
+
+    const formData = new FormData(e.target);
+
+    postData('https://filmhub.com/.netlify/functions/list-signup', formData)
+      .then(data => {
+        setIsDone(true)
+        setIsProcess(false)
+      });
   }
 
   return <Box
@@ -81,22 +95,25 @@ const Footer = ({ data }) => {
               >
               </Heading>
             }
-            <form onSubmit={onSubmit}>
-              <Box
-                border="1px solid"
-                borderColor="rgba(255,255,255, 0.4)"
-                background="rgba(255,255,255, 0.2)"
-                borderRadius="25px"
-                paddingRight="10px"
-                display="flex"
-                alignItems="center"
-              >
-                <Input variant="transparent" type="email" placeholder="Your email address" required />
-                <Button variant="radialPrimary" type="submit">
-                  <Icon variant="chevron-right" />
-                </Button>
-              </Box>
-            </form>
+            {isDone ? <Text color="white">Thank you</Text> :
+              <form onSubmit={onSubmit}>
+                <Box
+                  border="1px solid"
+                  borderColor="rgba(255,255,255, 0.4)"
+                  background="rgba(255,255,255, 0.2)"
+                  borderRadius="25px"
+                  paddingRight="10px"
+                  display="flex"
+                  alignItems="center"
+                >
+                  <Input variant="transparent" name="email" type="email" placeholder="Your email address" required />
+                  <Button disabled={isDone || isProcess} variant="radialPrimary" type="submit">
+                    <Icon variant="chevron-right" />
+                  </Button>
+                </Box>
+              </form>
+            }
+
           </Box>
         </GridItem>
       </Grid>

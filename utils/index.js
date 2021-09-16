@@ -15,3 +15,19 @@ export const filterItFull = (array, value, key) => {
 export const capitalizeFirstLetter = (string) => {
   return string.charAt(0).toUpperCase() + string.slice(1);
 }
+
+export async function postData(url = '', data = {}) {
+
+  const response = await fetch(url, {
+    method: 'POST',
+    mode: 'cors',
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: Array.from(
+      data,
+      e => e.map(encodeURIComponent).join('=')
+    ).join('&')
+  });
+  return response.json();
+}
