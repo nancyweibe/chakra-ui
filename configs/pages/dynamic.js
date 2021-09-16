@@ -85,7 +85,7 @@ export const pages = [
     distributors: {
       title: "Distributors & Sales Agents",
       description: "Want to expand your distribution to new territories and channels?",
-      button: {name: "Let’s Talk", link: "https://cal.mixmax.com/jenniferniessen/30"},
+      button: {name: "Let’s Talk", link: "https://calendly.com/filmhubwebdemo/distributors-and-sales-agents"},
       variant: "light",
     },
 
