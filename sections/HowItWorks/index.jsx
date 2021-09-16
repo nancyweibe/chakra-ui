@@ -1,5 +1,6 @@
-import { Box, Container, Heading, Text, Image, Grid, GridItem } from '@chakra-ui/react'
+import { Box, Container, Heading, Text, Grid, GridItem } from '@chakra-ui/react'
 import Link from "../../components/Link"
+import Image from "next/image"
 
 const HowItWorks = ({ data }) => {
 
@@ -13,10 +14,10 @@ const HowItWorks = ({ data }) => {
     }}>
       <Heading
         as="h2"
-        fontSize={{ base: "5xl", md: "5xl", lg: "5xl" }}
+        fontSize={{ base: "3xl", md: "5xl", lg: "5xl" }}
         fontWeight="900"
         mx="auto"
-        textAlign="center"
+        textAlign={{ base: "left", lg: "center" }}
         lineHeight="1.25"
         color="brand.500"
         dangerouslySetInnerHTML={{ __html: title }}
@@ -36,19 +37,29 @@ const HowItWorks = ({ data }) => {
               borderColor="dark.800"
               display="flex"
               borderRight="none"
-              alignItems="center"
+              flexDirection={{ base: "column", lg: "row" }}
+              alignItems={{ base: "flex-start", lg: "center" }}
               mt={10}
               mb={10}
               pt={5}
               pb={5}
-              pl={10}
-              pr={10}
+              pl={{ base: 6, lg: 10 }}
+              pr={{ base: 6, lg: 10 }}
             >
-              <Image w={71} mr={10} src={`/img/${item.img}`} />
+              <Box
+                w={71}
+                h={71}
+                mr={10}
+                position="relative"
+                mb={{ base: 5, lg: 0 }}
+              >
+                <Image layout="fill" objectFit="contain" src={`/img/${item.img}`} />
+              </Box>
+
               <Box>
                 <Heading
                   as="h3"
-                  fontSize={{ base: "lg", md: "lg", lg: "lg" }}
+                  fontSize={{ base: "md", md: "lg", lg: "lg" }}
                   fontWeight="bold"
                   maxW={{ base: "300px", md: "900px", lg: "900px" }}
                   mx="auto"
@@ -56,7 +67,7 @@ const HowItWorks = ({ data }) => {
                   dangerouslySetInnerHTML={{ __html: item.title }}
                 >
                 </Heading>
-                <Text fontWeight="400" maxW={{ base: "220", lg: "220" }} fontSize={{ base: "lg", md: "lg", lg: "lg" }} mt="4">
+                <Text fontWeight="400" maxW={{ base: "220", lg: "220" }} fontSize={{ base: "sm", md: "lg", lg: "lg" }} mt="4">
                   {item.description}
                 </Text>
               </Box>
@@ -67,12 +78,21 @@ const HowItWorks = ({ data }) => {
           colSpan={{ base: 6, md: 3, lg: 3 }}
           display="flex"
           alignItems="center"
-          flexDirection={{base: "column", lg: "row"}}
+          flexDirection={{ base: "column", lg: "row" }}
         >
           <Box w="100%" display={{ base: "inline-flex", md: "none", lg: "none" }} textAlign="center">
             <Link w="100%" mt={{ base: 0, md: 0, lg: 0 }} mb={{ base: 6, md: 6, lg: 6 }} as="a" type="button" colorScheme="brand" href={button.link}>{button.name}</Link>
           </Box>
-          <Image w="100%" mx="auto" src={`/img/${img}`} />
+          <Box
+            w="100%"
+            h="100%"
+            minH="246px"
+            mx="auto"
+            position="relative"
+          >
+            <Image layout="fill" objectFit="contain" src={`/img/${img}`} />
+          </Box>
+          
         </GridItem>
       </Grid>
     </Container>

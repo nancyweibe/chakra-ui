@@ -1,7 +1,8 @@
 import { useState } from 'react'
-import { Box, Container, Heading, Text, Image, Grid, GridItem, Stack, RadioGroup, Radio, Button, Input } from '@chakra-ui/react'
+import { Box, Container, Heading, Text, Grid, GridItem, Stack, RadioGroup, Radio, Button, Input } from '@chakra-ui/react'
 import Link from "../../components/Link"
 import { postData } from '../../utils'
+import Image from "next/image"
 
 const CTA = ({ data }) => {
 
@@ -25,37 +26,37 @@ const CTA = ({ data }) => {
 
   const renderForm = () => {
     return (
-        <form
-          onSubmit={onSubmit}
+      <form
+        onSubmit={onSubmit}
+      >
+        <Box mt={10} mb={4}>
+          <RadioGroup colorScheme="brand" defaultValue="filmmaker">
+            <Stack justifyContent="center" alignItems="center" mx={{ base: "auto", md: "0", lg: "0" }} direction={{ base: "column", md: "row", lg: "row" }}>
+              <Box w={{ base: "260px", md: "auto", lg: "auto" }} pr={2} pl={2}><Radio name="type" value="filmmaker">Filmmaker</Radio> </Box>
+              <Box w={{ base: "260px", md: "auto", lg: "auto" }} pr={2} pl={2}><Radio name="type" value="catalog">Channel Buyer</Radio> </Box>
+              <Box w={{ base: "260px", md: "auto", lg: "auto" }} pr={2} pl={2}><Radio name="type" value="buyer">Distributor / Sales Agent</Radio> </Box>
+            </Stack>
+          </RadioGroup>
+        </Box>
+        <Stack
+          spacing="4"
+          justifyContent="center"
+          maxW="460px"
+          mx="auto"
+          mt={{ base: 10, lg: 0 }}
+          pl={{ base: 4, lg: 0 }}
+          pr={{ base: 4, lg: 0 }}
+          direction={{
+            base: 'column',
+            md: 'row',
+          }}
         >
-          <Box mt={10} mb={4}>
-            <RadioGroup colorScheme="brand" defaultValue="filmmaker">
-              <Stack justifyContent="center" alignItems="center" mx={{base: "auto", md:"0", lg: "0"}} direction={{base: "column", md:"row", lg: "row"}}>
-                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio name="type" value="filmmaker">Filmmaker</Radio> </Box>
-                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio name="type" value="catalog">Channel Buyer</Radio> </Box>
-                <Box w={{base: "260px", md: "auto", lg: "auto"}} pr={2} pl={2}><Radio name="type" value="buyer">Distributor / Sales Agent</Radio> </Box>
-              </Stack>
-            </RadioGroup>
-          </Box>
-          <Stack
-            spacing="4"
-            justifyContent="center"
-            maxW="460px"
-            mx="auto"
-            mt={{base: 10, lg: 0}}
-            pl={{base: 4, lg: 0}}
-            pr={{base: 4, lg: 0}}
-            direction={{
-              base: 'column',
-              md: 'row',
-            }}
-          >
-            <Input required variant="light" type="email" placeholder="Your email address" />
-            <Button disabled={isProcess || isDone} colorScheme="brand" px="10" type="submit">
-              {isDone ? "Thank You" : "Subscribe"}
-            </Button>
-          </Stack>
-        </form>
+          <Input required variant="light" type="email" placeholder="Your email address" />
+          <Button disabled={isProcess || isDone} colorScheme="brand" px="10" type="submit">
+            {isDone ? "Thank You" : "Subscribe"}
+          </Button>
+        </Stack>
+      </form>
     )
   }
 
@@ -136,26 +137,46 @@ const CTA = ({ data }) => {
             <Box
               background="linear-gradient(270.27deg, rgba(178, 14, 202, 0.01) 4.48%, rgba(178, 14, 202, 0.45) 52.87%, rgba(178, 14, 202, 0) 97.38%)"
               // backdropFilter="blur(42px)"
-              borderRadius={{base: 0, md: 0, lg: "109px 31px"}}
-              mt={{ base: 52, md: 32, lg: 0 }}
-              mb={{ base: 52, md: 32, lg: 0 }}
+              borderRadius={{ base: 0, md: 0, lg: "109px 31px" }}
+              mt={{ base: 32, md: 32, lg: 0 }}
+              mb={{ base: 32, md: 32, lg: 0 }}
               pt={{ base: 0, md: 0, lg: 32 }}
               pb={{ base: 0, md: 0, lg: 32 }}
             >
               <Box display={{ base: "block", md: "block", lg: "none" }} w="100%" h="2px" background="linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.3) 100%);"></Box>
               <Grid templateColumns="repeat(12, 1fr)" gap={6}>
                 <GridItem display="flex" alignItems="center" justifyContent={{ base: "center", md: "center", lg: "flex-start" }} colSpan={{ base: 12, md: 12, lg: 3 }}>
-                  <Image
-                    marginTop={{ base: "-120px", md: "-120px", lg: "0" }}
-                    maxW="215px" src={`/img/${img1}`}
+                  <Box
+                    marginTop={{ base: "-80px", md: "-80px", lg: "0" }}
+                    w={{base: 125, lg: 215}}
+                    h={{base: 157, lg: 269}}
+                    position="relative"
                     mb={{ base: 8, md: 16, lg: 0 }}
-                  />
+                  >
+                    <Image
+                      layout="fill"
+                      objectFit="contain"
+                      src={`/img/${img1}`}
+                    />
+                  </Box>
                 </GridItem>
                 <GridItem display="flex" alignItems="center" colSpan={{ base: 12, md: 12, lg: 6 }}>
                   {renderInner()}
                 </GridItem>
                 <GridItem display="flex" alignItems="center" justifyContent={{ base: "center", md: "center", lg: "flex-end" }} colSpan={{ base: 12, md: 12, lg: 3 }}>
-                  <Image mb={{ base: "-120px", md: "-120px", lg: "0" }} mt={{ base: 8, md: 16, lg: 0 }} maxW="215px" src={`/img/${img2}`} />
+                  <Box
+                    mb={{ base: "-80px", md: "-80px", lg: "0" }}
+                    mt={{ base: 8, md: 16, lg: 0 }}
+                    w={{base: 125, lg: 215}}
+                    h={{base: 157, lg: 269}}
+                    position="relative"
+                  >
+                    <Image
+                      layout="fill"
+                      objectFit="contain"
+                      src={`/img/${img2}`}
+                    />
+                  </Box>
                 </GridItem>
               </Grid>
               <Box display={{ base: "block", md: "block", lg: "none" }} w="100%" h="2px" background="linear-gradient(to left, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.3) 100%);"></Box>
@@ -174,7 +195,7 @@ const CTA = ({ data }) => {
             <Box
               background="linear-gradient(267.32deg, rgba(255, 255, 255, 0) 6.7%, rgba(255, 255, 255, 0.12) 57.75%, rgba(255, 255, 255, 0) 93.4%)"
               // backdropFilter="blur(42px)"
-              borderRadius={{base: 0, md: 0, lg: "109px 31px"}}
+              borderRadius={{ base: 0, md: 0, lg: "109px 31px" }}
               pt={{ base: 16, md: 32, lg: 32 }}
               pb={{ base: 16, md: 32, lg: 32 }}
             >
@@ -189,7 +210,7 @@ const CTA = ({ data }) => {
         </Box>
 
       case "light-form":
-        return <Box mt={{ base: 52, md: 32, lg: 0 }} mb={{ base: 52, md: 32, lg: 0 }}>
+        return <Box mt={{ base: 32, md: 32, lg: 0 }} mb={{ base: 32, md: 32, lg: 0 }}>
           <Container p={0} maxW={{
             base: "container.xl",
             md: "container.xl",
@@ -199,23 +220,43 @@ const CTA = ({ data }) => {
             <Box
               background="linear-gradient(267.32deg, rgba(255, 255, 255, 0) 6.7%, rgba(255, 255, 255, 0.12) 57.75%, rgba(255, 255, 255, 0) 93.4%)"
               // backdropFilter="blur(42px)"
-              borderRadius={{base: 0, md: 0, lg: "109px 31px"}}
+              borderRadius={{ base: 0, md: 0, lg: "109px 31px" }}
               pt={{ base: 0, md: 0, lg: 32 }}
               pb={{ base: 0, md: 0, lg: 32 }}
             >
               <Grid templateColumns="repeat(12, 1fr)" gap={6}>
                 <GridItem display="flex" alignItems="center" justifyContent={{ base: "center", md: "center", lg: "flex-start" }} colSpan={{ base: 12, md: 12, lg: 3 }}>
-                  <Image
-                    marginTop={{ base: "-120px", md: "-120px", lg: "0" }}
-                    maxW="215px" src={`/img/${img1}`}
+                  <Box
+                    marginTop={{ base: "-80px", md: "-80px", lg: "0" }}
+                    w={{base: 125, lg: 215}}
+                    h={{base: 157, lg: 269}}
+                    position="relative"
                     mb={{ base: 8, md: 16, lg: 0 }}
-                  />
+                  >
+                    <Image
+                      layout="fill"
+                      objectFit="contain"
+                      src={`/img/${img1}`}
+                    />
+                  </Box>
                 </GridItem>
                 <GridItem display="flex" alignItems="center" colSpan={{ base: 12, md: 12, lg: 6 }}>
                   {renderInner()}
                 </GridItem>
                 <GridItem display="flex" alignItems="center" justifyContent={{ base: "center", md: "center", lg: "flex-end" }} colSpan={{ base: 12, md: 12, lg: 3 }}>
-                  <Image mb={{ base: "-120px", md: "-120px", lg: "0" }} mt={{ base: 8, md: 16, lg: 0 }} maxW="215px" src={`/img/${img2}`} />
+                  <Box
+                    mb={{ base: "-80px", md: "-80px", lg: "0" }}
+                    mt={{ base: 8, md: 16, lg: 0 }}
+                    w={{base: 125, lg: 215}}
+                    h={{base: 157, lg: 269}}
+                    position="relative"
+                  >
+                    <Image
+                      layout="fill"
+                      objectFit="contain"
+                      src={`/img/${img2}`}
+                    />
+                  </Box>
                 </GridItem>
               </Grid>
             </Box>

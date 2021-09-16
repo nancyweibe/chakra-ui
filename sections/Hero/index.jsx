@@ -1,5 +1,6 @@
-import { Box, Grid, GridItem, Container, Image, Heading, Text } from '@chakra-ui/react'
+import { Box, Grid, GridItem, Container, Heading, Text } from '@chakra-ui/react'
 import Link from "../../components/Link"
+import Image from "next/image"
 
 
 const Hero = ({ data }) => {
@@ -39,8 +40,8 @@ const Hero = ({ data }) => {
             </Box>
           </Box>
         </GridItem>
-        <GridItem mt={{ base: 20, lg: 0 }} colSpan={{ base: 6, lg: 3 }} textAlign="right" w="100%" h="100%">
-          <Image src={`/img/${img}`} alt={imgAlt} />
+        <GridItem h={{base:260, md:450, lg:510}} position="relative" mt={{ base: 20, lg: 0 }} colSpan={{ base: 6, lg: 3 }} textAlign="right" w="100%">
+          <Image layout='fill' objectFit='contain' src={`/img/${img}`} alt={imgAlt} />
         </GridItem>
       </Grid>
     </Container>

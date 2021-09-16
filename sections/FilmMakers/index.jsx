@@ -1,6 +1,7 @@
-import { Box, Container, Heading, Text, Grid, GridItem, Image } from '@chakra-ui/react'
+import { Box, Container, Heading, Text, Grid, GridItem } from '@chakra-ui/react'
 import Link from "../../components/Link"
 import styles from './animation.module.scss'
+import Image from "next/image"
 
 const FilmMakers = ({ data }) => {
 
@@ -10,11 +11,18 @@ const FilmMakers = ({ data }) => {
     return list.map((item, i) => (
       <GridItem key={`${k}mi-${i}`} colSpan={{ base: 4, md: 3, lg: 3 }} w="100%" h="100%">
         <Box display="flex" alignItems="center" justifyContent="center" borderWidth="2px" borderStyle="solid" borderColor="cover.200" borderRadius={10} w="100%" height={{ base: "80px", md: "90px", lg: "100px" }} bg="cover.100">
-          <Image
-            maxW="70%"
-            maxH="60%"
-            src={`/img/${item.img}`}
-            alt={`${item.name}`} src={`/img/${item.img}`} />
+          <Box
+            w="70%"
+            h="60%"
+            position="relative"
+          >
+            <Image
+              layout="fill"
+              objectFit="contain"
+              alt={`${item.name}`}
+              src={`/img/${item.img}`}
+            />
+          </Box>
         </Box>
       </GridItem>
     ))

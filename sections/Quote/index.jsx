@@ -1,5 +1,6 @@
-import { Box, Container, Heading, Text, Image } from '@chakra-ui/react'
+import { Box, Container, Heading, Text } from '@chakra-ui/react'
 import Icon from "../../components/Icon"
+import Image from "next/image"
 
 const Quote = ({ data }) => {
 
@@ -34,7 +35,15 @@ const Quote = ({ data }) => {
       <Text textAlign="center" fontWeight="500" fontSize={{ base: "lg", md: "2xl", lg: "2xl" }} mt="4">
         {quote}
       </Text>
-      <Image mt={10} mx="auto" maxW="200px" src={`/img/${img}`} alt={imgAlt} />
+      <Box
+        position="relative"
+        mt={10}
+        mx="auto"
+        w="200px"
+        h="60px"
+      >
+        <Image layout="fill" objectFit="contain" src={`/img/${img}`} alt={imgAlt} />
+      </Box>
     </Container>
   </Box>
 }

@@ -1,4 +1,5 @@
-import { Box, Container, Grid, Text, Image, GridItem } from '@chakra-ui/react'
+import { Box, Container, Grid, Text, GridItem } from '@chakra-ui/react'
+import Image from "next/image"
 
 const Comments = ({ data }) => {
 
@@ -52,7 +53,7 @@ const Comments = ({ data }) => {
                 borderStyle="solid"
                 borderColor="dark.800"
               >
-                <Image maxW="100%" src={`/img/${item.img}`}></Image>
+                <Image layout="fill" objectFit="contain" src={`/img/${item.img}`}></Image>
               </Box>
             </Box>
           </GridItem>
