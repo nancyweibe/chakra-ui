@@ -12,16 +12,18 @@ const CTA = ({ data }) => {
 
   const onSubmit = (e) => {
     e.preventDefault()
-
     setIsProcess(true)
+    setIsDone(false)
 
-    const formData = new FormData(e.target);
-
-    postData('https://filmhub.com/.netlify/functions/list-signup', formData)
-      .then(data => {
-        setIsDone(true)
-        setIsProcess(false)
-      });
+    fetch('/api/list-signup', {
+      method: 'POST',
+      mode: 'cors',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(Object.fromEntries(new FormData(e.target)))
+    }).then(() => {
+      setIsDone(true)
+      setIsProcess(false)
+    }).catch(error => console.log(error))
   }
 
   const renderForm = () => {
@@ -51,8 +53,8 @@ const CTA = ({ data }) => {
             md: 'row',
           }}
         >
-          <Input required variant="light" type="email" placeholder="Your email address" />
-          <Button disabled={isProcess || isDone} colorScheme="brand" px="10" type="submit">
+          <Input required variant="light" type="email" name="email" placeholder="Your email address" />
+          <Button disabled={isProcess} colorScheme="brand" px="10" type="submit">
             {isDone ? "Thank You" : "Subscribe"}
           </Button>
         </Stack>
