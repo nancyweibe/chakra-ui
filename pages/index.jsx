@@ -16,10 +16,10 @@ const Home = ({ page, scrollBar }) => {
   return (
     <>
       <Head>
-        <title>{appConfig.projectName} - {page.title}</title>
-        <meta property="og:description" content={page.description}></meta>
-        <meta name="description" content={page.description}></meta>
-        <link rel="icon" href="/img/favicon.ico" />
+        <title>Filmhub, the #1 Film Distribution Platform</title>
+        <meta property="og:description" content="Empower filmmakers to direct distribute their films around the world."></meta>
+        <meta name="description" content="Empower filmmakers to direct distribute their films around the world."></meta>
+        <link rel="icon" href="/_img/favicon.ico" />
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap" />
       </Head>
       <Bg scrollBar={scrollBar} data={appConfig.bg} />
