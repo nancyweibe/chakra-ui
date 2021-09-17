@@ -20,6 +20,7 @@ const Home = ({ page, scrollBar }) => {
         <meta property="og:description" content={page.description}></meta>
         <meta name="description" content={page.description}></meta>
         <link rel="icon" href="/img/favicon.ico" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap" />
       </Head>
       <Bg scrollBar={scrollBar} data={appConfig.bg} />
       <Box pt={{base: 16, lg: 32}} position="relative" zIndex={1}>

@@ -4,6 +4,7 @@ export default {
       "html, body": {
         color: "white",
         background: `linear-gradient(170.11deg, #111827 22.09%, #1A237E 226.92%);`,
+        fontFamily: "Inter"
       },
       a: {
         color: props.colorMode === "dark" ? "teal.300" : "teal.500",
