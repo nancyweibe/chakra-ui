@@ -1,4 +1,4 @@
-export default {
+const theme = {
   styles: {
     global: (props) => ({
       "html, body": {
@@ -196,3 +196,5 @@ export default {
     }
   },
 }
+
+export default theme

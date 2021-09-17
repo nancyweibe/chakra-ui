@@ -41,7 +41,7 @@ const Hero = ({ data }) => {
           </Box>
         </GridItem>
         <GridItem h={{base:260, md:450, lg:510}} position="relative" mt={{ base: 20, lg: 0 }} colSpan={{ base: 6, lg: 3 }} textAlign="right" w="100%">
-          <Image layout='fill' objectFit='contain' src={`/img/${img}`} alt={imgAlt} />
+          <Image layout='fill' objectFit='contain' src={`/_img/${img}`} alt={imgAlt} />
         </GridItem>
       </Grid>
     </Container>

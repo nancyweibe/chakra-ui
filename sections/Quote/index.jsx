@@ -42,7 +42,7 @@ const Quote = ({ data }) => {
         w="200px"
         h="60px"
       >
-        <Image layout="fill" objectFit="contain" src={`/img/${img}`} alt={imgAlt} />
+        <Image layout="fill" objectFit="contain" src={`/_img/${img}`} alt={imgAlt} />
       </Box>
     </Container>
   </Box>

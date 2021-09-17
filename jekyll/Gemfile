@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'jekyll', '~> 4'
+gem 'classifier-reborn'
+group :jekyll_plugins do
+  gem 'jekyll-sitemap', '~> 1.4'
+  gem 'jekyll-feed'
+  gem 'jekyll-autoprefixer', github: 'lunacodes/jekyll-autoprefixer', branch: 'patch-1'
+end

@@ -24,10 +24,10 @@ const app = {
   ],
 
   footer: {
-    copyright: "2021 Filmhub",
+    copyright: "2021 Filmhub, Inc.",
     bottomLinks: [
-      {name: "Terms", link: "#"},
-      {name: "Privacy", link: "#"},
+      { name: "Terms", link: "/terms" },
+      { name: "Privacy", link: "/privacy" },
     ],
     socialLinks: [
       {
@@ -56,16 +56,16 @@ const app = {
         title: 'Product',
         links: [
           {
-            label: 'Sign up',
+            label: 'Sign Up',
             href: 'https://app.filmhub.com/owner/signup',
           },
           {
-            label: 'Log in',
+            label: 'Sign In',
             href: 'https://app.filmhub.com/login',
           },
           {
             label: 'Blog',
-            href: 'https://filmhub.com/articles',
+            href: '/blog',
           },
         ],
       },
@@ -74,11 +74,11 @@ const app = {
         links: [
           {
             label: 'Careers',
-            href: 'https://filmhub.com/jobs/',
+            href: '/jobs',
           },
           {
             label: 'Press',
-            href: 'https://filmhub.com/press',
+            href: '/pr',
           },
         ],
       },
@@ -129,4 +129,4 @@ const app = {
   ]
 };
 
-export default app;
+export default app

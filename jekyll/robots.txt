@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /oldblog
+Disallow: /modals
+Disallow: /help
+Disallow: /thank-you.html
+Disallow: /track.html
+Sitemap: https://filmhub.com/sitemap.xml

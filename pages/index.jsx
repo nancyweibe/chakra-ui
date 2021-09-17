@@ -39,4 +39,4 @@ const Home = ({ page, scrollBar }) => {
   )
 }
 
-export default Home;
+export default Home

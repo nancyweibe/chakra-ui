@@ -20,7 +20,7 @@ const FilmMakers = ({ data }) => {
               layout="fill"
               objectFit="contain"
               alt={`${item.name}`}
-              src={`/img/${item.img}`}
+              src={`/_img/${item.img}`}
             />
           </Box>
         </Box>

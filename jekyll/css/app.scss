@@ -1,0 +1,23 @@
+---
+---
+@import "variables";
+
+// vendors
+$enable-responsive-font-sizes: true;
+$enable-gradients: true;
+@import "bootstrap/scss/bootstrap";
+
+// global page elements
+@import "navbar";
+@import "footer";
+
+// specific layouts styles
+@import "layout–post";
+@import "layout-posts";
+
+// specific page styles
+@import "page-home";
+
+// globals
+@import "globals";
+@import "cms";

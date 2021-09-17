@@ -53,7 +53,7 @@ const Comments = ({ data }) => {
                 borderStyle="solid"
                 borderColor="dark.800"
               >
-                <Image layout="fill" objectFit="contain" src={`/img/${item.img}`}></Image>
+                <Image layout="fill" objectFit="contain" src={`/_img/${item.img}`}></Image>
               </Box>
             </Box>
           </GridItem>

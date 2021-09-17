@@ -1,0 +1,99 @@
+title: Filmhub
+url: https://filmhub.com
+description: Empower filmmakers to direct distribute their films around the world.
+tagline: "The #1 film distribution platform"
+icon: https://filmhub.com/images/icon_v2_600.png
+icon_with_name: https://filmhub.com/images/filmhub_1200x630.png
+permalink: none
+sass:
+  load_paths:
+    - node_modules
+  style: compressed
+include:
+  - node_modules/jquery/dist/jquery.min.js
+  - node_modules/jquery/dist/jquery.min.map
+  - node_modules/popper.js/dist/umd/popper.min.js
+  - node_modules/popper.js/dist/umd/popper.min.js.map
+  - node_modules/bootstrap/dist/js/bootstrap.bundle.min.js
+  - node_modules/bootstrap/dist/js/bootstrap.bundle.min.js.map
+exclude:
+  - .gitpod.yml
+  - .node-version
+  - .env
+  - Brewfile
+  - Gemfile
+  - Gemfile.lock
+  - jest.config.js
+  - netlify.toml
+  - nortonsw_cb4d3fe0-1121-0.html
+  - package.json
+  - README.md
+  - yarn-error.log
+  - yarn.lock
+kramdown:
+  auto_ids: true
+  parse_block_html: true
+plugins:
+  - jekyll-sitemap
+  - jekyll-autoprefixer
+  - jekyll-feed
+# autoprefixer:
+#   only_production: true
+defaults:
+  -
+    scope:
+      path: modals
+    values:
+      sitemap: false
+  -
+    scope:
+      path: _posts
+      type: posts
+    values:
+      layout: post
+      container: true
+      offset: 2
+      category: Articles
+facebook_app_id: "1116971662127675"
+
+# Image Handler Service
+# Expects Base64 encoded hash with image information
+# Requires, image.filename, image.bucket, width, height, fit mode (cover or inside)
+# like https://dblir06cn1w4c.cloudfront.net/base64...encoded...string
+image_cdn: https://dblir06cn1w4c.cloudfront.net
+image_bucket: kinonation-imagebucket-1l7ud25lkgnrz
+jsonld:
+  "@context": https://schema.org
+  "@type": Organization
+  name: Filmhub
+  description: The alternative to the traditional film distribution industry - open, transparent, and creator-first.
+  headline: "The #1 indie film distribution platform"
+  url: https://filmhub.com
+  logo: https://filmhub.com/images/icon_v2_600.png
+  foundingDate: 2017
+  founders:
+    - "@type": Person
+      name: Klaus Badelt
+    - "@type": Person
+      name: Alan d'Escragnolle
+  address:
+    "@type": PostalAddress
+    streetAddress: 1626 Montana Ave.
+    addressLocality: Santa MOnica
+    addressRegion: CA
+    postalCode: 90403
+    addressCountry: USA
+  sameAs:
+    - https://twitter.com/filmhubhq
+    - https://facebook.com/filmhubhq
+    - https://www.facebook.com/filmhubhq
+    - https://www.youtube.com/user/kinonationfilms
+    - https://www.linkedin.com/company/filmhub/
+    - https://instagram.com/filmhubhq
+  contactPoint:
+    "@type": ContactPoint
+    url: http://help.filmhub.com
+    contactType: customer support
+    email: support@filmhub.com
+destination: ../public
+keep_files: [_img]

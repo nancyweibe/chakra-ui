@@ -156,7 +156,7 @@ const CTA = ({ data }) => {
                     <Image
                       layout="fill"
                       objectFit="contain"
-                      src={`/img/${img1}`}
+                      src={`/_img/${img1}`}
                     />
                   </Box>
                 </GridItem>
@@ -174,7 +174,7 @@ const CTA = ({ data }) => {
                     <Image
                       layout="fill"
                       objectFit="contain"
-                      src={`/img/${img2}`}
+                      src={`/_img/${img2}`}
                     />
                   </Box>
                 </GridItem>
@@ -236,7 +236,7 @@ const CTA = ({ data }) => {
                     <Image
                       layout="fill"
                       objectFit="contain"
-                      src={`/img/${img1}`}
+                      src={`/_img/${img1}`}
                     />
                   </Box>
                 </GridItem>
@@ -254,7 +254,7 @@ const CTA = ({ data }) => {
                     <Image
                       layout="fill"
                       objectFit="contain"
-                      src={`/img/${img2}`}
+                      src={`/_img/${img2}`}
                     />
                   </Box>
                 </GridItem>
