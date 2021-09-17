@@ -73,12 +73,8 @@ const app = {
         title: 'Company',
         links: [
           {
-            label: 'About',
-            href: '#',
-          },
-          {
-            label: 'Jobs',
-            href: '#',
+            label: 'Careers',
+            href: 'https://filmhub.com/jobs/',
           },
           {
             label: 'Press',

@@ -81,7 +81,7 @@ const Footer = ({ data }) => {
           </Grid>
         </GridItem>
         <GridItem colSpan={{ base: 12, md: 4, lg: 4 }}>
-          <Box>
+          {/* <Box>
             {form.title &&
               <Heading
                 as="h3"
@@ -114,7 +114,7 @@ const Footer = ({ data }) => {
               </form>
             }
 
-          </Box>
+          </Box> */}
         </GridItem>
       </Grid>
 
