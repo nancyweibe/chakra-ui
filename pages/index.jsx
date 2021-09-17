@@ -20,7 +20,6 @@ const Home = ({ page, scrollBar }) => {
         <meta property="og:description" content="Empower filmmakers to direct distribute their films around the world."></meta>
         <meta name="description" content="Empower filmmakers to direct distribute their films around the world."></meta>
         <link rel="icon" href="/_img/favicon.ico" />
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&display=swap" />
       </Head>
       <Bg scrollBar={scrollBar} data={appConfig.bg} />
       <Box pt={{base: 16, lg: 32}} position="relative" zIndex={1}>
