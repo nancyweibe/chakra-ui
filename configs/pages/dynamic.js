@@ -14,7 +14,7 @@ export const pages = [
 
     quote: {
       title: "Join thousands of filmmakers distributing strong, fresh films & shows made for an audience",
-      quote: "… dynamic disruptor in the film distribution space",
+      quote: "A dynamic disruptor in the film distribution space.",
       img: "variety.svg",
       imgAlt: "Variety"
     },
