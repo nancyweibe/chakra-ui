@@ -13,7 +13,6 @@ const CTA = ({ data }) => {
   const onSubmit = (e) => {
     e.preventDefault()
     setIsProcess(true)
-    setIsDone(false)
 
     fetch('/api/list-signup', {
       method: 'POST',
@@ -21,16 +20,16 @@ const CTA = ({ data }) => {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(Object.fromEntries(new FormData(e.target)))
     }).then(() => {
-      setIsDone(true)
       setIsProcess(false)
+      setIsDone(true)
+      setTimeout(() => setIsDone(false), 3_000)
+      e.target.reset()
     }).catch(error => console.log(error))
   }
 
   const renderForm = () => {
     return (
-      <form
-        onSubmit={onSubmit}
-      >
+      <form onSubmit={onSubmit}>
         <Box mt={10} mb={4}>
           <RadioGroup colorScheme="brand" defaultValue="filmmaker">
             <Stack justifyContent="center" alignItems="center" mx={{ base: "auto", md: "0", lg: "0" }} direction={{ base: "column", md: "row", lg: "row" }}>
@@ -53,9 +52,9 @@ const CTA = ({ data }) => {
             md: 'row',
           }}
         >
-          <Input required variant="light" type="email" name="email" placeholder="Your email address" />
+          <Input required isDisabled={isProcess} variant="light" type="email" name="email" placeholder="Your email address" />
           <Button disabled={isProcess} colorScheme="brand" px="10" type="submit">
-            {isDone ? "Thank You" : "Subscribe"}
+            {isDone ? "Thank You!" : "Subscribe"}
           </Button>
         </Stack>
       </form>
