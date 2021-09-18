@@ -53,7 +53,7 @@ const HowItWorks = ({ data }) => {
                 position="relative"
                 mb={{ base: 5, lg: 0 }}
               >
-                <Image layout="fill" objectFit="contain" src={`/_img/${item.img}`} />
+                <Image width={71} height={71} src={`/_img/${item.img}`} />
               </Box>
 
               <Box>
@@ -90,7 +90,7 @@ const HowItWorks = ({ data }) => {
             mx="auto"
             position="relative"
           >
-            <Image layout="fill" objectFit="contain" src={`/_img/${img}`} />
+            <Image width={484} height={592} src={`/_img/${img}`} />
           </Box>
           
         </GridItem>

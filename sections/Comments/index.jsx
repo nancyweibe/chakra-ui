@@ -9,9 +9,9 @@ const Comments = ({ data }) => {
       lg: "1100px",
 
     }}>
-      <Grid templateColumns="repeat(6, 1fr)" gap={{base:5, md:20, lg: 100}}>
+      <Grid templateColumns="repeat(6, 1fr)" gap={{ base: 5, md: 20, lg: 100 }}>
         {data.map((item, i) => (
-          <GridItem key={`ci-${i}`} colSpan={{ base: 6, lg: 3 }} pt={{base:10, md:10, lg: 0}} pb={{base:10, md:10, lg: 0}}>
+          <GridItem key={`ci-${i}`} colSpan={{ base: 6, lg: 3 }} pt={{ base: 10, md: 10, lg: 0 }} pb={{ base: 10, md: 10, lg: 0 }}>
             <Box
               display="flex"
               flexDirection="column"
@@ -32,7 +32,7 @@ const Comments = ({ data }) => {
               <Text fontWeight="500" fontSize={{ base: "sm", md: "lg", lg: "lg" }}>
                 {item.comment}
               </Text>
-              <Box pr={{base: 20, lg: 0}}>
+              <Box pr={{ base: 20, lg: 0 }}>
                 <Box mt="6" mb="6" width="30%" height="1px" background="white"></Box>
                 <Text fontWeight="700" fontSize={{ base: "sm", md: "lg", lg: "lg" }} mb="1">
                   {item.author}
@@ -53,7 +53,10 @@ const Comments = ({ data }) => {
                 borderStyle="solid"
                 borderColor="dark.800"
               >
-                <Image layout="fill" objectFit="contain" src={`/_img/${item.img}`}></Image>
+                <Image
+                  width={114}
+                  height={114}
+                  src={`/_img/${item.img}`}></Image>
               </Box>
             </Box>
           </GridItem>

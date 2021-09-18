@@ -155,8 +155,8 @@ const CTA = ({ data }) => {
                     mb={{ base: 8, md: 16, lg: 0 }}
                   >
                     <Image
-                      layout="fill"
-                      objectFit="contain"
+                      width={215}
+                      height={269}
                       src={`/_img/${img1}`}
                     />
                   </Box>
@@ -173,8 +173,8 @@ const CTA = ({ data }) => {
                     position="relative"
                   >
                     <Image
-                      layout="fill"
-                      objectFit="contain"
+                      width={215}
+                      height={269}
                       src={`/_img/${img2}`}
                     />
                   </Box>
@@ -235,8 +235,8 @@ const CTA = ({ data }) => {
                     mb={{ base: 8, md: 16, lg: 0 }}
                   >
                     <Image
-                      layout="fill"
-                      objectFit="contain"
+                      width={215}
+                      height={269}
                       src={`/_img/${img1}`}
                     />
                   </Box>
@@ -253,8 +253,8 @@ const CTA = ({ data }) => {
                     position="relative"
                   >
                     <Image
-                      layout="fill"
-                      objectFit="contain"
+                      width={215}
+                      height={269}
                       src={`/_img/${img2}`}
                     />
                   </Box>

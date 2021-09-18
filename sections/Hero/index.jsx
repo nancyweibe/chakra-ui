@@ -20,7 +20,7 @@ const Hero = ({ data }) => {
               as="h1"
               fontSize={{ base: "4xl", md: "6xl", lg: "6xl" }}
               fontWeight="black"
-              maxW={{ base: "16rem", md: "27rem", lg: "27rem" }}
+              maxW={{ base: "16rem", md: "28rem", lg: "28rem" }}
               lineHeight="1.25"
               dangerouslySetInnerHTML={{ __html: title }}
             >
@@ -41,7 +41,7 @@ const Hero = ({ data }) => {
           </Box>
         </GridItem>
         <GridItem h={{base:260, md:450, lg:510}} position="relative" mt={{ base: 20, lg: 0 }} colSpan={{ base: 6, lg: 3 }} textAlign="right" w="100%">
-          <Image layout='fill' objectFit='contain' src={`/_img/${img}`} alt={imgAlt} />
+          <Image width={612} height={510} src={`/_img/${img}`} alt={imgAlt} />
         </GridItem>
       </Grid>
     </Container>
