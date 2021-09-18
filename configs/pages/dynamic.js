@@ -1,8 +1,8 @@
 export const pages = [
   {
     link: "/",
-    title: "Home",
-    description: "Filmhub",
+    title: "Filmhub, the #1 Film Distribution Platform",
+    description: "Empower filmmakers to direct distribute their films around the world.",
 
     hero: {
       title: "Distribution for <strong>every film</strong>",
@@ -168,6 +168,72 @@ export const pages = [
           title: "Get Automated Reporting and Transparent Payments",
           description: "We only get paid when you do, so we chase down channels, get you reports, and pay you on time—every single quarter.",
         }
+      ]
+    },
+  },
+  {
+    link: "/channelbuyers",
+    title: "Filmhub, the #1 Film Distribution Platform",
+    description: "Empower filmmakers to direct distribute their films around the world.",
+
+    hero: {
+      title: "Licensing great cinema should be as <span>simple as choosing what to watch.</span>",
+      description: "Browse our catalog. Click to license. Stream fresh, amazing cinema. Return for more. We’ll handle the rest.",
+      button: {name: "Let’s Talk", link: "https://cal.mixmax.com/jenniferniessen/30", variant:"secondary"},
+      img: "hero-channelbuyers.png",
+      imgAlt: "Hero image Channel buyers",
+      variant: "channelbuyers"
+    },
+
+    channelBuyers: {
+      description: "Channel Buyers from Amazon Prime Video, IMDb TV, Tubi, TCL, Kanopy, Hoopla, Plex, The Roku Channel, and <strong>100+ streaming channels use Filmhub to discover fresh, amazing titles from global filmmakers.</strong>",
+      list: [
+        {name: "Nuella TV", img: "nuella-tv.svg"},
+        {name: "Christian Channel", img: "christian-channel.svg"},
+        {name: "Filmzie", img: "filmzie.svg"},
+        {name: "BingeHorror", img: "bingehorror.svg"},
+        {name: "Vyre", img: "vyre.png"},
+        {name: "Dekkoo", img: "dekkoo.svg"},
+        {name: "Filmocracy", img: "filmocracy.svg"},
+        {name: "POV Horror", img: "pov-horror.svg"},
+        {name: "Qello Concerts", img: "qello-concerts.svg"},
+        {name: "Gaia", img: "gaia.svg"},
+        {name: "Plex", img: "plex.png"},
+        {name: "Rlaxx", img: "rlaxx.png"},
+        {name: "Dove Channel", img: "dove-channel.svg"},
+        {name: "FandangoNOW", img: "fandango-now-stacked.svg"},
+        {name: "Zuzu", img: "zuzu.png"},
+        {name: "Moodbox", img: "moodbox.png"},
+        {name: "Caliber", img: "caliber.png"},
+        {name: "Pantaflix", img: "pantaflix.svg"},
+        {name: "Revry", img: "revry.svg"},
+        {name: "ONEHUBTV", img: "onehub-tv.svg"},
+        {name: "Millennium TV", img: "millenium-tv.png"},
+        {name: "The Roku Channel", img: "roku-channel-vertical-traced.svg"},
+        {name: "Amazon Prime Video US", img: "amazon-prime-video-us.svg"},
+        {name: "Xumo", img: "xumo.svg"},
+        {name: "SocialClubTV", img: "social-club-tv.png"},
+        {name: "TubiTV", img: "tubitv.svg"},
+        {name: "IMDb TV", img: "imdb-tv.png"},
+        {name: "Apple TV App", img: "apple-tv-app.png"},
+        {name: "Google TV", img: "google-tv-vertical.svg"},
+        {name: "FlexnetTV", img: "flexnet.png"},
+        {name: "Hoopla", img: "hoopla.svg"},
+        {name: "Kanopy", img: "kanopy.svg"},
+        {name: "Overdrive", img: "overdrive.png"},
+        {name: "Q0sm", img: "qosm.png"},
+        {name: "ConTV", img: "contv.svg"},
+        {name: "Christian Cinema", img: "christian-cinema.svg"},
+        {name: "TGXLive", img: "tgx-live.png"},
+        {name: "GuideDoc", img: "guidedoc.svg"},
+        {name: "GayBingeTV", img: "gaybingetv.png"},
+        {name: "Conscious Good", img: "conscious-good.svg"},
+        {name: "Telus", img: "telus.svg"},
+        {name: "Saltflix", img: "saltflix.png"},
+        {name: "Vuuzle", img: "vuuzle.png"},
+        {name: "PlayNow Media", img: "playnow-media.png"},
+        {name: "FreebieTV", img: "freebie-tv.png"},
+        {name: "Apple TV App", img: "apple-tv-app.png"},
       ]
     },
   },

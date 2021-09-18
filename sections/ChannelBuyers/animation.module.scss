@@ -1,0 +1,35 @@
+.animation {
+  transform: translate3d(0, 0, 0);
+  -webkit-animation: vertical-scroll 30s linear infinite;
+  animation: vertical-scroll 30s linear infinite;
+
+  @media only screen and (max-width: 720px) {
+    -webkit-animation: vertical-scroll-m 70s linear infinite;
+    animation: vertical-scroll-m 70s linear infinite;
+  }
+}
+
+.img {
+  @media only screen and (max-width: 720px) {
+    width: 80px !important;
+    height: 50px !important;
+  }
+}
+
+@keyframes vertical-scroll {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(0, -50.30%, 0);
+  }
+}
+
+@keyframes vertical-scroll-m {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(0, -74.50%, 0);
+  }
+}

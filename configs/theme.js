@@ -3,7 +3,7 @@ const theme = {
     global: (props) => ({
       "html, body": {
         color: "white",
-        background: `linear-gradient(170.11deg, #111827 22.09%, #1A237E 226.92%);`,
+        background: `dark.900`,
       },
       a: {
         color: props.colorMode === "dark" ? "teal.300" : "teal.500",
@@ -59,11 +59,25 @@ const theme = {
     },
     cover: {
       100: "#dcdddf",
-      200: "#9ea1a8"
+      200: "#9ea1a8",
+      300: "#F4F7FA",
+      400: "#E5E5E5",
     },
     col: {
       100: "#328ca3",
       200: "#B20ECA",
+    },
+    secondary: {
+      50: '#ffe4ff',
+      100: '#f5b5fd',
+      200: '#ea87f9',
+      300: '#e157f4',
+      400: '#d728f0',
+      500: '#B20ECA',
+      600: '#9309a8',
+      700: '#6a0478',
+      800: '#41014a',
+      900: '#19001d',
     }
   },
   components: {
@@ -81,7 +95,7 @@ const theme = {
         },
       },
       variants: {
-        "radialPrimary":{
+        "radialPrimary": {
           padding: 0,
           height: "30px",
           width: "30px",
@@ -124,6 +138,14 @@ const theme = {
             backgroundPosition: "100% center",
           }
         },
+        "secondary": {
+          bg: "col.200",
+          color: "white",
+
+          _hover: {
+            bg: "brand.500",
+          }
+        },
       },
     },
     Heading: {
@@ -136,6 +158,10 @@ const theme = {
           color: "transparent",
           animation: "shine 10s linear infinite",
           animationDelay: "0s"
+        },
+        span: {
+          fontWeight: 900,
+          color: "secondary.500"
         }
       },
       sizes: {

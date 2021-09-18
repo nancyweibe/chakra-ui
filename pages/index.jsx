@@ -16,23 +16,25 @@ const Home = ({ page, scrollBar }) => {
   return (
     <>
       <Head>
-        <title>Filmhub, the #1 Film Distribution Platform</title>
-        <meta property="og:description" content="Empower filmmakers to direct distribute their films around the world."></meta>
-        <meta name="description" content="Empower filmmakers to direct distribute their films around the world."></meta>
+        <title>{page.title}</title>
+        <meta property="og:description" content={page.description}></meta>
+        <meta name="description" content={page.description}></meta>
         <link rel="icon" href="/_img/favicon.ico" />
       </Head>
-      <Bg scrollBar={scrollBar} data={appConfig.bg} />
-      <Box pt={{base: 16, lg: 32}} position="relative" zIndex={1}>
-        <Hero data={page.hero} />
-        <Quote data={page.quote} />
-        <FilmMakers data={page.filmmakers} />
-        <Box pt={10} pb={10}><CTA data={page.CtaChannelBuyers} /></Box>
-        <Box pt={{ base: 0, md: 0, lg: 10 }} pb={{ base: 0, md: 0, lg: 10 }}><HowItWorks data={page.howItWorks} /></Box>
-        <Box pt={{ base: 0, md: 10, lg: 10 }} pb={{ base: 0, md: 16, lg: 32 }}><Comments data={page.comments} /></Box>
-        <Box pt={{ base: 10, md: 10, lg: 10 }} pb={{ base: 0, md: 10, lg: 10 }}><CTA data={page.stayInTouch} /></Box>
-        <Box pt={{ base: 0, md: 0, lg: 10 }} pb={{ base: 0, md: 0, lg: 10 }}><Features data={page.features} /></Box>
-        <Box pt={10} pb={{ base: 16, lg: 32 }}><CTA data={page.distributors} /></Box>
-        <Footer data={appConfig.footer} />
+      <Box background="linear-gradient(170.11deg, #111827 22.09%, #1A237E 226.92%)">
+        <Bg scrollBar={scrollBar} data={appConfig.bg} />
+        <Box pt={{ base: 16, lg: 32 }} position="relative" zIndex={1}>
+          <Hero data={page.hero} />
+          <Quote data={page.quote} />
+          <FilmMakers data={page.filmmakers} />
+          <Box pt={10} pb={10}><CTA data={page.CtaChannelBuyers} /></Box>
+          <Box pt={{ base: 0, md: 0, lg: 10 }} pb={{ base: 0, md: 0, lg: 10 }}><HowItWorks data={page.howItWorks} /></Box>
+          <Box pt={{ base: 0, md: 10, lg: 10 }} pb={{ base: 0, md: 16, lg: 32 }}><Comments data={page.comments} /></Box>
+          <Box pt={{ base: 10, md: 10, lg: 10 }} pb={{ base: 0, md: 10, lg: 10 }}><CTA data={page.stayInTouch} /></Box>
+          <Box pt={{ base: 0, md: 0, lg: 10 }} pb={{ base: 0, md: 0, lg: 10 }}><Features data={page.features} /></Box>
+          <Box pt={10} pb={{ base: 16, lg: 32 }}><CTA data={page.distributors} /></Box>
+          <Footer data={appConfig.footer} />
+        </Box>
       </Box>
     </>
   )
