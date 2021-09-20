@@ -13,7 +13,7 @@ export const pages = [
     },
 
     quote: {
-      title: "Join thousands of filmmakers distributing strong, fresh films & shows made for an audience",
+      title: "Join top filmmakers distributing strong, fresh films & shows made for an audience",
       quote: "A dynamic disruptor in the film distribution space.",
       img: "variety.svg",
       imgAlt: "Variety"
