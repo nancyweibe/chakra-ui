@@ -10,7 +10,17 @@ const FilmMakers = ({ data }) => {
   const renderImgs = (k) => {
     return list.map((item, i) => (
       <GridItem key={`${k}mi-${i}`} colSpan={{ base: 4, md: 3, lg: 3 }} w="100%" h="100%">
-        <Box display="flex" alignItems="center" justifyContent="center" borderWidth="2px" borderStyle="solid" borderColor="cover.200" borderRadius={10} w="100%" height={{ base: "80px", md: "90px", lg: "100px" }} bg="cover.100">
+        <Box
+          display="flex"
+          alignItems="center"
+          justifyContent="center"
+          borderStyle="none"
+          borderRadius={10}
+          w="100%"
+          height={{ base: "80px", md: "90px", lg: "100px" }}
+          bg="white"
+          opacity={0.8}
+        >
           <Box
             w="70%"
             h="60%"
