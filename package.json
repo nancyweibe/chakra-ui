@@ -21,7 +21,8 @@
     "react-icons": "^4.2.0",
     "react-smooth-scrollbar": "^8.0.6",
     "sass": "^1.37.5",
-    "smooth-scrollbar": "^8.6.0"
+    "smooth-scrollbar": "^8.6.0",
+    "swiper": "^7.0.6"
   },
   "devDependencies": {
     "eslint": "7.32.0",
