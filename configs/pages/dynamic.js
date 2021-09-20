@@ -5,7 +5,7 @@ export const pages = [
     description: "Empower filmmakers to direct distribute their films around the world.",
 
     hero: {
-      title: "Distribution for <strong>every film</strong>",
+      title: "Film Distribution <strong>Simplified</strong>",
       description: "Stream to new audiences worldwide. Make money. Maintain your rights.",
       button: { name: "Get Started", link: "https://app.filmhub.com/owner/signup", varianr: "primary-effect", label: "It's Free!" },
       img: "hero-img.png",
@@ -132,7 +132,7 @@ export const pages = [
           img: "hw-2.svg"
         },
         {
-          title: "Get paid",
+          title: "Get Paid",
           description: "Receive 80% of all revenue your titles generate.",
           img: "hw-3.svg"
         }
@@ -153,7 +153,7 @@ export const pages = [
           description: "Once you list, our technology automatically markets your title to the most relevant buyers. No sales agent or distributors necessary.",
         },
         {
-          title: "Reach Relevant Channel Buyers.",
+          title: "Reach Relevant Channel Buyers",
           description: "Get your completed film, series, or short to the right decision-makers.",
         },
         {
