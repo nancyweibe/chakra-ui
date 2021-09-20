@@ -35,14 +35,14 @@ const Hero = ({ data }) => {
                     dangerouslySetInnerHTML={{ __html: title }}
                   >
                   </Heading>
-                   <Text
-                    fontSize={{ base: "sm", md: "xl", lg: "2xl" }}
-                    mx={{base: "0", md: "auto", lg: "auto"}}
-                    mt="6"
-                    fontWeight={500}
-                    maxW={{ base: "270px", md: "360px", lg: "800px" }}>
-                    {description}
-                  </Text>
+                    <Text
+                      fontSize={{ base: "sm", md: "xl", lg: "2xl" }}
+                      mx={{base: "0", md: "auto", lg: "auto"}}
+                      mt="6"
+                      fontWeight={500}
+                      maxW={{ base: "270px", md: "360px", lg: "800px" }}>
+                      {description}
+                    </Text>
                   <Box display="flex" justifyContent="center" mt={10} >
                     <Link width={{ base: "100%", md:"auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>
                   </Box>
@@ -83,7 +83,7 @@ const Hero = ({ data }) => {
                       base: 'flex',
                       md: 'none',
                     }} as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey" w="full" mt="5">
-                      Sign In
+                      Login
                     </Link>
                   </Box>
                 </Box>
