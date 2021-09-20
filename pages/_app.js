@@ -8,6 +8,8 @@ import Navbar from "../sections/NavbarWithSubmenu/index"
 import themeShema from "../configs/theme"
 import Loader from "../components/Loader"
 
+import 'swiper/swiper.scss'
+import 'swiper/components/lazy/lazy.scss'
 import '../styles/global.scss'
 
 const theme = extendTheme(themeShema)

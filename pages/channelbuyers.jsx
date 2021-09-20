@@ -3,6 +3,8 @@ import Head from 'next/head'
 import appConfig from "../configs/appConfig"
 import Hero from "../sections/Hero"
 import ChannelB from "../sections/ChannelBuyers"
+import Columns from "../sections/Columns"
+import Carousel from "../sections/Carousel"
 import Footer from "../sections/Footer"
 
 const ChannelBuyers = ({ page }) => {
@@ -19,6 +21,8 @@ const ChannelBuyers = ({ page }) => {
         <Box position="relative" zIndex={1}>
           <Hero data={page.hero} />
           <ChannelB data={page.channelBuyers}/>
+          <Columns data={page.columns}/>
+          <Carousel data={page.howItWorks}/>
           <Footer data={appConfig.footer} />
         </Box>
       </Box>

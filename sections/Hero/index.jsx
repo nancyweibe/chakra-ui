@@ -16,7 +16,7 @@ const Hero = ({ data }) => {
           backgroundSize="2330px 1704px"
           backgroundRepeat="no-repeat"
           pt={{ base: 32, md: 60, lg: 80 }}
-          pb={{ base: 32, md: 60, lg: 80 }}>
+          pb={{ base: 80, md: 80, lg: 80 }}>
           <Container maxW={{
             base: "container.sm",
             lg: "container.xl",
