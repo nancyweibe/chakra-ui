@@ -53,8 +53,8 @@ const FilmMakers = ({ data }) => {
       ml={{ base: "10px", md: "25px", lg: "100px" }}
       position="relative"
       zIndex={3}
-      background="rgba(244, 247, 250, 0.1)"
-      backdropFilter="blur(30px)"
+      background="rgba(244, 247, 250, 0.2)"
+      // backdropFilter="blur(30px)"
       borderRadius="60px"
       boxShadow="0px 18px 52px rgba(0, 0, 0, 0.03)"
       p={{ base: 4, md: 4, lg: 7 }}

@@ -1,14 +1,18 @@
 import { Box, Container, Grid, Text, GridItem, Heading } from '@chakra-ui/react'
 import Image from "next/image"
 import { Swiper, SwiperSlide } from "swiper/react"
+import { FreeMode } from "swiper"
 
 const Carousel = ({ data }) => {
 
   const { title, description, posters } = data
 
   const options = {
+    modules: [FreeMode],
     spaceBetween: 14,
-    freeMode: true,
+    freeMode: {
+      enabled: true,
+    },
     loop: false,
     slidesPerView: 'auto',
   }
@@ -57,8 +61,31 @@ const Carousel = ({ data }) => {
       >
         {description}
       </Text>
-      <Box mt={20}>
-        <Swiper onSwiper={(swiper) => swiper.setTranslate(-100)} translate={100} {...options}>
+      <Box mt={20} position="relative"
+        _after={{
+          content: '""',
+          position: "absolute",
+          left: 0,
+          top: 0,
+          width: "100px",
+          height: "100%",
+          zIndex: 2,
+          pointerEvents: "none",
+          bg: "linear-gradient(270deg, rgba(0, 0, 0, 0) 0.32%, rgba(0, 0, 0, 0.41) 74.24%)"
+        }}
+        _before={{
+          content: '""',
+          position: "absolute",
+          right: 0,
+          top: 0,
+          width: "100px",
+          height: "100%",
+          zIndex: 2,
+          pointerEvents: "none",
+          bg: "linear-gradient(270deg, rgba(0, 0, 0, 0.41) 0%, rgba(0, 0, 0, 0) 74%)"
+        }}
+      >
+        <Swiper onSwiper={(swiper) => { setTimeout(() => { swiper.setTranslate(-100) }, 300) }} {...options}>
           {posters.map((item, i) => (
             <SwiperSlide style={{ width: 'auto' }} key={`ci-${i}`}>
               <Box borderRadius="20px" overflow="hidden" width={250}>

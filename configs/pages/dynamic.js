@@ -316,6 +316,37 @@ export const pages = [
         { name: "Women Filmmakers", img: "p24.jpg", alt: "The Pink Chateau", color: "#a5af29" },
         { name: "Summertime", img: "p25.jpg", alt: "Xolo", color: "#68abff" },
       ]
-    }
+    },
+    streamingChannel: {
+      title: "Streaming Channel <span>Partnership Plans</span>",
+      btnLabel :"Interested?",
+      button: {
+        name: "Let’s Talk",
+        link: "https://cal.mixmax.com/jenniferniessen/30",
+        variant: "secondary"
+      },
+      columns: [
+        {
+          title: "Startup",
+          img: "rocket.svg",
+          list: [
+            {name: "No Monthly Revenue Share Minimum Required to Qualify"},
+            {name: "Dedicated Account Manager"},
+            {name: "Monthly Subscription Fee to Filmhub: $500/month"},
+            {name: "Revenue Share on Licensed titles:", list: ["SVOD & AVOD $0.20 per viewed hour", "TVOD 80/20 Split Filmhub/Channel"]},
+          ]
+        },
+        {
+          title: "Enterprise",
+          img: "company.svg",
+          list: [
+            {name: "Monthly Revenue Share Minimum to Qualify: $10K"},
+            {name: "Dedicated Account Manager"},
+            {name: "Monthly Subscription Fee to Filmhub: $500/month"},
+            {name: "Revenue Share on licensed titles: Custom"},
+          ]
+        }
+      ]
+    }    
   },
 ]

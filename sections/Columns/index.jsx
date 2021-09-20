@@ -28,7 +28,7 @@ const Columns = ({ data }) => {
         dangerouslySetInnerHTML={{ __html: title }}
       >
       </Heading>
-      <Grid templateColumns="repeat(12, 1fr)" gap={{ base: 5, md: 10, lg: 100 }}>
+      <Grid templateColumns="repeat(12, 1fr)" gap={{ base: 5, md: 10, lg: 20,  xl: 100 }}>
         {list.map((item, i) => (
           <GridItem key={`cfi-${i}`} colSpan={{ base: 12, md: 6, lg: 4 }}>
             <Box 

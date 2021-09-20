@@ -5,6 +5,7 @@ import Hero from "../sections/Hero"
 import ChannelB from "../sections/ChannelBuyers"
 import Columns from "../sections/Columns"
 import Carousel from "../sections/Carousel"
+import StreamingChannel from "../sections/StreamingChannel"
 import Footer from "../sections/Footer"
 
 const ChannelBuyers = ({ page }) => {
@@ -23,6 +24,7 @@ const ChannelBuyers = ({ page }) => {
           <ChannelB data={page.channelBuyers}/>
           <Columns data={page.columns}/>
           <Carousel data={page.howItWorks}/>
+          <StreamingChannel data={page.streamingChannel}/>
           <Footer data={appConfig.footer} />
         </Box>
       </Box>

@@ -9,6 +9,8 @@ import themeShema from "../configs/theme"
 import Loader from "../components/Loader"
 
 import 'swiper/css'
+import 'swiper/css/free-mode'
+
 import '../styles/global.scss'
 
 const theme = extendTheme(themeShema)
