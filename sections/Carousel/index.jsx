@@ -71,6 +71,7 @@ const Carousel = ({ data }) => {
           height: "100%",
           zIndex: 2,
           pointerEvents: "none",
+          display:{base: "none", lg: "block"},
           bg: "linear-gradient(270deg, rgba(0, 0, 0, 0) 0.32%, rgba(0, 0, 0, 0.41) 74.24%)"
         }}
         _before={{
@@ -82,6 +83,7 @@ const Carousel = ({ data }) => {
           height: "100%",
           zIndex: 2,
           pointerEvents: "none",
+          display:{base: "none", lg: "block"},
           bg: "linear-gradient(270deg, rgba(0, 0, 0, 0.41) 0%, rgba(0, 0, 0, 0) 74%)"
         }}
       >
