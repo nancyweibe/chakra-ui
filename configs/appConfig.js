@@ -60,12 +60,8 @@ const app = {
             href: 'https://app.filmhub.com/owner/signup',
           },
           {
-            label: 'Sign In',
+            label: 'Login',
             href: 'https://app.filmhub.com/login',
-          },
-          {
-            label: 'Blog',
-            href: '/blog',
           },
         ],
       },
@@ -77,8 +73,8 @@ const app = {
             href: '/jobs',
           },
           {
-            label: 'Press',
-            href: '/pr',
+            label: 'Blog',
+            href: '/blog',
           },
         ],
       },

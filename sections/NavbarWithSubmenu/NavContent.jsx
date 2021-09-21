@@ -49,7 +49,7 @@ const MobileNavContext = (props) => {
           Get Started
         </Link>
         <Link as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey" w="full" mt="5">
-          Sign In
+          Login
         </Link>
       </NavMenu>
     </>
@@ -79,7 +79,7 @@ const DesktopNavContent = (props) => {
           Get Started
         </Link>
         <Link as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey">
-          Sign In
+          Login
         </Link>
       </HStack>
     </Flex>
