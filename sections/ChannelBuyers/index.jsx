@@ -44,7 +44,7 @@ const FilmMakers = ({ data }) => {
       w="100%"
       height="100%"
       bg="linear-gradient(270.12deg, rgba(195, 129, 219, 0) 1.85%, rgba(78, 146, 249, 0.112) 25.9%, rgba(78, 146, 249, 0.1184) 62.14%, rgba(195, 129, 219, 0) 96.91%)"
-      backdropFilter="blur(117px)"
+      // backdropFilter="blur(117px)"
     >
     </Box>
     <Box
