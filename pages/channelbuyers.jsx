@@ -6,6 +6,7 @@ import ChannelB from "../sections/ChannelBuyers"
 import Columns from "../sections/Columns"
 import Carousel from "../sections/Carousel"
 import StreamingChannel from "../sections/StreamingChannel"
+import Faq from "../sections/Faq"
 import Footer from "../sections/Footer"
 
 const ChannelBuyers = ({ page }) => {
@@ -25,6 +26,7 @@ const ChannelBuyers = ({ page }) => {
           <Columns data={page.columns}/>
           <Carousel data={page.howItWorks}/>
           <StreamingChannel data={page.streamingChannel}/>
+          <Faq data={page.faq}/>
           <Footer data={appConfig.footer} />
         </Box>
       </Box>

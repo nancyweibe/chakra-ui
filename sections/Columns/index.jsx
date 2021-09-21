@@ -14,7 +14,7 @@ const Columns = ({ data }) => {
   >
     <Container maxW={{
       base: "container.sm",
-      lg: "container.lg",
+      lg: "container.xl",
 
     }}>
       <Heading

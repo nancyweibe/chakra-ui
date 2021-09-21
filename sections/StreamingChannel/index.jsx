@@ -11,13 +11,29 @@ const Comments = ({ data }) => {
     position="relative"
     pt={{ base: 16, md: 32, lg: 32 }}
   >
+    <Box
+      position="absolute"
+      left="0"
+      bottom="-400px"
+      width="303px"
+      pointerEvents="none"
+      zIndex="1"
+      height="800px"
+    >
+      <Image
+        width={303}
+        height={800}
+        src={`/_img/circle-bg-violet.png`}>
+
+      </Image>
+    </Box>
     <Box position="absolute" w="100%" h="100%" minH="575px" top="0" left="0">
       <Box
         h="575px"
         bg="url(/_img/bg-2.png), linear-gradient(170.11deg, #111827 22.09%, #1A237E 166.11%, rgba(26, 35, 126, 0) 226.92%)"
         backgroundRepeat="no-repeat, no-repeat"
         backgroundSize="2313px 950px, 100% 100%"
-        backgroundPosition={{base: "top -200px left 0px, center center", lg: "top -200px center, center center"}}
+        backgroundPosition={{ base: "top -200px left 0px, center center", lg: "top -200px center, center center" }}
         pt={{ base: 32, md: 32, lg: 32 }}
       >
       </Box>
@@ -41,10 +57,10 @@ const Comments = ({ data }) => {
       </Heading>
       <Container maxW={{
         base: "container.sm",
-        lg: "1100px",
+        lg: "container.lg",
 
       }}>
-        <Grid pl={{base: 3, lg: 0}} pr={{base: 3, lg: 0}} templateColumns="repeat(6, 1fr)" gap={{ base: 0, md: 0, lg: 10 }}>
+        <Grid pl={{ base: 3, lg: 0 }} pr={{ base: 3, lg: 0 }} templateColumns="repeat(6, 1fr)" gap={{ base: 0, md: 0, lg: 10 }}>
           {columns.map((item, i) => (
             <GridItem key={`ci-${i}`} colSpan={{ base: 6, lg: 3 }} pt={{ base: 6, md: 10, lg: 0 }} pb={{ base: 6, md: 10, lg: 0 }}>
               <Box
@@ -54,20 +70,39 @@ const Comments = ({ data }) => {
                 background="rgba(244, 247, 250, 0.2)"
                 // backdropFilter="blur(30px)"
                 borderRadius="40px"
+                overflow="hidden"
                 border="2px solid rgba(255, 255, 255, 0.6)"
                 boxShadow="0px 21px 32px rgba(0, 0, 0, 0.06)"
                 p={{ base: 4, md: 4, lg: 4 }}
+                position="relative"
               >
+
+                <Box
+                  background="rgba(244, 247, 250, 0.5)"
+                  filter="blur(30px)"
+                  borderRadius="40px"
+                  overflow="hidden"
+                  backgroundClip="border-box"
+                  position="absolute"
+                  top="0"
+                  left="0"
+                  w="100%"
+                  h="100%"
+                >
+                </Box>
+
                 <Box
                   borderRadius="30px"
                   bg="white"
                   h="100%"
+                  position="relative"
+                  zIndex="2"
                   p={{ base: 8, md: 8, lg: 8 }}
                 >
                   <Box display="flex" alignItems="center">
                     <Box
-                      width={{base: "57px", lg: "93px"}}
-                      height={{base: "57px", lg: "93px"}}
+                      width={{ base: "57px", lg: "93px" }}
+                      height={{ base: "57px", lg: "93px" }}
                     >
                       <Image
                         width={93}
@@ -125,7 +160,7 @@ const Comments = ({ data }) => {
           dangerouslySetInnerHTML={{ __html: btnLabel }}
         >
         </Heading>
-        <Box pb={{base:16, lg: 32}} display="flex" justifyContent="center" mt={5} >
+        <Box pb={{ base: 16, lg: 32 }} display="flex" justifyContent="center" mt={5} >
           <Link width={{ base: "auto", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>
         </Box>
       </Container>

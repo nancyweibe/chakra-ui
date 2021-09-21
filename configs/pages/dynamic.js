@@ -347,6 +347,36 @@ export const pages = [
           ]
         }
       ]
-    }    
+    },
+    faq: {
+      title: "FAQs",
+      img: "faq-bg.png",
+      list: [
+        {
+          question: "What titles are available to Streaming Channel Partners?",
+          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+        },
+        {
+          question: "Do I need to inquire about rights availability for specific titles?",
+          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+        },
+        {
+          question: "How are titles delivered?",
+          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+        },
+        {
+          question: "What are the reporting requirements?",
+          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+        },
+        {
+          question: "I only work with upfront licenses. Does Filmhub support that?",
+          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+        },
+        {
+          question: "Can I see Filmhub’s catalog before becoming a Channel Partner?",
+          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+        }
+      ]
+    }
   },
 ]

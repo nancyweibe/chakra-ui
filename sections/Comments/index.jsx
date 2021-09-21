@@ -6,7 +6,7 @@ const Comments = ({ data }) => {
   return <Box pt={{ base: 8, md: 8, lg: 8 }} pb={{ base: 0, md: 8, lg: 8 }}>
     <Container maxW={{
       base: "container.sm",
-      lg: "1100px",
+      lg: "container.lg",
 
     }}>
       <Grid templateColumns="repeat(6, 1fr)" gap={{ base: 5, md: 20, lg: 100 }}>

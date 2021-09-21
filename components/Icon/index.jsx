@@ -28,8 +28,22 @@ const Icon = ({ variant, className, fill }) => {
         </svg>
 
       case "dot":
-        return <svg fill="currentColor" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"  viewBox="0 0 11 11">
+        return <svg fill="currentColor" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 11 11">
           <circle cx="5.5" cy="5.5" r="5.5" />
+        </svg>
+
+      case "plus":
+        return <svg fill="currentColor" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 14 14">
+          <g>
+            <path id="icon_x2F_content_x2F_add_x5F_24px" d="M14,8H8v6H6V8H0V6h6V0h2v6h6V8z" />
+          </g>
+        </svg>
+
+      case "minus":
+        return <svg fill="currentColor" width="1em" height="1em" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 14 2">
+          <g>
+            <path id="icon_x2F_content_x2F_remove_x5F_24px" d="M14,2H0V0h14V2z" />
+          </g>
         </svg>
 
       case "warning":

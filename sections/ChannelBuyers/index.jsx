@@ -53,15 +53,31 @@ const FilmMakers = ({ data }) => {
       ml={{ base: "10px", md: "25px", lg: "100px" }}
       position="relative"
       zIndex={3}
-      background="rgba(244, 247, 250, 0.2)"
+      //background="rgba(244, 247, 250, 0.2)"
       // backdropFilter="blur(30px)"
       borderRadius="60px"
+      overflow="hidden"
       boxShadow="0px 18px 52px rgba(0, 0, 0, 0.03)"
       p={{ base: 4, md: 4, lg: 7 }}
     >
       <Box
+        background="rgba(244, 247, 250, 0.5)"
+        filter="blur(30px)"
+        borderRadius="60px"
+        overflow="hidden"
+        backgroundClip="border-box"
+        position="absolute"
+        top="0"
+        left="0"
+        w="100%"
+        h="100%"
+      >
+      </Box>
+      <Box
         borderRadius="40px"
         bg="cover.300"
+        position="relative"
+        zIndex="2"
         pt={{ base: 10, md: 24, lg: 32 }}
         pb={{ base: 10, md: 24, lg: 32 }}
       >
@@ -114,7 +130,7 @@ const FilmMakers = ({ data }) => {
     >
       <Container maxW={{
         base: "container.sm",
-        lg: "container.lg",
+        lg: "container.xl",
       }}>
         <Grid templateColumns="repeat(6, 1fr)" gap={{ base: 5, md: 20, lg: 100 }}>
           {comments.map((item, i) => (

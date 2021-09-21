@@ -68,6 +68,7 @@ const theme = {
     dark: {
       900: "#111827",
       800: "#979aa5",
+      400: "#CBD4E1",
     },
     cover: {
       100: "#dcdddf",
