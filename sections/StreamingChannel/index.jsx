@@ -76,21 +76,6 @@ const Comments = ({ data }) => {
                 p={{ base: 4, md: 4, lg: 4 }}
                 position="relative"
               >
-
-                <Box
-                  background="rgba(244, 247, 250, 0.5)"
-                  filter="blur(30px)"
-                  borderRadius="40px"
-                  overflow="hidden"
-                  backgroundClip="border-box"
-                  position="absolute"
-                  top="0"
-                  left="0"
-                  w="100%"
-                  h="100%"
-                >
-                </Box>
-
                 <Box
                   borderRadius="30px"
                   bg="white"
