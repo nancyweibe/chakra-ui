@@ -4,7 +4,7 @@ title: Listen to Writer-Director Shaun Mathis on the First Episode of the
   Forward Filmmaker Podcast
 author: Katie Sanders
 category: Articles
-date: 2021-09-23T06:49:02.988Z
+date: 2021-09-22T06:49:02.988Z
 image: /images/blog/shaun-20episode-201linkedin_landscape__1_.png
 ---
 Welcome to the first episode of [the Forward Filmmaker Podcast](https://podcasts.apple.com/us/podcast/forward-filmmaker/id1586069490), which shares stories and advice from a new generation of filmmakers bucking "traditional" industry norms. In this episode, host Max Sanders interviews award-winning writer-director Shaun Mathis. A former novelist who went to Atlanta on a whim after watching Entourage and pivoting into film, he has directed everything from crime features to documentaries to rom-coms. He has worked on 34 film projects…just in the last year.
