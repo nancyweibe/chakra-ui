@@ -5,6 +5,7 @@ backend:
   repo: filmhubhq/filmhub-new
   branch: main
 media_folder: 'jekyll/images/blog'
+public_folder: '/images/blog'
 collections:
   - name: 'posts'
     label: 'Posts'
