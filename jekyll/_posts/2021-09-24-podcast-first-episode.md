@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Listen to Writer-Director Shaun Mathis on the First Episode of the Forward Filmmaker Podcast
+title: Listen to Writer-Director Shaun Mathis on the First Episode of the
+  Forward Filmmaker Podcast
 author: Katie Sanders
 category: Articles
-date: 2021-09-24T00:00:00.000Z
-image: /images/blog/shaun-episode-1-linkedin_landscape.png
+date: 2021-09-28T00:00:00.000Z
+image: /images/blog/forward-filmmaker-episode-1-web.jpg
 ---
 Welcome to the first episode of [the Forward Filmmaker Podcast](https://podcasts.apple.com/us/podcast/forward-filmmaker/id1586069490), which shares stories and advice from a new generation of filmmakers bucking "traditional" industry norms. In this episode, host Max Sanders interviews award-winning writer-director Shaun Mathis. A former novelist who went to Atlanta on a whim after watching Entourage and pivoting into film, he has directed everything from crime features to documentaries to rom-coms. He has worked on 34 film projects…just in the last year. 
 
-<div style="width: 100%; height: 170px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/ce0c3f2d-abd6-4760-8cff-a9a0d45d7719"></iframe></div>
+<iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/ce0c3f2d-abd6-4760-8cff-a9a0d45d7719"></iframe>
 
 If you want to tune in as we release new episodes and support Shaun and the show, please subscribe, rate, and review [Forward Filmmaker](https://podcasts.apple.com/us/podcast/forward-filmmaker/id1586069490) on [Apple](https://podcasts.apple.com/us/podcast/forward-filmmaker/id1586069490), [Spotify](https://open.spotify.com/show/0o9RaOMdDLQBVV72LCEafF?si=sAtehLWDR4-ByJTMa-0fpw&dl_branch=1&nd=1), [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5jYXB0aXZhdGUuZm0vZm9yd2FyZC1maWxtbWFrZXItYnktZmlsbWh1Yg), [Amazon](https://music.amazon.com/podcasts/5c787ed3-00e2-4bf8-b8d0-975b2d73871b/forward-filmmaker), or wherever you get your podcasts. Here's an abridged transcript of Max and Shaun's conversation. 
 
