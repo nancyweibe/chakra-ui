@@ -96,4 +96,6 @@ jsonld:
     contactType: customer support
     email: support@filmhub.com
 destination: ../public
-keep_files: [_img]
+keep_files: 
+  - _img
+  - admin

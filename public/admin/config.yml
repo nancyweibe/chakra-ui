@@ -4,8 +4,11 @@ backend:
   gateway_url: "https://unruffled-archimedes-c4fc4d.netlify.app/.netlify/git"
   repo: filmhubhq/website
   branch: main
-media_folder: 'jekyll/images/blog'
-public_folder: '/images/blog'
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 9bd8b116dcfaf2bfa466
+    defaultOperations: '/-/resize/1460x/'
 collections:
   - name: 'posts'
     label: 'Posts'
@@ -25,7 +28,12 @@ collections:
         options: [Articles, Press, Updates]
         default: Articles
       - { label: 'Publish Date', name: 'date', widget: 'date' }
-      - { label: 'Featured Image', name: 'image', widget: 'image' }
+      - label: 'Featured Image'
+        name: 'image'
+        widget: 'image'
+        media_library:
+          config:
+            defaultOperations: '/-/preview/1920x1080/'
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'one-sheets'
     label: 'One-Sheets'

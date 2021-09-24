@@ -36,5 +36,6 @@ yarn-error.log*
 # Jekyll
 /public/*
 !/public/_img
+!/public/admin
 .jekyll-cache
 .bundle
