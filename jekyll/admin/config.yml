@@ -4,11 +4,11 @@ backend:
   gateway_url: "https://unruffled-archimedes-c4fc4d.netlify.app/.netlify/git"
   repo: filmhubhq/filmhub-new
   branch: main
-media_folder: 'images/blog'
+media_folder: 'jekyll/images/blog'
 collections:
   - name: 'posts'
     label: 'Posts'
-    folder: '_posts/'
+    folder: 'jekyll/_posts/'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     preview_path: '/{{category}}/{{slug}}'
@@ -28,7 +28,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'one-sheets'
     label: 'One-Sheets'
-    folder: 'one-sheets/'
+    folder: 'jekyll/one-sheets/'
     create: true
     editor:
       preview: true
@@ -38,7 +38,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown', minimal: true }
   - name: 'jobs'
     label: 'Jobs'
-    folder: 'jobs/_posts'
+    folder: 'jekyll/jobs/_posts'
     create: true
     editor:
       preview: true
@@ -74,7 +74,7 @@ collections:
     files:
       - label: Privacy Policy
         name: privacy
-        file: /privacy.md
+        file: /jekyll/privacy.md
         editor:
           preview: false
         fields:
@@ -86,7 +86,7 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown', minimal: true }
       - label: Terms & Conditions
         name: terms
-        file: /terms.md
+        file: /jekyll/terms.md
         editor:
           preview: false
         fields:
