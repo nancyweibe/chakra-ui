@@ -1,5 +1,8 @@
 backend:
   name: git-gateway
+  identity_url: "https://unruffled-archimedes-c4fc4d.netlify.app/.netlify/identity"
+  gateway_url: "https://unruffled-archimedes-c4fc4d.netlify.app/.netlify/git"
+  repo: filmhubhq/filmhub-new
   branch: main
 media_folder: 'images/blog'
 collections:
