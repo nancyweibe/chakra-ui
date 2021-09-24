@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   identity_url: "https://unruffled-archimedes-c4fc4d.netlify.app/.netlify/identity"
   gateway_url: "https://unruffled-archimedes-c4fc4d.netlify.app/.netlify/git"
-  repo: filmhubhq/filmhub-new
+  repo: filmhubhq/website
   branch: main
 media_folder: 'jekyll/images/blog'
 public_folder: '/images/blog'
