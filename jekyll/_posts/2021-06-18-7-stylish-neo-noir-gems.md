@@ -4,11 +4,11 @@ title: 7 Stylish Neo-Noir Gems
 author: Keju Luo
 category: Articles
 date: 2021-06-18T21:19:39.249Z
-image: /images/blog/7-neo-noir.jpg
+image: https://ucarecdn.com/ccb8d349-dfd0-4f9e-a927-abddd0001b3b/
 ---
 > After decades of cross-pollinating with various genres and absorbing filmmaking traditions of other countries, the original definition of "noir" as 40s Hollywood crime dramas has become something trickier to define, but evermore fascinating. With many 21st century auteurs making their dent in the genre, we are now in a golden age of neo-noir. Here are 7 neo-noir gems in the Filmhub catalog.
 
-![Motif](/images/blog/motif.jpg "Motif")
+![Motif](https://ucarecdn.com/2fe303b9-836c-4c62-9884-abf3f8797161/-/resize/1460x/-/format/auto/-/quality/smart/ "Motif")
 
 ## Motif
 
@@ -20,7 +20,7 @@ image: /images/blog/7-neo-noir.jpg
 
 **Where to stream it:** Coming soon
 
-![In The Land Of Lost Angels](/images/blog/in-the-land-of-the-lost-angels.jpg "In The Land Of Lost Angels")
+![In The Land Of Lost Angels](https://ucarecdn.com/c0a0f6b6-314b-437e-9893-c4a08fc87b8a/-/resize/1460x/-/format/auto/-/quality/smart/ "In The Land Of Lost Angels")
 
 ## In The Land Of Lost Angels
 
@@ -32,7 +32,7 @@ image: /images/blog/7-neo-noir.jpg
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Land-Lost-Angels-Iveel-Mashbat/dp/B08V5479VG/)
 
-![Hello Gangster](/images/blog/hello-gangster.jpg "Hello Gangster")
+![Hello Gangster](https://ucarecdn.com/5d4633ae-c4ff-4610-91cf-0ff522ba7fae/-/resize/1460x/-/format/auto/-/quality/smart/ "Hello Gangster")
 
 ## Hello Gangster
 
@@ -44,7 +44,7 @@ image: /images/blog/7-neo-noir.jpg
 
 **Where to stream it:** [Tubi](https://tubitv.com/movies/499733/hello-gangster) \| [Xumo](https://www.xumo.tv/channel/9999727/xumo-free-movies?v=XM0DHDLV2E17LD&p=8649)
 
-![Dragonfly](/images/blog/dragonfly.png "Dragonfly")
+![Dragonfly](https://ucarecdn.com/317ae0df-eb85-4409-a263-c7bbed152b7f/-/resize/1460x/-/format/auto/-/quality/smart/ "Dragonfly")
 
 ## Dragonfly
 
@@ -56,7 +56,7 @@ image: /images/blog/7-neo-noir.jpg
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Dragonfly-Andrew-Tiernan/dp/B01CKMOHMW/) \| [FandangoNOW](https://www.fandangonow.com/details/movie/dragonfly-2016/MMVCE19180BE117B70325D5863BA34C7F8AD)
 
-![Peter Pan](/images/blog/peter-pan.jpg "Peter Pan")
+![Peter Pan](https://ucarecdn.com/9a1b907f-d25e-4793-b328-f94e6588d3e0/-/resize/1460x/-/format/auto/-/quality/smart/ "Peter Pan")
 
 ## R.L. Allman's "Peter Pan"
 
@@ -68,7 +68,7 @@ image: /images/blog/7-neo-noir.jpg
 
 **Where to stream it:** [Amazon](https://www.amazon.com/R-L-Allmans-Peter-Pan-Wynton/dp/B087BLR5MX/)
 
-![Korsan](/images/blog/korsan.png "Korsan")
+![Korsan](https://ucarecdn.com/6c75c270-502c-470d-9a28-d4d41b1ca828/-/resize/1460x/-/format/auto/-/quality/smart/ "Korsan")
 
 ## Korsan
 
@@ -80,7 +80,7 @@ image: /images/blog/7-neo-noir.jpg
 
 **Where to stream it:** [Plex](https://watch.plex.tv/movie/korsan)
 
-![Siegfried Teitelbaum](/images/blog/why-siegfried-teitelbaum-had-to-die.png "Siegfried Teitelbaum")
+![Siegfried Teitelbaum](https://ucarecdn.com/3a4c8077-f512-4195-bd8d-d1f4388be38c/-/resize/1460x/-/format/auto/-/quality/smart/ "Siegfried Teitelbaum")
 
 ## Why Siegfried Teitelbaum Had To Die
 

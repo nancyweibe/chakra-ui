@@ -2,7 +2,7 @@
 title: "Access earnings, download statements, and transfer to PayPal "
 author: Klaus Badelt
 category: Updates
-image: /images/blog/announcing-money.png
+image: https://ucarecdn.com/5dba343c-9bb3-4717-b5f1-935471b7a656/
 tags: Payments Analytics Distribution
 date: 2020-04-14T21:35:49.452Z
 ---

@@ -4,7 +4,7 @@ title: "Filmmaker Success Story: Marianne Hettinger"
 author: Filmhub
 category: Articles
 date: 2018-12-12T22:08:44.314Z
-image: /images/blog/independent-filmmaker-success-story-marianne-hettinger.png
+image: https://ucarecdn.com/51cf510d-0a99-43c0-98bc-4e174e540e4c/
 ---
 Marianne came to New York City from Germany at 19, with $800 dollars, scholarships, and a decisive desire to follow in Gene Kelly’s footsteps. She starred in recurring TV roles on CVS dramas, became a ballroom champion, developed and stared in her first original work at 20 year-old off-off Broadway and even tangoed with [Antonio Banderas on The Late Show with David Letterman](<https://www.youtube.com/watch?v=AQfJ50zIQXU),%25C2%25A0after>), before she directed her first feature in 2009.
 

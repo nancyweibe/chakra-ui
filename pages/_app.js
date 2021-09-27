@@ -7,6 +7,7 @@ import { extendTheme, ChakraProvider } from "@chakra-ui/react"
 import Navbar from "../sections/NavbarWithSubmenu/index"
 import themeShema from "../configs/theme"
 import Loader from "../components/Loader"
+import PlausibleProvider from 'next-plausible'
 
 import 'swiper/css'
 import 'swiper/css/free-mode'
@@ -27,13 +28,17 @@ function App({ Component, pageProps }) {
     }, 500)
   }, [])
 
-  return <ChakraProvider theme={theme}>
-    <Navbar scrollBar={scrollBar} />
-    {/* <ScrollBarWrapper onInit={setScrollBar}> */}
-    <Loader isLoaded={isLoaded}/>
-    <Component {...pageProps} page={page} scrollBar={scrollBar} />
-    {/* </ScrollBarWrapper> */}
-  </ChakraProvider>
+  return (
+    <PlausibleProvider domain="filmhub.com" trackOutboundLinks={true}>
+      <ChakraProvider theme={theme}>
+        <Navbar scrollBar={scrollBar} />
+        {/* <ScrollBarWrapper onInit={setScrollBar}> */}
+        <Loader isLoaded={isLoaded}/>
+        <Component {...pageProps} page={page} scrollBar={scrollBar} />
+        {/* </ScrollBarWrapper> */}
+      </ChakraProvider>
+    </PlausibleProvider>
+  )
 }
 
 export default App

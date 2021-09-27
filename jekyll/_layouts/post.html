@@ -14,14 +14,17 @@ layout: bootstrap
 {% if page.image %}
 <div class="mb-5">
   <img
+    src="{{ page.image }}-/resize/730x/-/quality/smart/-/format/auto/"
+    srcset="{{ page.image }}-/resize/1460x/-/quality/smart_retina/-/format/auto/ 2x"
+    loading="lazy" 
     class="img-fluid rounded" 
     alt="{{ post.title }}"
-    src="{{ page.image }}/-/resize/730x/"
-    srcset="{{ page.image }}/-/resize/1460x/-/quality/lightest/ 2x">
+  >
 </div>
 {% endif %}
-
-{{ content }}
+<main>
+  {{ content }}
+</main>
 
 <ul class="list-inline my-4 my-md-5">
   <li class="list-inline-item">
@@ -44,20 +47,20 @@ layout: bootstrap
 {% for post in related_posts limit: 6 %}
   <div class="col my-4">
     <div class="card h-100">
-      <div class="card-body">
-        <h6 class="card-title">
-          <a href="{{ post.url }}" class="stretched-link">{{ post.title }}</a>
-        </h6>
-      </div>
       {% if post.image %}
-      <div class="embed-responsive embed-responsive-21by9">
-        <img loading="lazy" src="{{ post.image }}/-/scale-crop/447x192/smart/" class="card-img-bottom embed-responsive-item" alt="{{ post.title }}">
-      </div>
+      <img 
+        src="{{ post.image }}-/scale_crop/224x96/smart/-/quality/smart/-/format/auto/" 
+        srcset="{{ post.image }}-/scale_crop/448x192/smart/-/quality/smart/-/format/auto/ 2x" 
+        loading="lazy" 
+        class="card-img-top" 
+        alt="{{ post.title }}"
+      >
       {% endif %}
-      <!-- <p class="card-footer d-flex justify-content-between">
-        <small class="text-muted">{{ post.author }}&nbsp; • &nbsp;{{ post.date | date_to_string: "ordinal", "US" }}</small>
-        <span class="badge badge-light text-capitalize">{{ post.categories | join: "," }}</span>
-      </p> -->
+      <div class="card-body">
+        <div class="card-text">
+          <a href="{{ post.url }}" class="stretched-link">{{ post.title }}</a>
+        </div>
+      </div>
     </div>
   </div>
 {% endfor %}

@@ -4,7 +4,7 @@ author: Alan d'Escragnolle
 category: Articles
 tags:
   - Film Distribution
-image: /images/blog/tvod-windowing.png
+image: https://ucarecdn.com/674774a1-a9ef-448d-be73-0bf33ee719ea/
 layout: post
 ---
 TVOD windowing strategy does not work for 95%+ of Independent Films. Yes, I said it.

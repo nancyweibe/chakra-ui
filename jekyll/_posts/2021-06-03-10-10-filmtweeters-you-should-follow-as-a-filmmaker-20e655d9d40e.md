@@ -6,7 +6,7 @@ category: Articles
 tags:
   - Filmmaking
 date: 2017-12-18T21:44:05.104Z
-image: /images/blog/10-filmtweeters-you-should-follow-as-a-filmmaker-20e655d9d40e.png
+image: https://ucarecdn.com/737a1e89-1cb7-4efb-9015-e80fe3d32738/
 ---
 Whether you are looking to get daily inspiration, receive filmmaking advice, discover new film festivals and marketing opportunities, or simply follow a new personality; Twitter offers a wide range of content and influencers for anyone’s preferences.
 

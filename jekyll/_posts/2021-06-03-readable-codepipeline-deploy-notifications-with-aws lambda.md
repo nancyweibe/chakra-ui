@@ -6,7 +6,7 @@ category: Articles
 tags:
   - Code
 date: 2020-04-02T21:54:41.897Z
-image: /images/blog/readable-codepipeline-deploy-notifications-with-aws-lambda-d3c8fd215cc7.png
+image: https://ucarecdn.com/ef80391b-f791-4d0e-8ec1-d8dbfb2552b5/
 ---
 - - -
 
@@ -58,7 +58,7 @@ All that’s left is the actual SNS topic. Here I’m subscribed to receive depl
 
 To summarize how this works:
 
-![](/images/blog/readable-codepipeline-deploy-notifications-with-aws-lambda-d3c8fd215cc7-1.png)
+https://ucarecdn.com/e0fc534b-5cbd-4614-b998-8dd566cbbe02/-/resize/1460x/-/format/auto/-/quality/smart/)
 
 1. A `git push` to Github (or CodeCommit) starts a CodePipeline deploy
 2. This fires a CloudWatch event rule which invokes our Lambda function

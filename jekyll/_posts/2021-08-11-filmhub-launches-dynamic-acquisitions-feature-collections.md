@@ -4,7 +4,7 @@ title: Filmhub Launches Dynamic Acquisitions Feature 'Collections'
 author: Alan d'Escragnolle
 category: Press
 date: 2021-08-11T20:40:42.343Z
-image: /images/blog/screen-shot-2021-08-11-at-2.04.30-pm.png
+image: https://ucarecdn.com/78b0a34e-bf71-48eb-b971-e35a780dce6d/
 ---
 Santa Monica, CA - Filmhub, the dynamic disruptor in the film distribution space, is excited to announce their new product, Collections which helps Channel buyers explore Filmhub's extensive content library of over 10,000 titles. In addition, Channel buyers can now sort Filmhub's catalog with the new feature by various categories such as topic, theme, periods, places, and influences. This is all built on top of Filmhub's industry-defining licensing platform that allows buyers to license a film and receive delivery of the assets in one click.
 

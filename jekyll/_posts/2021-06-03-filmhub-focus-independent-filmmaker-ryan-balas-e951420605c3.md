@@ -4,7 +4,7 @@ title: "Filmmaker Success Story: Ryan Balas"
 author: Filmhub
 category: Articles
 date: 2018-04-23T20:14:44.014Z
-image: /images/blog/filmhub-focus-independent-filmmaker-ryan-balas-e951420605c3.png
+image: https://ucarecdn.com/9f1225f2-4e9e-4d15-b43d-f8775c38fb77/
 ---
 Independent filmmakers don’t exactly have a time tested blueprint for how to get their art into the world in this rapidly changing digital content environment. While Filmhub has never promised all the answers, smart content owners have been able to leverage the B2B Marketplace to their advantage. Ryan Balas is one such filmmaker.
 

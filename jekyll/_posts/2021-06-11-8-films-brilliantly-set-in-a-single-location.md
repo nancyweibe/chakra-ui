@@ -4,11 +4,11 @@ title: 8 Films Brilliantly Set in a Single Location
 author: Keju Luo
 category: Articles
 date: 2021-06-16T17:42:55.708Z
-image: /images/blog/single-loacation.jpg
+image: https://ucarecdn.com/96f53dfa-85d8-40ed-af55-18c4b88e3ac5/
 ---
 > Lockdown has come to an end for good in the U.S. (hopefully), and we honor the peculiar times of entrapment and isolation with this special feature. Setting an entire film in one location is a creative challenge to put it lightly. From [12 Angry Men (1957)](https://www.themoviedb.org/movie/389-12-angry-men) to [Saw (2004)](https://www.themoviedb.org/movie/176-saw?language=en-US) to the latest Bo Burnham film, [Inside](https://www.themoviedb.org/movie/823754-inside-bo-burnham), made during the lockdown, filmmakers over the years have brilliantly turned such confinement into great strength across all genres. Here are 8 single-location films from the Filmhub catalog.  
 
-![Bedroom Story](/images/blog/single-location-films-bedroom_story.jpg)
+![Bedroom Story](https://ucarecdn.com/6e5431b7-3fd1-4056-ab29-d505832b3fef/)
 
 ## Bedroom Story
 
@@ -20,7 +20,7 @@ image: /images/blog/single-loacation.jpg
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Bedroom-Story-Annie-Cavalero/dp/B08NDP5SG6) | [Tubi](https://tubitv.com/movies/565773/bedroom-story)
 
-![Our House for the Weekend](/images/blog/single-location-films-our_hour_for_the_weekend.png)
+![Our House for the Weekend](https://ucarecdn.com/a433ed03-ea91-4563-babe-43caef6155ea/)
 
 ## Our House for the Weekend
 
@@ -32,7 +32,7 @@ image: /images/blog/single-loacation.jpg
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Our-House-Weekend-Dee-Herlihy/dp/B0742J72S5) | [Tubi](https://tubitv.com/movies/577133/our-house-for-the-weekend)
 
-![Hippopotamus](/images/blog/single-location-films-hippopotamus.jpg)
+![Hippopotamus](https://ucarecdn.com/cb417641-677d-4099-bf57-8db24489db10/)
 
 ## Hippopotamus
 
@@ -44,7 +44,7 @@ image: /images/blog/single-loacation.jpg
 
 **Where to stream it:** [Amazon UK](https://www.amazon.co.uk/Hippopotamus-Ingvild-Deila/dp/B087TC1DL5)
 
-![Midnight Delight](/images/blog/single-location-films-midnight_delight.jpeg)
+![Midnight Delight](https://ucarecdn.com/1dd19781-85ce-40fc-8d56-924c64f0c6a4/)
 
 ## Midnight Delight
 
@@ -68,7 +68,7 @@ image: /images/blog/single-loacation.jpg
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Down-There-Heaven-Roger-Bonjour/dp/B087C16ZV7) | [Tubi](https://tubitv.com/movies/555581/down-there-in-heaven)
 
-![Something](/images/blog/single-location-films-something.jpg)
+![Something](https://ucarecdn.com/19b40361-c182-4305-bd92-a2d3d885ebbd/)
 
 ## Something
 
@@ -80,7 +80,7 @@ image: /images/blog/single-loacation.jpg
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Something-Michael-Gazin/dp/B07LFJFL7Q) | [Xumo](https://www.xumo.tv/channel/9999734/free-horror-and-thriller-movies?v=XM0BUAVBXQ6AWH&p=27662)
 
-![Back Four](/images/blog/single-location-films-back_four.jpeg)
+![Back Four](https://ucarecdn.com/e6ac3318-bd0d-4a78-b45b-ee2394b6fd46/)
 
 ## Back Four
 
@@ -92,7 +92,7 @@ image: /images/blog/single-loacation.jpg
 
 **Where to stream it:** [Xumo](https://www.xumo.tv/channel/9999733/free-comedy-movies?v=XM0S0XRDNE0KZJ&p=11098)
 
-![Sampan](/images/blog/single-location-films-sampan.jpg)
+![Sampan](https://ucarecdn.com/77fe713e-b12a-40d3-9706-c856a1ed73be/)
 
 ## Sampan
 

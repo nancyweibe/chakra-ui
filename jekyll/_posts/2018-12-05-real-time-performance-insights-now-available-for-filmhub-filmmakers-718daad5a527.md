@@ -4,7 +4,7 @@ title: Real Time Performance Insights Now Available For Filmhub Filmmakers
 author: Filmhub
 category: Updates
 date: 2018-12-05T20:53:31.823Z
-image: /images/blog/real-time-performance-insights-now-available-for-filmhub-filmmakers.png
+image: https://ucarecdn.com/1fa41eff-4462-41d2-bf23-fcfdbe8b9e4b/
 ---
 Access your titles’ performances in real time on Filmhub.
 
@@ -18,7 +18,7 @@ Performance Insights also provide filtering tools, allowing drill-down into vari
 
 ### Visualize performance
 
-![](/images/blog/real-time-performance-insights-now-available-for-filmhub-filmmakers-1.png "The Revenue Graph")
+https://ucarecdn.com/d7046727-b198-49a6-a32b-7d8c1d165cc5/-/resize/1460x/-/format/auto/-/quality/smart/ "The Revenue Graph")
 
 The Revenue graph helps you analyze how your content is performing over time. It can be used, for example, to anticipate performance trends or confirm the impact of promotional campaigns, creating short feedback loops for your marketing and planning efforts.
 
@@ -26,13 +26,13 @@ When combined with filters, the Revenue graph can get more specific. For example
 
 ### Key metrics
 
-![](/images/blog/real-time-performance-insights-now-available-for-filmhub-filmmakers-2.png "Your Key Metrics")
+https://ucarecdn.com/a0ca2188-1bd1-47d7-9941-04b7d17e7416/-/resize/1460x/-/format/auto/-/quality/smart/ "Your Key Metrics")
 
 Performance Insights metrics give you quick access to key metrics of your titles. Quickly see how wide your titles are released, viewed, and generating revenue. Metrics are dynamically updated based on your current filter settings, so you can drill down without losing the overview.
 
 ### Filters
 
-![](/images/blog/real-time-performance-insights-now-available-for-filmhub-filmmakers-3.png "Search Fields")
+https://ucarecdn.com/8587ccf9-d679-49d2-a761-30db697ad8ed/-/resize/1460x/-/format/auto/-/quality/smart/ "Search Fields")
 
 Performance Insights’ search fields allow you to drill down into different levels of detail. Follow the performance of specific titles, or within a certain time period or territory.
 
@@ -40,11 +40,11 @@ Performance Insights’ search fields allow you to drill down into different lev
 
 You can also see your Performance as a table, either summarized by month:
 
-![](/images/blog/real-time-performance-insights-now-available-for-filmhub-filmmakers-4.png)
+https://ucarecdn.com/88f85d25-9854-4f61-ae14-4c5cb76aac12/-/resize/1460x/-/format/auto/-/quality/smart/)
 
 or as a detailed view down to the individual view:
 
-![](/images/blog/real-time-performance-insights-now-available-for-filmhub-filmmakers-5.png)
+https://ucarecdn.com/9893546d-87ad-42ab-b9f0-4552609ebf1b/-/resize/1460x/-/format/auto/-/quality/smart/)
 
 ### The film industry data layer
 

@@ -4,7 +4,7 @@ title: Activity monitoring and streaming service profile
 author: Filmhub
 category: Updates
 date: 2018-01-17T22:13:43.258Z
-image: /images/blog/product-update-activity-monitoring-and-streaming-service-profile-4096396405ef.png
+image: https://ucarecdn.com/ffa2f83c-0e3c-44e5-b56f-ad8097d6ef84/
 ---
 Here’s a glance on a couple new features we recently added that will help you better monitor and manage your content.
 
@@ -14,11 +14,11 @@ You can now monitor what’s happening with your title after submission from bot
 
 In the title list on your dashboard, we’ve added a new “Selected by” column that shows streaming services that have selected the title.
 
-![](/images/blog/product-update-activity-monitoring-and-streaming-service-profile-4096396405ef-1.png)
+https://ucarecdn.com/ea1b8cf8-79a2-4e7a-832c-3e59727f2ee3/-/resize/1460x/-/format/auto/-/quality/smart/)
 
 To see the full activity feed, click on a title to open the title view, then scroll down to “Activity”.
 
-![](/images/blog/product-update-activity-monitoring-and-streaming-service-profile-4096396405ef-2.gif)
+https://ucarecdn.com/5513917f-0546-4627-bf4d-7eaac52e32bf/-/resize/1460x/-/format/auto/-/quality/smart/)
 
 More info in our [Help Center article](http://help.filmhub.com/en/articles/2663781-monitoring-title-status).
 
@@ -28,4 +28,4 @@ We also added a [list of all streaming services](https://app.filmhub.com/owner/o
 
 Click on a streaming service to find more details — including their respective go live time, curation policy, and payment structure.
 
-![](/images/blog/product-update-activity-monitoring-and-streaming-service-profile-4096396405ef-3.gif)
+https://ucarecdn.com/f910ce24-1189-48ef-a4eb-f9fef74beb76/-/resize/1460x/-/format/auto/-/quality/smart/)

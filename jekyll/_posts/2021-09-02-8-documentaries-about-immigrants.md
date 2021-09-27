@@ -8,11 +8,11 @@ image: https://ucarecdn.com/dc5706d0-aa90-4153-9231-0532a328aa5c/
 ---
 > "Nationality is a Western concept. It was an invention of Western European scholars, who ever since have struggled to explain it", Jewish Austrian writer Joseph Roth wrote in 1927. Almost a century later, things make even less sense as we find ourselves in an increasingly turbulent and polarized world with nationalism on the rise pretty much everywhere. Through it all, migration remains a significant issue, and filmmakers have always taken a major role in the conversation. Here are 8 documentaries about the immigrant experience.
 
-![Reunification](https://ucarecdn.com/18104aca-0974-4167-af39-17f3e09fe075/ "Reunification")
+![Reunification](https://ucarecdn.com/18104aca-0974-4167-af39-17f3e09fe075/-/resize/1460x/-/format/auto/-/quality/smart/ "Reunification")
 
 ## Reunification
 
-*Directed by Alvin Tsang | Documentary | 2015 | 85 mins | United States*
+_Directed by Alvin Tsang | Documentary | 2015 | 85 mins | United States_
 
 **Synopsis:** Filmed over a 17 year period, director Alvin Tsang reflects on his family’s migration from Hong Kong to Los Angeles in the early 1980s—fraught with betrayal from his parents’ divorce, economic strife, and a communication meltdown.
 
@@ -20,11 +20,11 @@ image: https://ucarecdn.com/dc5706d0-aa90-4153-9231-0532a328aa5c/
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Reunification-Alvin-Tsang/dp/B0746YC9YQ/) | [Tubi](https://tubitv.com/movies/513949/reunification)
 
-![The Fourth Partition](https://ucarecdn.com/e4e7cd89-3b8f-4ea5-bdd8-0ded55ab29f6/ "The Fourth Partition")
+![The Fourth Partition](https://ucarecdn.com/e4e7cd89-3b8f-4ea5-bdd8-0ded55ab29f6/-/resize/1460x/-/format/auto/-/quality/smart/ "The Fourth Partition")
 
 ## The Fourth Partition
 
-*Directed by Adrian Prawica | Documentary | 2013 | 74 mins | United States*
+_Directed by Adrian Prawica | Documentary | 2013 | 74 mins | United States_
 
 **Synopsis:** Expert historians present this story of 4,000,000 Polish immigrants who came to the United States between 1870-1920 and worked in hard and dangerous jobs in Chicago's steel and meatpacking industries during America's Gilded Age.
 
@@ -32,11 +32,11 @@ image: https://ucarecdn.com/dc5706d0-aa90-4153-9231-0532a328aa5c/
 
 **Where to stream it:** [Tubi](https://tubitv.com/movies/581194/the-fourth-partition)
 
-![Lessons of Basketball and War](https://ucarecdn.com/5adfcb07-f3a4-4f9b-bd6e-7952b6c9a0b3/ "Lessons of Basketball and War")
+![Lessons of Basketball and War](https://ucarecdn.com/5adfcb07-f3a4-4f9b-bd6e-7952b6c9a0b3/-/resize/1460x/-/format/auto/-/quality/smart/ "Lessons of Basketball and War")
 
 ## Lessons of Basketball and War
 
-*Directed by Ron Bourke | Documentary | 2015 | 56 mins | United States*
+_Directed by Ron Bourke | Documentary | 2015 | 56 mins | United States_
 
 **Synopsis:** A dedicated educator is challenged by refugee girls from Somalia as they struggle to leave the hostility and violence of war behind and build a new life in America.
 
@@ -44,11 +44,11 @@ image: https://ucarecdn.com/dc5706d0-aa90-4153-9231-0532a328aa5c/
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Lessons-Basketball-War-Ron-Bourke/dp/B01IQH5LU2) | [Xumo](https://www.xumo.tv/channel/9999300/filmhub?v=XM04L43Q6KQWS8&p=8736)
 
-![El Comedor](https://ucarecdn.com/0a327f4d-0e6e-4fa8-afbc-645bd735885c/ "El Comedor")
+![El Comedor](https://ucarecdn.com/0a327f4d-0e6e-4fa8-afbc-645bd735885c/-/resize/1460x/-/format/auto/-/quality/smart/ "El Comedor")
 
 ## El Comedor
 
-*Directed by Paul J. Durrant | Documentary | 2021 | 20 mins | United States*
+_Directed by Paul J. Durrant | Documentary | 2021 | 20 mins | United States_
 
 **Synopsis:** At the border between Arizona and Mexico, there's a dining room like no other. Inside, some migrants eat their last meal before trying to cross into America. Others eat their first meal since being deported.
 
@@ -56,11 +56,11 @@ image: https://ucarecdn.com/dc5706d0-aa90-4153-9231-0532a328aa5c/
 
 **Where to stream it:** [Plex](https://watch.plex.tv/movie/el-comedor)
 
-![Migrant Crossing](https://ucarecdn.com/20391bbe-dc5a-44f1-9c9f-c5c2f5ab7bf3/ "Migrant Crossing")
+![Migrant Crossing](https://ucarecdn.com/20391bbe-dc5a-44f1-9c9f-c5c2f5ab7bf3/-/resize/1460x/-/format/auto/-/quality/smart/ "Migrant Crossing")
 
 ## Migrant Crossing
 
-*Directed by Hauke Lorenz | Documentary | 2016 | 62 mins | Germany*
+_Directed by Hauke Lorenz | Documentary | 2016 | 62 mins | Germany_
 
 **Synopsis:** Three Central American migrants embark on a journey to the north. Seeking safety and a better life, they find the will, faith, and support to continue their journey in a shelter in southern Mexico.
 
@@ -68,11 +68,11 @@ image: https://ucarecdn.com/dc5706d0-aa90-4153-9231-0532a328aa5c/
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Migrant-Crossing-Jos%C3%A9/dp/B07CRVG3MX)
 
-![Salaam B'y](https://ucarecdn.com/02312a1d-680f-4a8f-9d50-d620ceea7e1d/ "Salaam B'y")
+![Salaam B'y](https://ucarecdn.com/02312a1d-680f-4a8f-9d50-d620ceea7e1d/-/resize/1460x/-/format/auto/-/quality/smart/ "Salaam B'y")
 
 ## Salaam B'y - A Story of a Muslim Newfoundlander
 
-*Directed by Amar Wala | Documentary | 2017 | 21 mins | Canada*
+_Directed by Amar Wala | Documentary | 2017 | 21 mins | Canada_
 
 **Synopsis:** Aatif Baskanderi grew up in Newfoundland as a Muslim child of Pakistani immigrants, and later traveled the world as an engineer. When his hometown faces tumultuous economic times, he returns to share his story of pluralism and tolerance.
 
@@ -80,11 +80,11 @@ image: https://ucarecdn.com/dc5706d0-aa90-4153-9231-0532a328aa5c/
 
 **Where to stream it:** [](https://www.amazon.com/Migrant-Crossing-Jos%C3%A9/dp/B07CRVG3MX)[Tubi](https://tubitv.com/movies/513855/salaam-b-y-a-story-of-a-muslim-newfoundlander) | [Plex](https://watch.plex.tv/movie/salaam-by)
 
-![Refuge in the Rockies](https://ucarecdn.com/1ec63fc4-8c2e-4983-ac59-25e39a8b5502/ "Refuge in the Rockies")
+![Refuge in the Rockies](https://ucarecdn.com/1ec63fc4-8c2e-4983-ac59-25e39a8b5502/-/resize/1460x/-/format/auto/-/quality/smart/ "Refuge in the Rockies")
 
 ## Refuge in the Rockies
 
-*Directed by Kaio Kathriner | Documentary | 2018 | 12 mins | Canada*
+_Directed by Kaio Kathriner | Documentary | 2018 | 12 mins | Canada_
 
 **Synopsis:** Anderson Losada is a Colombian refugee resettled in Canada, where an obscure law prevented him from citizenship and cost him his Paralympic dreams in downhill skiing.
 
@@ -92,11 +92,11 @@ image: https://ucarecdn.com/dc5706d0-aa90-4153-9231-0532a328aa5c/
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Refuge-Rockies-Anderson-Losada/dp/B08F4ZM8HR)
 
-![Noodle Deli](https://ucarecdn.com/828ea647-5c60-492d-abae-fb27c7e49d33/ "Noodle Deli")
+![Noodle Deli](https://ucarecdn.com/828ea647-5c60-492d-abae-fb27c7e49d33/-/resize/1460x/-/format/auto/-/quality/smart/ "Noodle Deli")
 
 ## Noodle Deli
 
-*Directed by David R. Liu | Documentary | 2015 | 13 mins | United States*
+_Directed by David R. Liu | Documentary | 2015 | 13 mins | United States_
 
 **Synopsis:** From China’s Shanxi Province to the San Gabriel Valley region of Los Angeles, chef Jeffrey Zhifeng Yang continues one of the world’s most fabled culinary traditions – the art of making noodles.
 

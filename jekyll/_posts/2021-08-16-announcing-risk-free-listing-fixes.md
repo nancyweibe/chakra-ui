@@ -4,7 +4,7 @@ title: "Announcing: Risk Free Listing Fixes"
 author: Alan d'Escragnolle
 category: Updates
 date: 2021-08-16T16:48:05.194Z
-image: /images/blog/peter-stumpf-yk9vxp4w5-q-unsplash.jpeg
+image: https://ucarecdn.com/071f173f-49d8-4c74-a7b2-ee3f94dce20f/
 ---
 
 

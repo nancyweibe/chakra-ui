@@ -30,7 +30,14 @@ container: true
       {% assign post = posts.first %}
       {% if post.image %}
       <div class="embed-responsive embed-responsive-3by1">
-        <img loading="lazy" src="{{ post.image }}" class="card-img-top embed-responsive-item" alt="{{ post.title }}">
+        <img 
+          src="{{ post.image }}-/scale_crop/960x320/smart/-/format/auto/-/quality/smart/"
+          srcset="{{ post.image }}-/scale_crop/1920x640/smart/-/format/auto/-/quality/smart/ 1920w,
+                  {{ post.image }}-/scale_crop/960x320/smart/-/format/auto/-/quality/smart/ 960w,
+                  {{ post.image }}-/scale_crop/480x160/smart/-/format/auto/-/quality/smart/ 480w" 
+          loading="lazy" 
+          class="card-img-top embed-responsive-item" 
+          alt="{{ post.title }}">
       </div>
       {% endif %}
       <div class="card-body">
@@ -53,7 +60,14 @@ container: true
     <div class="card h-100">
       {% if post.image %}
       <div class="embed-responsive embed-responsive-16by9">
-        <img loading="lazy" src="{{ post.image }}" class="card-img-top embed-responsive-item" alt="{{ post.title }}">
+        <img 
+          src="{{ post.image }}-/scale_crop/540x304/smart/-/format/auto/-/quality/smart/"
+          srcset="{{ post.image }}-/scale_crop/1080x608/smart/-/format/auto/-/quality/smart/ 1080w,
+                  {{ post.image }}-/scale_crop/540x304/smart/-/format/auto/-/quality/smart/ 540w"
+          loading="lazy" 
+          class="card-img-top embed-responsive-item" 
+          alt="{{ post.title }}"
+        >
       </div>
       {% endif %}
       <div class="card-body">

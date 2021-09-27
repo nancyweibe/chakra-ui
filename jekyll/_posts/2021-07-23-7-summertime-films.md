@@ -4,11 +4,11 @@ title: 7 Summertime Films
 author: Keju Luo
 category: Articles
 date: 2021-07-22T19:16:10.935Z
-image: /images/blog/summertime-films.png
+image: https://ucarecdn.com/99d55234-6dae-40c7-b96f-783b83001ae4/
 ---
 > Summer 2021 is special because we didn't get to enjoy the last one. Though some of us are lucky enough to take a breather from COVID, it's not quite a summer of joy, as new variants pose threats, and we see wildfires, floods, and record-breaking high temperatures all around the globe...We'd love to stick with fun and light summertime films - we still need those, but it would be an oversight to leave out the more challenging ones. Here are 7 films covering a wide range of themes and styles for summertime viewing.
 
-![Summertime in New York](/images/blog/summertime-in-ny.jpg "Summertime in New York")
+![Summertime in New York](https://ucarecdn.com/bda548b4-5183-4f94-baeb-2bb62815c7a1/-/resize/1460x/-/format/auto/-/quality/smart/ "Summertime in New York")
 
 ## Summertime in New York
 
@@ -20,7 +20,7 @@ image: /images/blog/summertime-films.png
 
 **Where to stream it:** [Tubi](https://tubitv.com/movies/293108/summertime-in-new-york) \| [Eclipse 24/7](https://watch.eclipse24-7.com/summertime-in-new-york)
 
-![Hard Sun](/images/blog/hard-sun.jpg "Hard Sun")
+![Hard Sun](https://ucarecdn.com/abd975c7-4740-4bf3-bfb1-2dc2fc35672f/-/resize/1460x/-/format/auto/-/quality/smart/ "Hard Sun")
 
 ## Hard Sun
 
@@ -32,7 +32,7 @@ image: /images/blog/summertime-films.png
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Hard-Sun-Robyn-Buck/dp/B00TV1ZNQU/) \| [Tubi](https://tubitv.com/movies/293085/hard-sun)
 
-![Loud Places](/images/blog/loud-places.jpg "Loud Places")
+![Loud Places](https://ucarecdn.com/54bc1f1a-fb32-4d21-9ea6-426d3d75910f/-/resize/1460x/-/format/auto/-/quality/smart/ "Loud Places")
 
 ## Loud Places
 
@@ -44,7 +44,7 @@ image: /images/blog/summertime-films.png
 
 **Where to stream it:** [Tubi](https://tubitv.com/movies/576388/loud-places) \| [Plex](https://watch.plex.tv/movie/loud-places)
 
-![The Beautiful Washing Machine](/images/blog/washing-machine.jpg "The Beautiful Washing Machine")
+![The Beautiful Washing Machine](https://ucarecdn.com/838284a6-030d-49db-b40d-da0691174133/-/resize/1460x/-/format/auto/-/quality/smart/ "The Beautiful Washing Machine")
 
 ## The Beautiful Washing Machine
 
@@ -56,7 +56,7 @@ image: /images/blog/summertime-films.png
 
 **Where to stream it:** [Tubi](https://tubitv.com/movies/513385/the-beautiful-washing-machine)
 
-![The Rise and Fall of Miss Thang](/images/blog/miss-thang.jpg "The Rise and Fall of Miss Thang")
+![The Rise and Fall of Miss Thang](https://ucarecdn.com/6c4d5272-fc89-48d1-b8a2-b386e65cbc1f/-/resize/1460x/-/format/auto/-/quality/smart/ "The Rise and Fall of Miss Thang")
 
 ## The Rise and Fall of Miss Thang
 
@@ -68,7 +68,7 @@ image: /images/blog/summertime-films.png
 
 **Where to stream it:** [Alice Movies on Xumo](https://www.xumo.tv/channel/9999300/alice-movies?v=XM0WN849UJAJY6&p=31047) \| [Tubi](https://tubitv.com/movies/506106/the-rise-and-fall-of-miss-thang)
 
-![Xolo](/images/blog/xolo.jpg "Xolo")
+![Xolo](https://ucarecdn.com/cd3488ed-3473-425d-b151-de65b8915ec7/-/resize/1460x/-/format/auto/-/quality/smart/ "Xolo")
 
 ## Xolo
 
@@ -80,7 +80,7 @@ image: /images/blog/summertime-films.png
 
 **Where to stream it:** [Fearless](https://watch.fearless.li/programs/solo)
 
-![Elementa](/images/blog/elementa.jpg "Elementa")
+![Elementa](https://ucarecdn.com/38925390-464a-462f-9471-a5b85717c53a/-/resize/1460x/-/format/auto/-/quality/smart/ "Elementa")
 
 ## Elementa
 

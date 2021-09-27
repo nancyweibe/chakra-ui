@@ -8,7 +8,8 @@ media_library:
   name: uploadcare
   config:
     publicKey: 9bd8b116dcfaf2bfa466
-    defaultOperations: '/-/resize/1460x/'
+  settings:
+    defaultOperations: '/resize/1460x/-/format/auto/-/quality/smart/'
 collections:
   - name: 'posts'
     label: 'Posts'
@@ -33,7 +34,7 @@ collections:
         widget: 'image'
         media_library:
           config:
-            defaultOperations: '/-/preview/1920x1080/'
+            defaultOperations: ''
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'one-sheets'
     label: 'One-Sheets'

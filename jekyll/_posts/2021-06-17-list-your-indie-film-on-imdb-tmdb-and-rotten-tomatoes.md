@@ -4,7 +4,7 @@ title: List your Indie Film on IMDb, TMDb, and Rotten Tomatoes
 author: Alan d'Escragnolle
 category: Articles
 date: 2021-06-17T02:32:48.249Z
-image: /images/blog/christian-wiediger-aeeoy_aqvnk-unsplash.jpeg
+image: https://ucarecdn.com/60c1cddd-faa3-40fa-95a1-aacf3f7d0ea2/
 ---
 
 

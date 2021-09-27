@@ -6,7 +6,7 @@ category: Articles
 tags:
   - Film Distribution
 date: 2019-12-07T19:03:32.180Z
-image: /images/blog/streaming-video-deals-need-no-deductions.jpeg
+image: https://ucarecdn.com/24461db9-da68-431a-b1db-bb93e9b6ba01/
 ---
 With digital streaming, the cost of distribution should approach zero — especially when compared to the physical era of DVD, theaters, satellite and cable.
 

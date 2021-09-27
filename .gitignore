@@ -39,3 +39,4 @@ yarn-error.log*
 !/public/admin
 .jekyll-cache
 .bundle
+.jekyll-metadata

@@ -4,7 +4,7 @@ title: "Filmmaker Success Story: Miguel Gaudêncio"
 author: Filmhub
 category: Articles
 date: 2018-08-08T20:26:22.614Z
-image: /images/blog/how-filmhub-helped-miguel-gaudencio-develop-more-independent-movies-a61e3b6f1783.jpeg
+image: https://ucarecdn.com/afce880f-90d7-41dc-bd5b-f37b2d2900bb/
 ---
 Raised in Portugal and currently residing in Poland, [Miguel Gaudêncio](https://www.imdb.com/name/nm2488331/) started his career shooting commercials for companies like Mercedes and Coca-Cola. Pivoting to filmmaking in parallel of his successful commercial work, he completed a couple of projects in his native Portugal before moving to Poland in 2010, where he proceeded to produce four critically acclaimed documentaries.
 
@@ -24,7 +24,7 @@ Miguel’s friends warned him about the risk of rip-offs associated with the tra
 
 But then Miguel listened to his wife, and tried Filmhub.
 
-![](/images/blog/how-filmhub-helped-miguel-gaudencio-develop-more-independent-movies-a61e3b6f1783-1.png "Screenshot from the documentary Easter Monday")
+https://ucarecdn.com/67f6dcdc-3e04-4dd5-ac64-125fdbb4a528/-/resize/1460x/-/format/auto/-/quality/smart/ "Screenshot from the documentary Easter Monday")
 
 *Screenshot from the documentary Easter Monday (2012)*
 
@@ -44,7 +44,7 @@ Miguel takes advantage of Filmhub’s free services; upload, QC, storage, transc
 
 > *“The process with Filmhub is impeccable. We are now able to set our independent release dates, target our most important streaming services, and coordinate our promotion like social media & ads around it.”*
 
-![](/images/blog/how-filmhub-helped-miguel-gaudencio-develop-more-independent-movies-a61e3b6f1783-2.png "Screenshot from the documentary Down, But Not Out!")
+https://ucarecdn.com/5ba9aad9-05e7-46b1-bda8-1f7726a33761/-/resize/1460x/-/format/auto/-/quality/smart/ "Screenshot from the documentary Down, But Not Out!")
 
 *Screenshot from the documentary Down, But Not Out! (2015)*
 

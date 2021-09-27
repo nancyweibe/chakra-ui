@@ -4,7 +4,7 @@ title: Filmhub Expands With TCL Channel Partnership
 author: Alan d'Escragnolle
 category: Press
 date: 2021-09-01T17:07:12.608Z
-image: /images/blog/25a7ed4ee9e8784eda68d0df7b95.jpg
+image: https://ucarecdn.com/541bffb5-a8cb-49bb-8eb9-04eea0feb4f7/
 ---
 Filmhub the digital distribution disruptor expands with TCL partnership.
 

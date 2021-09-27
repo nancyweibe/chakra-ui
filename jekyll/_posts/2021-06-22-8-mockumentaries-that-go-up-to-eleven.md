@@ -4,11 +4,11 @@ title: 8 Mockumentaries that Go Up to Eleven
 author: Keju Luo
 category: Articles
 date: 2021-07-19T17:14:58.701Z
-image: /images/blog/mockumentaries.jpg
+image: https://ucarecdn.com/4ec9a6e4-2311-4c65-b84b-6d0285067a1b/
 ---
 > Few films have achieved what 1984's [This Is Spinal Tap](https://www.themoviedb.org/movie/11031-this-is-spinal-tap) did - developing into a cult phenomenon and spawning a whole new genre. Though the history of mockumentary traces back to the 60s masters like Shirley Clarke and Richard Lester, Spinal Tap is inarguably the one that set modern standards and is often referenced to this day. Some of the funniest films of our time carried its torch, from [Borat (2006)](https://www.themoviedb.org/movie/496-borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan) to [What We Do in the Shadows (2014)](https://www.themoviedb.org/movie/246741-what-we-do-in-the-shadows). Here are 8 films in the Filmhub catalog that channel the Spinal Tap spirit and [go up to eleven](https://www.youtube.com/watch?v=4xgx4k83zzc).
 
-![The Golden Age](/images/blog/the-golden-age.jpg "The Golden Age")
+![The Golden Age](https://ucarecdn.com/909d2465-8bae-4105-8009-33a1574d6518/-/resize/1460x/-/format/auto/-/quality/smart/ "The Golden Age")
 
 ## The Golden Age
 
@@ -20,7 +20,7 @@ image: /images/blog/mockumentaries.jpg
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Golden-Age-Justin-Connor/dp/B08M9Z1YKC/) \| [Tubi](https://tubitv.com/movies/562122/the-golden-age)
 
-![Noseland](/images/blog/noseland.jpg "Noseland")
+![Noseland](https://ucarecdn.com/ab2773d1-7723-47d8-acf5-bf91a6e6a548/-/resize/1460x/-/format/auto/-/quality/smart/ "Noseland")
 
 ## Noseland
 
@@ -32,7 +32,7 @@ _Directed by Aleksey Igudesman \| Comedy \| 2012 \| 80 mins \| Austria_
 
 **Where to stream it:** [Plex](https://watch.plex.tv/movie/noseland)
 
-![Your Good Friend](/images/blog/your-good-friends.jpg "Your Good Friend")
+![Your Good Friend](https://ucarecdn.com/eb4828b7-7105-4e9e-bd0b-b93dfa4d7537/-/resize/1460x/-/format/auto/-/quality/smart/ "Your Good Friend")
 
 ## Your Good Friend
 
@@ -44,7 +44,7 @@ _Directed by Aleksey Igudesman \| Comedy \| 2012 \| 80 mins \| Austria_
 
 **Where to stream it:** [Tubi](https://tubitv.com/movies/299639/your-good-friend)
 
-![Noise Matters](/images/blog/noise-matters.jpg "Noise Matters")
+![Noise Matters](https://ucarecdn.com/7609d3f0-45d3-419f-9554-144a704a90ca/-/resize/1460x/-/format/auto/-/quality/smart/ "Noise Matters")
 
 ## Noise Matters
 
@@ -56,7 +56,7 @@ _Directed by Aleksey Igudesman \| Comedy \| 2012 \| 80 mins \| Austria_
 
 **Where to stream it:** [Tubi](https://tubitv.com/movies/414067/noise-matters) \| [Hoopla](https://www.hoopladigital.com/title/11722677)
 
-![My English Soccer Adventure](/images/blog/my-english-soccer-adventure.jpg "My English Soccer Adventure")
+![My English Soccer Adventure](https://ucarecdn.com/d7009c52-c3a9-4880-8a1a-fe4d49a57794/-/resize/1460x/-/format/auto/-/quality/smart/ "My English Soccer Adventure")
 
 ## My English Soccer Adventure
 
@@ -68,7 +68,7 @@ _Directed by Aleksey Igudesman \| Comedy \| 2012 \| 80 mins \| Austria_
 
 **Where to stream it:** [Amazon](https://www.amazon.com/English-Soccer-Adventure-Hannaj-Bendz/dp/B07NBT9P98/) \| [Tubi](https://tubitv.com/movies/594399/my-english-soccer-adventure?start=true)
 
-![Thunderlust](/images/blog/thunderlust-and-the-middle-beast-.jpg "Thunderlust")
+![Thunderlust](https://ucarecdn.com/68c7c901-32ce-4525-992d-e7b2ebaea410/-/resize/1460x/-/format/auto/-/quality/smart/ "Thunderlust")
 
 ## Thunderlust (and the Middle Beast)
 
@@ -80,7 +80,7 @@ _Directed by Aleksey Igudesman \| Comedy \| 2012 \| 80 mins \| Austria_
 
 **Where to stream it:** [Tubi](https://tubitv.com/movies/499605/thunderlust-and-the-middle-beast)
 
-![Man Band](/images/blog/man-band.jpg "Man Band")
+![Man Band](https://ucarecdn.com/60869f96-4392-42af-8f16-78951f09cc8c/-/resize/1460x/-/format/auto/-/quality/smart/ "Man Band")
 
 ## Man Band
 
@@ -92,7 +92,7 @@ _Directed by Aleksey Igudesman \| Comedy \| 2012 \| 80 mins \| Austria_
 
 **Where to stream it:** [Amazon](https://www.amazon.com/Man-Band-Ciaran-Dowd/dp/B088BVS6RK/)
 
-![Head Above Water](/images/blog/head-above-water.jpg "Head Above Water")
+![Head Above Water](https://ucarecdn.com/94c8c6fc-dd33-4d4e-b79f-a1e3f2280245/-/resize/1460x/-/format/auto/-/quality/smart/ "Head Above Water")
 
 ## Head Above Water
 

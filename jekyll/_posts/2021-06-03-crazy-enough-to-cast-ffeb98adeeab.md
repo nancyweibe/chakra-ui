@@ -6,7 +6,7 @@ category: Articles
 tags:
   - Filmmaking
 date: 2019-01-03T22:37:45.258Z
-image: /images/blog/crazy-enough-to-cast-ffeb98adeeab.jpeg
+image: https://ucarecdn.com/a86b2ca9-f410-4c40-845b-e079147399e2/
 ---
 If done correctly, casting can be one of the most exciting points of pre-production. It’s the first time a script comes to life and possibilities start to be realized. Every budget is tight and with so many actors ready to work, not hiring a casting office is seen as an easy way to save cost.
 
