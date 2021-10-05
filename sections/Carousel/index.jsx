@@ -103,7 +103,7 @@ const Carousel = ({ data }) => {
                   py="6"
                   bg="linear-gradient(170.11deg, #111827 22.09%, #1A237E 226.92%)"
                 >
-                  <Text whiteSpace="no-wrap" overflow="hidden" textOverflow="elipses" fontSize={{ base: "lg", md: "xl", lg: "2xl" }} align="center" color="white">{item.name}</Text>
+                  <Text textTransform="capitalize" whiteSpace="no-wrap" overflow="hidden" textOverflow="elipses" fontSize={{ base: "lg", md: "xl", lg: "2xl" }} align="center" color="white">{item.name}</Text>
                 </Box>
               </Box>
             </SwiperSlide>

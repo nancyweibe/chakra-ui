@@ -37,7 +37,7 @@ const Faq = ({ data }) => {
           >
           </Heading>
 
-          <Accordion defaultIndex={[0]}>
+          <Accordion allowToggle defaultIndex={[0]}>
             {list.map((item, i) => (
               <AccordionItem borderColor="dark.400" key={`fqi-${i}`}>
                 {({ isExpanded }) => (
