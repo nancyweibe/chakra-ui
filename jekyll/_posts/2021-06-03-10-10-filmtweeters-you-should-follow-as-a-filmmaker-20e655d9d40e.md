@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 10 Filmtweeters you should follow as a Filmmaker
+title: 10 Filmtweeters Every Filmmaker Should Follow
 author: Filmhub
 category: Articles
 tags:
@@ -8,11 +8,7 @@ tags:
 date: 2017-12-18T21:44:05.104Z
 image: https://ucarecdn.com/737a1e89-1cb7-4efb-9015-e80fe3d32738/
 ---
-Whether you are looking to get daily inspiration, receive filmmaking advice, discover new film festivals and marketing opportunities, or simply follow a new personality; Twitter offers a wide range of content and influencers for anyone’s preferences.
-
-Regardless of what you are looking for, we have picked 10 Twitter accounts that are worth following in the film business.
-
-Their experience, advice, and vision let followers explore new ways to create and spread great film with the aim of empowering filmmaking worldwide.
+Whether you're seeking inspiration, advices and tips on film festivals, or simply some quality commentary, Twitter has some film business influencers who are well worth a follow. 
 
 *Note that this is not a comprehensive list, nor is it ranked.*
 

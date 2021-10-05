@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 8 Mockumentaries that Go Up to Eleven
+title: 8 Mockumentaries To Stream Now
 author: Keju Luo
 category: Articles
 date: 2021-07-19T17:14:58.701Z
 image: https://ucarecdn.com/4ec9a6e4-2311-4c65-b84b-6d0285067a1b/
 ---
-> Few films have achieved what 1984's [This Is Spinal Tap](https://www.themoviedb.org/movie/11031-this-is-spinal-tap) did - developing into a cult phenomenon and spawning a whole new genre. Though the history of mockumentary traces back to the 60s masters like Shirley Clarke and Richard Lester, Spinal Tap is inarguably the one that set modern standards and is often referenced to this day. Some of the funniest films of our time carried its torch, from [Borat (2006)](https://www.themoviedb.org/movie/496-borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan) to [What We Do in the Shadows (2014)](https://www.themoviedb.org/movie/246741-what-we-do-in-the-shadows). Here are 8 films in the Filmhub catalog that channel the Spinal Tap spirit and [go up to eleven](https://www.youtube.com/watch?v=4xgx4k83zzc).
+> Few films have achieved what 1984's [This Is Spinal Tap](https://www.themoviedb.org/movie/11031-this-is-spinal-tap) did: spawning both a cult phenomenon and a whole new genre. Though the history of mockumentary traces back to the 60s masters like Shirley Clarke and Richard Lester, Spinal Tap is inarguably the one that set modern standards. Some of the funniest films of our time carried its torch, from [Borat (2006)](https://www.themoviedb.org/movie/496-borat-cultural-learnings-of-america-for-make-benefit-glorious-nation-of-kazakhstan) to [What We Do in the Shadows (2014)](https://www.themoviedb.org/movie/246741-what-we-do-in-the-shadows). 
+
+Here are 8 films in the Filmhub catalog that channel the Spinal Tap spirit and [go up to eleven](https://www.youtube.com/watch?v=4xgx4k83zzc).
 
 ![The Golden Age](https://ucarecdn.com/909d2465-8bae-4105-8009-33a1574d6518/-/resize/1460x/-/format/auto/-/quality/smart/ "The Golden Age")
 
@@ -24,7 +26,7 @@ image: https://ucarecdn.com/4ec9a6e4-2311-4c65-b84b-6d0285067a1b/
 
 ## Noseland
 
-_Directed by Aleksey Igudesman \| Comedy \| 2012 \| 80 mins \| Austria_
+*Directed by Aleksey Igudesman \| Comedy \| 2012 \| 80 mins \| Austria*
 
 **Synopsis:** The world-famous violinist with a nose fetish, Julian Rachlin, takes over the town of Dubrovnik, Croatia, every year to bring together some of the world's greatest musicians, actors, and composers and create a unique classical music festival. His oldest friend Aleksey Igudesman offers to make a documentary film that will take an "inside look" at this "fairytale" festival but things seem to go wrong from the start.
 

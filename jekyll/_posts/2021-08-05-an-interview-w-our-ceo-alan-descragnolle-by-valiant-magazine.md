@@ -1,6 +1,7 @@
 ---
 layout: post
-title: An Interview w/our CEO Alan d'Escragnolle by Valiant CEO Magazine
+title: An Interview With Filmhub Cofounder Alan d'Escragnolle From Valiant CEO
+  Magazine
 author: Keju Luo
 category: Articles
 date: 2021-08-05T19:17:42.926Z

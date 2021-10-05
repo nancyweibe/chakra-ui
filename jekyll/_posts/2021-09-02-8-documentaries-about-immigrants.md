@@ -12,19 +12,19 @@ image: https://ucarecdn.com/dc5706d0-aa90-4153-9231-0532a328aa5c/
 
 ## Reunification
 
-_Directed by Alvin Tsang | Documentary | 2015 | 85 mins | United States_
+_Directed by Alvin Tsang \| Documentary \| 2015 \| 85 mins \| United States_
 
 **Synopsis:** Filmed over a 17 year period, director Alvin Tsang reflects on his family’s migration from Hong Kong to Los Angeles in the early 1980s—fraught with betrayal from his parents’ divorce, economic strife, and a communication meltdown.
 
 **What makes it special:** An all-time Filmhub favorite, Reunification is an artist at his most vulnerable exploring his own immigrant experience with great depth. Tsang's story is deeply personal yet profoundly universal, and all the more relatable when many of us are separated from our families by the pandemic.
 
-**Where to stream it:** [Amazon](https://www.amazon.com/Reunification-Alvin-Tsang/dp/B0746YC9YQ/) | [Tubi](https://tubitv.com/movies/513949/reunification)
+**Where to stream it:** [Amazon](https://www.amazon.com/Reunification-Alvin-Tsang/dp/B0746YC9YQ/) \| [Tubi](https://tubitv.com/movies/513949/reunification)
 
 ![The Fourth Partition](https://ucarecdn.com/e4e7cd89-3b8f-4ea5-bdd8-0ded55ab29f6/-/resize/1460x/-/format/auto/-/quality/smart/ "The Fourth Partition")
 
 ## The Fourth Partition
 
-_Directed by Adrian Prawica | Documentary | 2013 | 74 mins | United States_
+_Directed by Adrian Prawica \| Documentary \| 2013 \| 74 mins \| United States_
 
 **Synopsis:** Expert historians present this story of 4,000,000 Polish immigrants who came to the United States between 1870-1920 and worked in hard and dangerous jobs in Chicago's steel and meatpacking industries during America's Gilded Age.
 
@@ -36,19 +36,19 @@ _Directed by Adrian Prawica | Documentary | 2013 | 74 mins | United States_
 
 ## Lessons of Basketball and War
 
-_Directed by Ron Bourke | Documentary | 2015 | 56 mins | United States_
+_Directed by Ron Bourke \| Documentary \| 2015 \| 56 mins \| United States_
 
 **Synopsis:** A dedicated educator is challenged by refugee girls from Somalia as they struggle to leave the hostility and violence of war behind and build a new life in America.
 
 **What makes it special:** A simple but incredibly touching documentary that follows a year in the lives of a group of middle school girls, who were born and raised in refugee camps in war-torn parts of Somalia, and found new homes in Portland, Oregon. Filmmaker Ron Bourke put his heart and soul into this project and captured moments that will restore your faith in humanity.
 
-**Where to stream it:** [Amazon](https://www.amazon.com/Lessons-Basketball-War-Ron-Bourke/dp/B01IQH5LU2) | [Xumo](https://www.xumo.tv/channel/9999300/filmhub?v=XM04L43Q6KQWS8&p=8736)
+**Where to stream it:** [Amazon](https://www.amazon.com/Lessons-Basketball-War-Ron-Bourke/dp/B01IQH5LU2) \| [Xumo](https://www.xumo.tv/channel/9999300/filmhub?v=XM04L43Q6KQWS8&p=8736)
 
 ![El Comedor](https://ucarecdn.com/0a327f4d-0e6e-4fa8-afbc-645bd735885c/-/resize/1460x/-/format/auto/-/quality/smart/ "El Comedor")
 
 ## El Comedor
 
-_Directed by Paul J. Durrant | Documentary | 2021 | 20 mins | United States_
+_Directed by Paul J. Durrant \| Documentary \| 2021 \| 20 mins \| United States_
 
 **Synopsis:** At the border between Arizona and Mexico, there's a dining room like no other. Inside, some migrants eat their last meal before trying to cross into America. Others eat their first meal since being deported.
 
@@ -60,7 +60,7 @@ _Directed by Paul J. Durrant | Documentary | 2021 | 20 mins | United States_
 
 ## Migrant Crossing
 
-_Directed by Hauke Lorenz | Documentary | 2016 | 62 mins | Germany_
+_Directed by Hauke Lorenz \| Documentary \| 2016 \| 62 mins \| Germany_
 
 **Synopsis:** Three Central American migrants embark on a journey to the north. Seeking safety and a better life, they find the will, faith, and support to continue their journey in a shelter in southern Mexico.
 
@@ -72,19 +72,19 @@ _Directed by Hauke Lorenz | Documentary | 2016 | 62 mins | Germany_
 
 ## Salaam B'y - A Story of a Muslim Newfoundlander
 
-_Directed by Amar Wala | Documentary | 2017 | 21 mins | Canada_
+_Directed by Amar Wala \| Documentary \| 2017 \| 21 mins \| Canada_
 
 **Synopsis:** Aatif Baskanderi grew up in Newfoundland as a Muslim child of Pakistani immigrants, and later traveled the world as an engineer. When his hometown faces tumultuous economic times, he returns to share his story of pluralism and tolerance.
 
 **What makes it special:** Not all immigrant stories involve some heartbreaking news. Aatif’s story is a reminder of what can happen when a community welcomes newcomers with open arms. A crowdfunded short film, Salaam B'y is uniquely wholesome and inspiring, and the landscape shots of "the rock" are absolutely breathtaking.
 
-**Where to stream it:** [](https://www.amazon.com/Migrant-Crossing-Jos%C3%A9/dp/B07CRVG3MX)[Tubi](https://tubitv.com/movies/513855/salaam-b-y-a-story-of-a-muslim-newfoundlander) | [Plex](https://watch.plex.tv/movie/salaam-by)
+**Where to stream it:** [](https://www.amazon.com/Migrant-Crossing-Jos%C3%A9/dp/B07CRVG3MX)[Tubi](https://tubitv.com/movies/513855/salaam-b-y-a-story-of-a-muslim-newfoundlander) \| [Plex](https://watch.plex.tv/movie/salaam-by)
 
 ![Refuge in the Rockies](https://ucarecdn.com/1ec63fc4-8c2e-4983-ac59-25e39a8b5502/-/resize/1460x/-/format/auto/-/quality/smart/ "Refuge in the Rockies")
 
 ## Refuge in the Rockies
 
-_Directed by Kaio Kathriner | Documentary | 2018 | 12 mins | Canada_
+_Directed by Kaio Kathriner \| Documentary \| 2018 \| 12 mins \| Canada_
 
 **Synopsis:** Anderson Losada is a Colombian refugee resettled in Canada, where an obscure law prevented him from citizenship and cost him his Paralympic dreams in downhill skiing.
 
@@ -96,7 +96,7 @@ _Directed by Kaio Kathriner | Documentary | 2018 | 12 mins | Canada_
 
 ## Noodle Deli
 
-_Directed by David R. Liu | Documentary | 2015 | 13 mins | United States_
+_Directed by David R. Liu \| Documentary \| 2015 \| 13 mins \| United States_
 
 **Synopsis:** From China’s Shanxi Province to the San Gabriel Valley region of Los Angeles, chef Jeffrey Zhifeng Yang continues one of the world’s most fabled culinary traditions – the art of making noodles.
 
