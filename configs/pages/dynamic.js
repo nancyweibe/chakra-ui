@@ -178,7 +178,7 @@ export const pages = [
 
     hero: {
       title: "Licensing great cinema should be as <span>simple as choosing what to watch.</span>",
-      description: "Browse our catalog. Click to license. Stream fresh, amazing cinema. Return for more. We’ll handle the rest.",
+      description: "Browse titles. Click to license. Receive automated deliveries. Return for more. We'll handle the rest.",
       button: { name: "Let’s Talk", link: "https://cal.mixmax.com/jenniferniessen/30", variant: "secondary" },
       img: "hero-channelbuyers.png",
       imgAlt: "Hero image Channel buyers",
@@ -186,7 +186,7 @@ export const pages = [
     },
 
     channelBuyers: {
-      description: "Channel Buyers from Amazon Prime Video, IMDb TV, Tubi, TCL, Kanopy, Hoopla, Plex, The Roku Channel, and <strong>100+ streaming channels use Filmhub to discover fresh, amazing titles from global filmmakers.</strong>",
+      description: "Channel Buyers from Amazon Prime Video, IMDb TV, Tubi, TCL, Kanopy, Hoopla, Plex, The Roku Channel are among the <strong>100+ streaming channels using Filmhub</strong>",
       list: [
         { name: "Nuella TV", img: "nuella-tv.svg" },
         { name: "Christian Channel", img: "christian-channel.svg" },
@@ -256,7 +256,7 @@ export const pages = [
       list: [
         {
           title: "Unlimited access to premium content",
-          description: "10,000+ available titles, including films that have grossed $100 million and major festival winners.",
+          description: "10,000+ available titles across all genres and themes, including new releases, major festivals winners, and top-rated on IMDB.",
           img: "icn-1.svg"
         },
         {
@@ -266,29 +266,29 @@ export const pages = [
         },
         {
           title: "QCed assets, ready to deliver",
-          description: "Your tech and legal teams will love us.",
+          description: "Every title has gone through a rigorous technical inspection on our end, so you can trust that it will look great and stream perfectly to your customers.",
           img: "icn-3.svg"
         },
         {
           title: "Instant ordering",
-          description: "License a la carte or en masse – in a single click.",
+          description: "No more reviewing messy Excel avails lists and emailing back and forth. License a la carte or en masse - in a single click.",
           img: "icn-4.svg"
         },
         {
           title: "Game-changing automated delivery",
-          description: "Receive orders in 3-5 business days, directly from our cloud to yours.",
+          description: "Receive orders in 3-5 business days, directly from our cloud to yours.  Delivery packages are conformed to your exact metadata, image, video, and text track requirements.",
           img: "icn-5.svg"
         },
         {
-          title: "One pre-negotiated agreement = no new contracts necessary",
-          description: "Plus, we handle filmmaker communications, rights management, clearances, payment, and taxes for you.",
+          title: "One pre-negotiated agreement covers all title licenses",
+          description: "This means no new contracts every time you license a title. Plus, we handle filmmaker communications, rights clearances, payments, and taxes.",
           img: "icn-6.svg"
         }
       ]
     },
     howItWorks: {
-      title: "How it Works",
-      description: "Access 10,000+ ready-to-stream films, series, and shorts from global filmmakers",
+      title: "Amazing Cinema, Ready To Stream",
+      description: "Instantly license 10,000+ ready-to-stream films, series, and shorts from global filmmakers",
       posters: [
         { name: "Black Cinema", img: "p1.jpg", alt: "Six Rounds", color: "#3ec2dd", isNew: true, },
         { name: "Climate change", img: "p2.jpg", alt: "Ice Motion", color: "#9685ce" },
@@ -354,7 +354,7 @@ export const pages = [
       list: [
         {
           question: "What titles are available to Streaming Channel Partners?",
-          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
         },
         {
           question: "Do I need to inquire about rights availability for specific titles?",
