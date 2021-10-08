@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Courtney Daniels Talks Hollywood, Happiness, and Single-Location Shoots
-  On Episode 2 of the Forward Filmmaker Podcast
+title: Courtney Daniels Talks Single-Location Shoots on Episode 2 of the Forward
+  Filmmaker Podcast
 author: Katie Sanders
 category: Articles
-date: 2021-10-06T15:53:33.407Z
+date: 2021-10-05T15:53:33.407Z
 image: https://ucarecdn.com/6b514a6d-c750-4efd-9671-de4e78fa769e/-/resize/1460x/-/format/auto/-/quality/smart/
 ---
-Welcome back to the Forward Filmmaker Podcast, which shares stories and advice from a new generation of filmmakers bucking industry norms. On this episode, host Max Sanders interviews Courtney Daniels, the writer-director behind the films What Other Couples Do and Bedroom Story, and the web series This Fucking Town. Through her work, she takes a unique, deeply personal look at love, relationships, and the hijinks and perils of being in the film industry. *Here’s an edited transcript of Max and Courtney's conversation.*
+Welcome back to the [Forward Filmmaker](https://podcasts.apple.com/us/podcast/forward-filmmaker/id1586069490) Podcast, where we share stories and advice from a new generation of filmmakers bucking industry norms. On this episode, host Max Sanders interviews Courtney Daniels, the writer-director behind the films What Other Couples Do and Bedroom Story, and the web series This Fucking Town. Her work takes a unique, deeply personal look at love, relationships, and the hijinks and perils of being in the film industry. Below is an edited transcript of Max and Courtney's conversation.
 
+<div style="width: 100%; height: 200px; margin-bottom: 20px; border-radius: 10px; overflow:hidden;"><iframe style="width: 100%; height: 170px;" frameborder="no" scrolling="no" seamless src="https://player.captivate.fm/episode/fbaef510-5448-4585-a559-88cee4ccdca4"></iframe></div>
 
-
-*To tune in as we release new episodes and support Courtney and the show, please subscribe, rate, and review Forward Filmmaker. Max: Courtney, how are you today?*
+*Max: Courtney, how are you today?*
 
 Courtney: I'm good. Thank you Max.
 
@@ -173,6 +173,10 @@ Courtney: I want to finish This Fucking Town. So I'm going to shoot a final inst
 
 *Max: If people want to follow you, where should they go?*
 
-Courtney: My website is called [sugarinsixtyseconds.com](https://courtneydanielsfilms.com/). If you subscribe, you'll be on my list to get alerted when I release a new project or resource. And then every once in a while, I'll write an email about something that I've learned that I want to pass on in case it's of value to someone else. My whole message is, "Yes, you can do this." Anyone who's sitting out there thinking, "I can't make a movie, I don't know if I can do this," – yes, you absolutely can. I believe in you. And I think you ought to start immediately.
+Courtney: My website is [courtneydanielsfilms.com](https://courtneydanielsfilms.com/). If you subscribe, you'll get alerted when I release a new project or resource. And then every once in a while, I'll write an email about something that I've learned that I want to pass on in case it's of value to someone else. My whole message is, "Yes, you can do this." Anyone who's sitting out there thinking, "I can't make a movie, I don't know if I can do this," – yes, you absolutely can. I believe in you. And I think you ought to start immediately.
 
 Max: Thanks for listening. On the next episode, we'll be talking with award-winning documentary filmmaker Torsten Hoffmann, whose films delve into the complex world of cryptocurrency.
+
+**To show your support for Courtney and tune into future Forward Filmmaker episodes, please subscribe, rate, and review the show on Apple or wherever you listen. Your support goes a long way.** 
+
+<a href="https://podcasts.apple.com/us/podcast/director-courtney-daniels-on-hollywood-happiness-and/id1586069490?i=1000537721301&amp;itsct=podcast_box_badge&amp;itscg=30200&amp;ls=1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-podcasts/badge/en-us?size=250x83&amp;releaseDate=1633517100&h=e40ebddf19f2ac38d9941b7dcd9dcc5d" alt="Listen on Apple Podcasts" style="border-radius: 13px; width: 250px; height: 83px;"></a>

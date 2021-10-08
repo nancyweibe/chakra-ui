@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 8 Modern Black & White Films
+title: 8 Modern Black and White Films To Stream Now
 author: Keju Luo
 category: Articles
-date: 2021-10-01T14:57:18.706Z
+date: 2021-10-04T14:57:18.706Z
 image: https://ucarecdn.com/afdd7680-2c47-4570-a95c-88371c714808/-/resize/1460x/-/format/auto/-/quality/smart/
 ---
-> More than half a century into the age of color, filmmakers still opt for black and white with specific purposes. Some of the finest films of the 21st century are black and white - from *The Artist (2011)* to *Ida (2013)* to *Roma (2018)*. Bong Joon Ho even recently released an alternative black and white version of his history-making Oscar winner *Parasite*. Black and white cinematography is here to stay and here are 8 Filmhub titles that championed it.
+More than half a century into the age of color, filmmakers still opt for black and white. Some of the finest films of the 21st century are black and white, from *The Artist (2011)* to *Ida (2013)* to *Roma (2018)*. Bong Joon Ho recently released an alternative black-and-white version of his history-making Oscar winner, *Parasite*. Black and white cinematography is here to stay. Here are 8 titles listed on Filmhub that champion it.
 
 ![Six Rounds](https://ucarecdn.com/4a2595a4-ad7e-442a-bf1d-a2e8690a25ac/-/resize/1460x/-/format/auto/-/quality/smart/ "Six Rounds")
 
