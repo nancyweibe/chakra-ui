@@ -358,23 +358,23 @@ export const pages = [
         },
         {
           question: "Do I need to inquire about rights availability for specific titles?",
-          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+          answer: "Nope! Most titles have worldwide rights. For certain titles with limited rights, that’s clearly noted, and you can also filter catalog searches based on your specific rights requirements. We handle rights and clearances for you."
         },
         {
           question: "How are titles delivered?",
-          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+          answer: "When you find titles you want to license from Filmhub’s catalog, click “Instant order.” Your selected title(s) will automatically be delivered from our cloud to your Amazon S3, FTP/SFTP, or Aspera server in 3-5 business days. Learn more here."
         },
         {
           question: "What are the reporting requirements?",
-          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+          answer: "Streaming Channel Partners report royalty earnings and remit payment to Filmhub monthly. Once your reports are received, we automatically handle reporting and payout to all filmmakers, content owners, and distributors."
         },
         {
           question: "I only work with upfront licenses. Does Filmhub support that?",
-          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+          answer: "Yes."
         },
         {
           question: "Can I see Filmhub’s catalog before becoming a Channel Partner?",
-          answer: "Partners have unlimited access to Filmhub’s catalog of 10,000+ films, series, and shorts. Our catalog spans all genres, from horror to romance, short to long-form, and film festival to found footage. Discover blockbuster hits and titles top-rated on IMDb TV and starring top actors, or search by language, year of production, and run time. We add 100+ new titles a month."
+          answer: "Sure, Let's talk."
         }
       ]
     }
