@@ -90,12 +90,11 @@ const Carousel = ({ data }) => {
         <Swiper onSwiper={(swiper) => { setTimeout(() => { swiper.setTranslate(-100) }, 300) }} {...options}>
           {posters.map((item, i) => (
             <SwiperSlide style={{ width: 'auto' }} key={`ci-${i}`}>
-              <Box borderRadius="20px" overflow="hidden" width={250}>
+              <Box className="carousel-img" borderRadius="20px" overflow="hidden" width={250}>
                 <Image
-                  width={220}
-                  height={293}
-                  objectFit="cover"
-                  layout="responsive"
+                  width={300}
+                  height={400}
+                  quality={100}
                   src={`/_img/${item.img}`}
                   alt={`${item.alt}`}
                 />
