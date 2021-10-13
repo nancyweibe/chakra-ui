@@ -6,7 +6,11 @@ const theme = {
         background: `dark.900`,
       },
       a: {
-        color: props.colorMode === "dark" ? "teal.300" : "teal.500",
+        color: props.colorMode === "dark" ? "secondary.500" : "secondary.500",
+
+        _hover: {
+          color: "secondary.700"
+        }
       },
     }),
   },

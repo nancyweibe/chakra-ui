@@ -311,7 +311,7 @@ export const pages = [
         { name: "Black Cinema", img: "p1.jpg", alt: "Six Rounds", color: "#3ec2dd", isNew: true, },
         { name: "Climate change", img: "p2.jpg", alt: "Ice Motion", color: "#9685ce" },
         { name: "Women filmmakers", img: "p3.jpg", alt: "Aleksi", color: "#a5af29", isNew: true, },
-        { name: "Aapi Filmmakers", img: "p4.jpg", alt: "Reunification", color: "#24c7ae" },
+        { name: "AAPI Filmmakers", img: "p4.jpg", alt: "Reunification", color: "#24c7ae" },
         { name: "Summertime", img: "p5.jpg", alt: "Loud Places", color: "#68abff" },
         { name: "Climate change", img: "p6.jpg", alt: "Endgame 2050", color: "#9685ce" },
         { name: "Neo-noir", img: "p7.jpg", alt: "Hello Gangster", color: "#ac9f92" },
@@ -381,7 +381,7 @@ export const pages = [
         },
         {
           question: "How are titles delivered?",
-          answer: "When you find titles you want to license from Filmhub’s catalog, click “Instant order.” Your selected title(s) will automatically be delivered from our cloud to your Amazon S3, FTP/SFTP, or Aspera server in 3-5 business days. Learn more here."
+          answer: "When you find titles you want to license from Filmhub’s catalog, click “Instant order.” Your selected title(s) will automatically be delivered from our cloud to your Amazon S3, FTP/SFTP, or Aspera server in 3-5 business days. <a target='_blank' href='http://help.filmhub.com/en/articles/2692190-setting-up-file-transfer'>Learn more here</a>."
         },
         {
           question: "What are the reporting requirements?",

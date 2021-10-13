@@ -79,9 +79,9 @@ const Faq = ({ data }) => {
                       pt={0}
                       color="primary.500"
                       fontWeight="400"
+                      dangerouslySetInnerHTML={{ __html: item.answer }}
                       fontSize={{ base: "sm", md: "sm", lg: "lg" }}
                     >
-                      {item.answer}
                     </AccordionPanel>
                   </>
                 )}
