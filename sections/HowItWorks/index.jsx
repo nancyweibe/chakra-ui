@@ -24,7 +24,7 @@ const HowItWorks = ({ data }) => {
       >
       </Heading>
       <Box display={{ base: "none", md: "block", lg: "block" }} textAlign="center">
-        <Link mt={{ base: 6, md: 6, lg: 6 }} mb={{ base: 6, md: 6, lg: 6 }} as="a" type="button" colorScheme="brand" href={button.link}>{button.name}</Link>
+        <Link {...button.data ? button.data : {}} mt={{ base: 6, md: 6, lg: 6 }} mb={{ base: 6, md: 6, lg: 6 }} as="a" type="button" colorScheme="brand" href={button.link}>{button.name}</Link>
       </Box>
       <Grid templateColumns="repeat(6, 1fr)" gap={{ base: 5, md: 20, lg: 100 }}>
         <GridItem colSpan={{ base: 6, md: 3, lg: 3 }}>

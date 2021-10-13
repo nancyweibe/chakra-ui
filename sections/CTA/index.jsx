@@ -91,7 +91,7 @@ const CTA = ({ data }) => {
             {description}
           </Text>
           <Box display="flex" justifyContent={{ base: "center", md: "center", lg: "center" }}>
-            <Link mt={{ base: 10, md: 14, lg: 14 }} as="a" type="button" colorScheme="brand" href={button.link}>{button.name}</Link>
+            <Link {...button.data ? button.data : {}} mt={{ base: 10, md: 14, lg: 14 }} as="a" type="button" colorScheme="brand" href={button.link}>{button.name}</Link>
           </Box>
         </Box>
 

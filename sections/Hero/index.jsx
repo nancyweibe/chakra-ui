@@ -24,27 +24,27 @@ const Hero = ({ data }) => {
           }}>
             <Grid templateColumns="repeat(6, 1fr)" gap={6}>
               <GridItem colSpan={6} w="100%">
-                <Box width={{ base: "100%", md: "auto", lg: "auto" }} textAlign={{base: "left", md:"center", lg: "center"}}>
+                <Box width={{ base: "100%", md: "auto", lg: "auto" }} textAlign={{ base: "left", md: "center", lg: "center" }}>
                   <Heading
                     as="h1"
                     fontSize={{ base: "4xl", md: "5xl", lg: "5xl" }}
                     fontWeight="black"
                     maxW={{ base: "400px", md: "500px", lg: "900px" }}
                     lineHeight="1.25"
-                    mx={{base: "0", md: "auto", lg: "auto"}}
+                    mx={{ base: "0", md: "auto", lg: "auto" }}
                     dangerouslySetInnerHTML={{ __html: title }}
                   >
                   </Heading>
-                    <Text
-                      fontSize={{ base: "sm", md: "xl", lg: "2xl" }}
-                      mx={{base: "0", md: "auto", lg: "auto"}}
-                      mt="6"
-                      fontWeight={500}
-                      maxW={{ base: "270px", md: "360px", lg: "800px" }}>
-                      {description}
-                    </Text>
+                  <Text
+                    fontSize={{ base: "sm", md: "xl", lg: "2xl" }}
+                    mx={{ base: "0", md: "auto", lg: "auto" }}
+                    mt="6"
+                    fontWeight={500}
+                    maxW={{ base: "270px", md: "360px", lg: "800px" }}>
+                    {description}
+                  </Text>
                   <Box display="flex" justifyContent="center" mt={10} >
-                    <Link width={{ base: "100%", md:"auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>
+                    <Link {...button.data ? button.data : {}} width={{ base: "100%", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>
                   </Box>
                 </Box>
                 <Box w="100%" mt={{ base: 20, lg: 20 }} textAlign="center">
@@ -77,7 +77,7 @@ const Hero = ({ data }) => {
                     {description}
                   </Text>
                   <Box display="flex" alignItems="center" flexDirection={{ base: "column", lg: "row" }} mt={10} >
-                    <Link width={{ base: "100%", lg: "auto" }} type="button" variant="primary-effect" href={button.link}>{button.name}</Link>
+                    <Link {...button.data ? button.data : {}} width={{ base: "100%", lg: "auto" }} type="button" variant="primary-effect" href={button.link}>{button.name}</Link>
                     <Text fontSize="sm" ml={{ base: 0, lg: 5 }} mt={{ base: 5, lg: 0 }}>{button.label}</Text>
                     <Link display={{
                       base: 'flex',

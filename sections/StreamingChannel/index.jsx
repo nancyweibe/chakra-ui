@@ -146,7 +146,7 @@ const Comments = ({ data }) => {
         >
         </Heading>
         <Box pb={{ base: 16, lg: 32 }} display="flex" justifyContent="center" mt={5} >
-          <Link width={{ base: "auto", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>
+          <Link {...button.data ? button.data : {}} width={{ base: "auto", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>
         </Box>
       </Container>
     </Box>
