@@ -7,11 +7,16 @@ const theme = {
       },
       a: {
         color: props.colorMode === "dark" ? "secondary.500" : "secondary.500",
-
-        _hover: {
-          color: "secondary.700"
-        }
       },
+
+      ".faqSect": {
+
+        a: {
+          _hover: {
+            color: "secondary.700"
+          }
+        }
+      }
     }),
   },
   headingSizes: {

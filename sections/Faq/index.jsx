@@ -77,6 +77,7 @@ const Faq = ({ data }) => {
                       pb={4}
                       pl={9}
                       pt={0}
+                      className="faqSect"
                       color="primary.500"
                       fontWeight="400"
                       dangerouslySetInnerHTML={{ __html: item.answer }}
