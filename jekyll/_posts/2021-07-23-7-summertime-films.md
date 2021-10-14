@@ -4,7 +4,7 @@ title: 7 Films To Stream This Summer
 author: Keju Luo
 category: Articles
 date: 2021-07-22T19:16:10.935Z
-image: https://ucarecdn.com/99d55234-6dae-40c7-b96f-783b83001ae4/
+image: https://ucarecdn.com/4660d5bb-650b-4f07-b608-e781a9128a74/-/resize/1460x/-/format/auto/-/quality/smart/
 ---
 > Summer 2021 is special because we didn't get to enjoy the last one. Though some of us are lucky enough to take a breather from COVID, it's not quite a summer of joy, as new variants pose threats, and we see wildfires, floods, and record-breaking high temperatures all around the globe... 
 >
