@@ -4,7 +4,7 @@ title: 8 Films Brilliantly Set in a Single Location
 author: Keju Luo
 category: Articles
 date: 2021-06-16T17:42:55.708Z
-image: https://ucarecdn.com/96f53dfa-85d8-40ed-af55-18c4b88e3ac5/
+image: https://ucarecdn.com/ddec5ee4-e642-4263-b503-e9db5bd0c055/-/resize/1460x/-/format/auto/-/quality/smart/
 ---
 > Lockdown has come to an end for good in the U.S. (hopefully), and we honor the peculiar times of entrapment and isolation with this special feature. Setting an entire film in one location is a creative challenge to put it lightly. From [12 Angry Men (1957)](https://www.themoviedb.org/movie/389-12-angry-men) to [Saw (2004)](https://www.themoviedb.org/movie/176-saw?language=en-US) to the latest Bo Burnham film, [Inside](https://www.themoviedb.org/movie/823754-inside-bo-burnham), made during the lockdown, filmmakers over the years have brilliantly turned such confinement into great strength across all genres. Here are 8 single-location films from the Filmhub catalog.  
 
@@ -12,7 +12,7 @@ image: https://ucarecdn.com/96f53dfa-85d8-40ed-af55-18c4b88e3ac5/
 
 ## Bedroom Story
 
-*Directed by Courtney Daniels / Comedy/Romance / 2019 / 90 mins / United States*
+*Directed by Courtney Daniels / Comedy / 2019 / 90 mins / United States*
 
 **Synopsis:** After the disappointing debut of her novel, a woman engages in escapist behavior, creating trouble in her marriage. A relatable exploration of our obsessions: the pursuit of success, happiness, social media, nostalgia, monogamy, and the meaning of life.
 
@@ -24,7 +24,7 @@ image: https://ucarecdn.com/96f53dfa-85d8-40ed-af55-18c4b88e3ac5/
 
 ## Our House for the Weekend
 
-*Directed by Ryan Balas / Comedy/Romance / 2017 / 57 mins / United States*
+*Directed by Ryan Balas / Comedy / 2017 / 57 mins / United States*
 
 **Synopsis:** While house sitting for their in-laws, a married couple's relationship is put to the test when they lose the family cat. This freewheeling faux-doc is a hilarious look at sex, love and marriage, and house sitting.
 
@@ -60,7 +60,7 @@ image: https://ucarecdn.com/96f53dfa-85d8-40ed-af55-18c4b88e3ac5/
 
 ## Down There in Heaven
 
-*Directed by Felix Schäfer / 2018 / 82 mins / Germany*
+*Directed by Felix Schäfer / Comedy / 2018 / 82 mins / Germany*
 
 **Synopsis:** Six men meet at a surprise party. A note left behind reveals that they are part of a therapeutic intervention. Reluctantly, they surrender to their destiny and embark on a journey to explore their own selves.
 
@@ -96,7 +96,7 @@ image: https://ucarecdn.com/96f53dfa-85d8-40ed-af55-18c4b88e3ac5/
 
 ## Sampan
 
-*Directed by Maxim Bessmertny / Crime/Drama / 2016 / 19 mins / Macau, China*
+*Directed by Maxim Bessmertny / Drama / 2016 / 19 mins / Macau, China*
 
 **Synopsis:** A fishing net entangles a fisherman, a foreigner, and an actress into a love triangle off the coast of Sai Kung in Hong Kong.
 
