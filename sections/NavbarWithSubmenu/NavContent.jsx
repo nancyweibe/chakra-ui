@@ -18,6 +18,9 @@ import appConfig from '../../configs/appConfig'
 
 const MobileNavContext = (props) => {
   const { isOpen, onToggle } = useDisclosure()
+  const { page } = props
+  const { button1, button2, button1a } = page.header
+
   return (
     <>
       <Flex align="center" justify="space-between" className="nav-content__mobile" {...props}>
@@ -41,22 +44,31 @@ const MobileNavContext = (props) => {
             <Submenu.Mobile key={idx} link={link} />
           ) : (
             <Link type="link-mobile" mb={4} key={idx} href={link.href} dangerouslySetInnerHTML={{ __html: link.label }}>
-              
+
             </Link>
           ),
         )}
-        <Link data-tf-popup="yx3n3RtI" as="a" w="full" type="button" colorScheme="brand" mt="5">
-          Get Started
+        {button1a && <Link {...button1a.data ? button1a.data : {}} as="a" w="full" type="button" href={button1a.link} colorScheme="brand" mt="5">
+          {button1a.name}
         </Link>
-        <Link  as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey" w="full" mt="5">
-          Login
+        }
+        {button1 && <Link {...button1.data ? button1.data : {}} as="a" w="full" type="button" href={button1.link} colorScheme="brand" mt="5">
+          {button1.name}
         </Link>
+        }
+        {button2 && <Link {...button2.data ? button2.data : {}} as="a" type="button" href={button2.link} variant="outline-grey" w="full" mt="5">
+          {button2.name}
+        </Link>
+        }
       </NavMenu>
     </>
   )
 }
 
 const DesktopNavContent = (props) => {
+  const { page } = props
+  const { button1, button2, button1a } = page.header
+
   return (
     <Flex className="nav-content__desktop" align="center" justify="space-between" {...props}>
       <Link as="a" href="/" rel="home">
@@ -75,12 +87,18 @@ const DesktopNavContent = (props) => {
             </Box>
           ))}
         </HStack>
-        <Link data-tf-popup="yx3n3RtI" as="a" type="button" colorScheme="brand">
-          Get Started
+        {button1a && <Link {...button1a.data ? button1a.data : {}} as="a" type="button" href={button1a.link} colorScheme="brand">
+          {button1a.name}
         </Link>
-        <Link as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey">
-          Login
+        }
+        {button1 && <Link {...button1.data ? button1.data : {}} as="a" type="button" href={button1.link} colorScheme="brand">
+          {button1.name}
         </Link>
+        }
+        {button2 && <Link {...button2.data ? button2.data : {}} as="a" type="button" href={button2.link} variant="outline-grey">
+          {button2.name}
+        </Link>
+        }
       </HStack>
     </Flex>
   )

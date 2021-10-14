@@ -22,8 +22,8 @@ function App({ Component, pageProps }) {
   const [scrollBar, setScrollBar] = useState(null)
   const [isLoaded, setIsLoaded] = useState(false)
 
-  useEffect(()=>{
-    setTimeout(()=>{
+  useEffect(() => {
+    setTimeout(() => {
       setIsLoaded(true)
     }, 500)
   }, [])
@@ -31,9 +31,9 @@ function App({ Component, pageProps }) {
   return (
     <PlausibleProvider domain="filmhub.com" trackOutboundLinks={true}>
       <ChakraProvider theme={theme}>
-        <Navbar scrollBar={scrollBar} />
+        <Navbar page={page} scrollBar={scrollBar} />
         {/* <ScrollBarWrapper onInit={setScrollBar}> */}
-        <Loader isLoaded={isLoaded}/>
+        <Loader isLoaded={isLoaded} />
         <Component {...pageProps} page={page} scrollBar={scrollBar} />
         {/* </ScrollBarWrapper> */}
       </ChakraProvider>

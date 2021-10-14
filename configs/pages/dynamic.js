@@ -4,15 +4,21 @@ export const pages = [
     title: "Filmhub, the #1 Film Distribution Platform",
     description: "Empower filmmakers to direct distribute their films around the world.",
 
+    header: {
+      button1: {
+        name: "Get Started",
+        link: "https://app.filmhub.com/owner/signup"
+      },
+      button2: {
+        name: "Login",
+        link: "https://app.filmhub.com/login"
+      }
+    },
+
     hero: {
       title: "Film Distribution <strong>Simplified</strong>",
       description: "Stream to new audiences worldwide. Make money. Maintain your rights.",
-      button: { 
-        name: "Get Started",
-        //data: {"data-tf-popup":"yx3n3RtI"},
-        link: "https://app.filmhub.com/owner/signup", 
-        varianr: "primary-effect", 
-        label: "It's Free!" },
+      button: { name: "Get Started", link: "https://app.filmhub.com/owner/signup", varianr: "primary-effect", label: "It's Free!" },
       img: "hero-img.png",
       imgAlt: "Hero image"
     },
@@ -81,11 +87,7 @@ export const pages = [
     CtaChannelBuyers: {
       title: "Channel Buyers",
       description: "Interested in joining Filmhub’s roster of 100+ streaming channels licensing fresh, amazing cinema?",
-      button: { 
-        name: "Let’s Talk", 
-        data: {"data-tf-popup":"yx3n3RtI"},
-        //link: "https://cal.mixmax.com/jenniferniessen/30" 
-      },
+      button: { name: "Let’s Talk", link: "https://cal.mixmax.com/jenniferniessen/30" },
       variant: "violet",
       img1: "cta1.png",
       img2: "cta2.png",
@@ -94,22 +96,14 @@ export const pages = [
     distributors: {
       title: "Distributors & Sales Agents",
       description: "Want to expand your distribution to new territories and channels?",
-      button: { 
-        name: "Let’s Talk", 
-        data: {"data-tf-popup":"yx3n3RtI"},
-        //link: "https://calendly.com/filmhubwebdemo/distributors-and-sales-agents" 
-      },
+      button: { name: "Let’s Talk", link: "https://calendly.com/filmhubwebdemo/distributors-and-sales-agents" },
       variant: "light",
     },
 
     stayInTouch: {
       title: "Want to Stay in Touch?",
       description: "Subscribe to receive the occasional newsletter with distribution tips, industry news, and product updates.",
-      button: { 
-        name: "Let’s Talk", 
-        data: {"data-tf-popup":"yx3n3RtI"},
-        //link: "https://cal.mixmax.com/jenniferniessen/30" 
-      },
+      button: { name: "Let’s Talk", link: "https://cal.mixmax.com/jenniferniessen/30" },
       variant: "light-form",
       img1: "cta3.png",
       img2: "cta4.png",
@@ -134,8 +128,7 @@ export const pages = [
       title: "How it Works",
       button: {
         name: "Get Started",
-        data: {"data-tf-popup":"yx3n3RtI"},
-        //link: "https://app.filmhub.com/owner/signup",
+        link: "https://app.filmhub.com/owner/signup",
       },
       img: "chart.svg",
       list: [
@@ -194,10 +187,21 @@ export const pages = [
     title: "Filmhub, the #1 Film Distribution Platform",
     description: "Empower filmmakers to direct distribute their films around the world.",
 
+    header: {
+      button1a: {
+        name: "Get Started",
+        data: { "data-tf-popup": "yx3n3RtI" },
+      },
+      button2: {
+        name: "Login",
+        link: "https://app.filmhub.com/login"
+      }
+    },
+
     hero: {
       title: "Licensing great cinema should be as <span>simple as choosing what to watch.</span>",
       description: "Browse titles. Click to license. Receive automated deliveries.",
-      button: { name: "Let’s Talk", data: {"data-tf-popup":"yx3n3RtI"}, variant: "secondary" },
+      button: { name: "Let’s Talk", data: { "data-tf-popup": "yx3n3RtI" }, variant: "secondary" },
       img: "hero-channelbuyers.png",
       imgAlt: "Hero image Channel buyers",
       variant: "channelbuyers"
@@ -337,10 +341,10 @@ export const pages = [
     },
     streamingChannel: {
       title: "Streaming Channel <span>Partnership Plans</span>",
-      btnLabel :"Interested?",
+      btnLabel: "Interested?",
       button: {
         name: "Let’s Talk",
-        data: {"data-tf-popup":"yx3n3RtI"},
+        data: { "data-tf-popup": "yx3n3RtI" },
         //link: "https://cal.mixmax.com/jenniferniessen/30",
         variant: "secondary"
       },
@@ -349,20 +353,20 @@ export const pages = [
           title: "Startup",
           img: "rocket.svg",
           list: [
-            {name: "No Monthly Revenue Share Minimum Required to Qualify"},
-            {name: "Dedicated Account Manager"},
-            {name: "Monthly Subscription Fee to Filmhub: $500/month"},
-            {name: "Revenue Share on Licensed titles:", list: ["SVOD & AVOD $0.20 per viewed hour", "TVOD 80/20 Split Filmhub/Channel"]},
+            { name: "No Monthly Revenue Share Minimum Required to Qualify" },
+            { name: "Dedicated Account Manager" },
+            { name: "Monthly Subscription Fee to Filmhub: $500/month" },
+            { name: "Revenue Share on Licensed titles:", list: ["SVOD & AVOD $0.20 per viewed hour", "TVOD 80/20 Split Filmhub/Channel"] },
           ]
         },
         {
           title: "Enterprise",
           img: "company.svg",
           list: [
-            {name: "Monthly Revenue Share Minimum to Qualify: $10K"},
-            {name: "Dedicated Account Manager"},
-            {name: "Monthly Subscription Fee to Filmhub: $500/month"},
-            {name: "Revenue Share on licensed titles: Custom"},
+            { name: "Monthly Revenue Share Minimum to Qualify: $10K" },
+            { name: "Dedicated Account Manager" },
+            { name: "Monthly Subscription Fee to Filmhub: $500/month" },
+            { name: "Revenue Share on licensed titles: Custom" },
           ]
         }
       ]

@@ -3,7 +3,7 @@ import { Box, Container, useColorModeValue as mode } from '@chakra-ui/react'
 import * as React from 'react'
 import { NavContent } from './NavContent'
 
-const App = ({scrollBar}) => {
+const App = ({scrollBar, page}) => {
 
   const [scrollTop, setScrollTop] = useState(0)
   const isCanDetect = useRef(true)
@@ -69,12 +69,14 @@ const App = ({scrollBar}) => {
           aria-label="Main navigation"
         >
           <NavContent.Mobile
+            page={page}
             display={{
               base: 'flex',
               lg: 'none',
             }}
           />
           <NavContent.Desktop
+            page={page}
             display={{
               base: 'none',
               lg: 'flex',
