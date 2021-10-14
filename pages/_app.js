@@ -31,7 +31,7 @@ function App({ Component, pageProps }) {
   return (
     <PlausibleProvider domain="filmhub.com" trackOutboundLinks={true}>
       <ChakraProvider theme={theme}>
-        <Navbar page={page} scrollBar={scrollBar} />
+        {page && <Navbar page={page} scrollBar={scrollBar} />}
         {/* <ScrollBarWrapper onInit={setScrollBar}> */}
         <Loader isLoaded={isLoaded} />
         <Component {...pageProps} page={page} scrollBar={scrollBar} />
