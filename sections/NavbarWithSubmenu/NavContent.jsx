@@ -45,7 +45,7 @@ const MobileNavContext = (props) => {
             </Link>
           ),
         )}
-        <Link as="a" w="full" type="button" href="https://app.filmhub.com/owner/signup" colorScheme="brand" mt="5">
+        <Link data-tf-popup="yx3n3RtI" as="a" w="full" type="button" colorScheme="brand" mt="5">
           Get Started
         </Link>
         <Link  as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey" w="full" mt="5">
@@ -75,7 +75,7 @@ const DesktopNavContent = (props) => {
             </Box>
           ))}
         </HStack>
-        <Link as="a" type="button" href="https://app.filmhub.com/owner/signup" colorScheme="brand">
+        <Link data-tf-popup="yx3n3RtI" as="a" type="button" colorScheme="brand">
           Get Started
         </Link>
         <Link as="a" type="button" href="https://app.filmhub.com/login" variant="outline-grey">
