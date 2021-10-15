@@ -20,6 +20,7 @@ const MobileNavContext = (props) => {
   const { isOpen, onToggle } = useDisclosure()
   const { page } = props
   const { button1, button2, button1a } = page.header
+  const { links } = page
 
   return (
     <>
@@ -39,7 +40,7 @@ const MobileNavContext = (props) => {
         </Box>
       </Flex>
       <NavMenu bg="linear-gradient(180deg, #111827 0%, #1A237E 100%)" animate={isOpen ? 'open' : 'closed'}>
-        {appConfig.links.map((link, idx) =>
+        {links.map((link, idx) =>
           link.children ? (
             <Submenu.Mobile key={idx} link={link} />
           ) : (
@@ -68,6 +69,7 @@ const MobileNavContext = (props) => {
 const DesktopNavContent = (props) => {
   const { page } = props
   const { button1, button2, button1a } = page.header
+  const { links } = page
 
   return (
     <Flex className="nav-content__desktop" align="center" justify="space-between" {...props}>
@@ -77,7 +79,7 @@ const DesktopNavContent = (props) => {
       </Link>
       <HStack spacing="8" minW="240px" justify="space-between">
         <HStack mr={10} as="ul" id="nav__primary-menu" aria-label="Main Menu" listStyleType="none">
-          {appConfig.links.map((link, idx) => (
+          {links.map((link, idx) => (
             <Box as="li" key={idx} id={`nav__menuitem-${idx}`}>
               {link.children ? (
                 <Submenu.Desktop link={link} />

@@ -13,14 +13,14 @@ const app = {
       label: '&nbsp;',
       href: '#',
     },
-    // {
-    //   label: 'Buyers',
-    //   href: '/buyers',
-    // },
-    // {
-    //   label: 'Filmmakers',
-    //   href: '/filmmakers',
-    // },
+    {
+      label: 'Buyers',
+      href: '/channelbuyers',
+    },
+    {
+      label: 'Filmmakers',
+      href: '/',
+    },
   ],
 
   footer: {
@@ -62,6 +62,14 @@ const app = {
           {
             label: 'Login',
             href: 'https://app.filmhub.com/login',
+          },
+          {
+            label: 'Filmmakers',
+            href: '/',
+          },
+          {
+            label: 'Channel Buyers',
+            href: '/channelbuyers',
           },
         ],
       },

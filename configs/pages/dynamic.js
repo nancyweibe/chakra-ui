@@ -15,6 +15,17 @@ export const pages = [
       }
     },
 
+    links: [
+      {
+        label: '&nbsp;',
+        href: '#',
+      },
+      {
+        label: 'Buyers',
+        href: '/channelbuyers',
+      },
+    ],
+
     hero: {
       title: "Film Distribution <strong>Simplified</strong>",
       description: "Stream to new audiences worldwide. Make money. Maintain your rights.",
@@ -197,6 +208,17 @@ export const pages = [
         link: "https://app.filmhub.com/login"
       }
     },
+
+    links: [
+      {
+        label: '&nbsp;',
+        href: '#',
+      },
+      {
+        label: 'Filmmakers',
+        href: '/',
+      },
+    ],
 
     hero: {
       title: "Licensing great cinema should be as <span>simple as choosing what to watch.</span>",
