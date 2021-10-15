@@ -10,7 +10,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head>
-          <script async src="//embed.typeform.com/next/embed.js"></script>
+          {/* <script async src="//embed.typeform.com/next/embed.js"></script> */}
         </Head>
         <body>
           <Main />

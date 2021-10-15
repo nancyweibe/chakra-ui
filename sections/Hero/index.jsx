@@ -1,7 +1,7 @@
 import { Box, Grid, GridItem, Container, Heading, Text } from '@chakra-ui/react'
 import Link from "../../components/Link"
 import Image from "next/image"
-
+import { PopupButton } from '@typeform/embed-react'
 
 const Hero = ({ data }) => {
 
@@ -44,7 +44,7 @@ const Hero = ({ data }) => {
                     {description}
                   </Text>
                   <Box display="flex" justifyContent="center" mt={10} >
-                    <Link {...button.data ? button.data : {}} width={{ base: "100%", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>
+                    {button.typeFormId ? <PopupButton id={button.typeFormId}><Link width={{ base: "100%", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link></PopupButton> : <Link width={{ base: "100%", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>}
                   </Box>
                 </Box>
                 <Box w="100%" mt={{ base: 20, lg: 20 }} textAlign="center">
@@ -77,7 +77,7 @@ const Hero = ({ data }) => {
                     {description}
                   </Text>
                   <Box display="flex" alignItems="center" flexDirection={{ base: "column", lg: "row" }} mt={10} >
-                    <Link {...button.data ? button.data : {}} width={{ base: "100%", lg: "auto" }} type="button" variant="primary-effect" href={button.link}>{button.name}</Link>
+                    {button.typeFormId ? <PopupButton id={button.typeFormId}><Link width={{ base: "100%", lg: "auto" }} type="button" variant="primary-effect" href={button.link}>{button.name}</Link></PopupButton> : <Link width={{ base: "100%", lg: "auto" }} type="button" variant="primary-effect" href={button.link}>{button.name}</Link>}
                     <Text fontSize="sm" ml={{ base: 0, lg: 5 }} mt={{ base: 5, lg: 0 }}>{button.label}</Text>
                     <Link display={{
                       base: 'flex',

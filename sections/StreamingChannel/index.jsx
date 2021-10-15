@@ -2,6 +2,7 @@ import { Box, Container, Grid, GridItem, Heading, List, ListItem, UnorderedList 
 import Image from "next/image"
 import Icon from "../../components/Icon"
 import Link from "../../components/Link"
+import { PopupButton } from '@typeform/embed-react'
 
 const Comments = ({ data }) => {
 
@@ -146,7 +147,9 @@ const Comments = ({ data }) => {
         >
         </Heading>
         <Box pb={{ base: 16, lg: 32 }} display="flex" justifyContent="center" mt={5} >
-          <Link {...button.data ? button.data : {}} width={{ base: "auto", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>
+          {button && (button.typeFormId ?
+            <PopupButton id={button.typeFormId}><Link {...button.data ? button.data : {}} width={{ base: "auto", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link></PopupButton> : <Link {...button.data ? button.data : {}} width={{ base: "auto", md: "auto", lg: "auto" }} type="button" colorScheme={button.variant} href={button.link}>{button.name}</Link>)
+          }
         </Box>
       </Container>
     </Box>

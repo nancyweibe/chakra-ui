@@ -201,7 +201,7 @@ export const pages = [
     header: {
       button1a: {
         name: "Get Started",
-        data: { "data-tf-popup": "yx3n3RtI" },
+        typeFormId: "yx3n3RtI",
       },
       button2: {
         name: "Login",
@@ -223,7 +223,7 @@ export const pages = [
     hero: {
       title: "Licensing great cinema should be as <span>simple as choosing what to watch.</span>",
       description: "Browse titles. Click to license. Receive automated deliveries.",
-      button: { name: "Let’s Talk", data: { "data-tf-popup": "yx3n3RtI" }, variant: "secondary" },
+      button: { name: "Let’s Talk", typeFormId: "yx3n3RtI", variant: "secondary" },
       img: "hero-channelbuyers.png",
       imgAlt: "Hero image Channel buyers",
       variant: "channelbuyers"
@@ -366,7 +366,7 @@ export const pages = [
       btnLabel: "Interested?",
       button: {
         name: "Let’s Talk",
-        data: { "data-tf-popup": "yx3n3RtI" },
+        typeFormId: "yx3n3RtI",
         //link: "https://cal.mixmax.com/jenniferniessen/30",
         variant: "secondary"
       },

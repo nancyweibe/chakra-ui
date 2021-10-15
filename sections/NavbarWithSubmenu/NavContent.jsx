@@ -15,6 +15,7 @@ import { NavMenu } from './NavMenu'
 import { Submenu } from './Submenu'
 import { ToggleButton } from './ToggleButton'
 import appConfig from '../../configs/appConfig'
+import { PopupButton } from '@typeform/embed-react'
 
 const MobileNavContext = (props) => {
   const { isOpen, onToggle } = useDisclosure()
@@ -49,17 +50,26 @@ const MobileNavContext = (props) => {
             </Link>
           ),
         )}
-        {button1a && <Link {...button1a.data ? button1a.data : {}} as="a" w="full" type="button" href={button1a.link} colorScheme="brand" mt="5">
-          {button1a.name}
-        </Link>
+        {button1a && (button1a.typeFormId ?
+          <PopupButton id={button1a.typeFormId}><Link as="a" w="full" type="button" href={button1a.link} colorScheme="brand" mt="5">
+            {button1a.name}
+          </Link></PopupButton> : <Link as="a" w="full" type="button" href={button1a.link} colorScheme="brand" mt="5">
+            {button1a.name}
+          </Link>)
         }
-        {button1 && <Link {...button1.data ? button1.data : {}} as="a" w="full" type="button" href={button1.link} colorScheme="brand" mt="5">
-          {button1.name}
-        </Link>
+        {button1 && (button1.typeFormId ?
+          <PopupButton id={button1.typeFormId}><Link as="a" w="full" type="button" href={button1.link} colorScheme="brand" mt="5">
+            {button1.name}
+          </Link></PopupButton> : <Link as="a" w="full" type="button" href={button1.link} colorScheme="brand" mt="5">
+            {button1.name}
+          </Link>)
         }
-        {button2 && <Link {...button2.data ? button2.data : {}} as="a" type="button" href={button2.link} variant="outline-grey" w="full" mt="5">
-          {button2.name}
-        </Link>
+        {button2 && (button2.typeFormId ?
+          <PopupButton id={button2.typeFormId}><Link as="a" type="button" href={button2.link} variant="outline-grey" w="full" mt="5">
+            {button2.name}
+          </Link></PopupButton> : <Link as="a" type="button" href={button2.link} variant="outline-grey" w="full" mt="5">
+            {button2.name}
+          </Link>)
         }
       </NavMenu>
     </>
@@ -89,17 +99,26 @@ const DesktopNavContent = (props) => {
             </Box>
           ))}
         </HStack>
-        {button1a && <Link {...button1a.data ? button1a.data : {}} as="a" type="button" href={button1a.link} colorScheme="brand">
-          {button1a.name}
-        </Link>
+        {button1a && (button1a.typeFormId ?
+          <PopupButton id={button1a.typeFormId}><Link as="a" type="button" href={button1a.link} colorScheme="brand">
+            {button1a.name}
+          </Link></PopupButton> : <Link as="a" type="button" href={button1a.link} colorScheme="brand">
+            {button1a.name}
+          </Link>)
         }
-        {button1 && <Link {...button1.data ? button1.data : {}} as="a" type="button" href={button1.link} colorScheme="brand">
-          {button1.name}
-        </Link>
+        {button1 && (button1.typeFormId ?
+          <PopupButton id={button1.typeFormId}><Link as="a" type="button" href={button1.link} colorScheme="brand">
+            {button1.name}
+          </Link></PopupButton> : <Link as="a" type="button" href={button1.link} colorScheme="brand">
+            {button1.name}
+          </Link>)
         }
-        {button2 && <Link {...button2.data ? button2.data : {}} as="a" type="button" href={button2.link} variant="outline-grey">
-          {button2.name}
-        </Link>
+        {button2 && (button2.typeFormId ?
+          <PopupButton id={button2.typeFormId}><Link as="a" type="button" href={button2.link} variant="outline-grey">
+            {button2.name}
+          </Link></PopupButton> : <Link as="a" type="button" href={button2.link} variant="outline-grey">
+            {button2.name}
+          </Link>)
         }
       </HStack>
     </Flex>
