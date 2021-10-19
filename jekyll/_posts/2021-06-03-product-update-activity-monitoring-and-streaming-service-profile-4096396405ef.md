@@ -14,11 +14,11 @@ You can now monitor what’s happening with your title after submission from bot
 
 In the title list on your dashboard, we’ve added a new “Selected by” column that shows streaming services that have selected the title.
 
-https://ucarecdn.com/ea1b8cf8-79a2-4e7a-832c-3e59727f2ee3/-/resize/1460x/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/d8e70185-8bec-4ddf-86c3-92acd2301008/-/resize/1460x/-/format/auto/-/quality/smart/)
 
 To see the full activity feed, click on a title to open the title view, then scroll down to “Activity”.
 
-https://ucarecdn.com/5513917f-0546-4627-bf4d-7eaac52e32bf/-/resize/1460x/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/82b26539-3468-45f3-944a-60e4f84e022d/-/resize/1460x/-/format/auto/-/quality/smart/)
 
 More info in our [Help Center article](http://help.filmhub.com/en/articles/2663781-monitoring-title-status).
 
