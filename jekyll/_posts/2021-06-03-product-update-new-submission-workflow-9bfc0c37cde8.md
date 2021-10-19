@@ -22,6 +22,6 @@ A title has now a *status* on its path to the marketplace:
 * *Fail* if something’s wrong. This is not final — we notify what is wrong and how to fix it.
 * *Pass*: all good to go
 
-https://ucarecdn.com/d6a1d815-b522-43b1-8599-830aac6cdf7e/-/resize/1460x/-/format/auto/-/quality/smart/)
+![New Submission Workflow](https://ucarecdn.com/d6a1d815-b522-43b1-8599-830aac6cdf7e/-/resize/1460x/-/format/auto/-/quality/smart/)
 
 Refer to [this article](http://help.filmhub.com/en/articles/2823375-how-filmhub-works-in-7-steps) in our Help Center for how it works. Feel free to share your thoughts on how we can improve.

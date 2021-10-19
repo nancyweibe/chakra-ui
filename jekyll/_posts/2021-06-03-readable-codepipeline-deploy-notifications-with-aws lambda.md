@@ -58,7 +58,7 @@ All that’s left is the actual SNS topic. Here I’m subscribed to receive depl
 
 To summarize how this works:
 
-https://ucarecdn.com/e0fc534b-5cbd-4614-b998-8dd566cbbe02/-/resize/1460x/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/e0fc534b-5cbd-4614-b998-8dd566cbbe02/-/resize/1460x/-/format/auto/-/quality/smart/)
 
 1. A `git push` to Github (or CodeCommit) starts a CodePipeline deploy
 2. This fires a CloudWatch event rule which invokes our Lambda function
@@ -70,4 +70,4 @@ Here’s also the complete CloudFormation template with all resources.
 <script src="https://gist.github.com/klausbadelt/9e004c0eef87de697d689cc566637686.js"></script>
 - - -
 
-Passionate about film and cloud technology? At [Filmhub](http://), we’re doing revolutionary things for filmmakers with code and data. If you’d like to be part of the team [contact us](https://filmhub.zendesk.com/hc/en-us/requests/new).
+Passionate about film and cloud technology? At [Filmhub](https://filmhub.com), we’re doing revolutionary things for filmmakers with code and data. If you’d like to be part of the team [contact us](http://help.filmhub.com).

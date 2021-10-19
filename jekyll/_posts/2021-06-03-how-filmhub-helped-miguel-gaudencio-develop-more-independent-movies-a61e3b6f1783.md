@@ -11,6 +11,7 @@ Raised in Portugal and currently residing in Poland, [Miguel Gaudêncio](https:/
 Despite a strong portfolio of success, Miguel Gaudencio still struggled to get access to streaming services that could exhibit his independently produced movies. His wife’s recommendation that he try Filmhub “*changed \[his] life as a filmmaker*”.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fna5WNu-iRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*Watch the Success Story*
 
 ### Before Filmhub: Miguel was frustrated by the gatekeepers of the old system
 
@@ -24,9 +25,8 @@ Miguel’s friends warned him about the risk of rip-offs associated with the tra
 
 But then Miguel listened to his wife, and tried Filmhub.
 
-https://ucarecdn.com/67f6dcdc-3e04-4dd5-ac64-125fdbb4a528/-/resize/1460x/-/format/auto/-/quality/smart/ "Screenshot from the documentary Easter Monday")
-
-*Screenshot from the documentary Easter Monday (2012)*
+![Still from the documentary Easter Monday (2012)](https://ucarecdn.com/67f6dcdc-3e04-4dd5-ac64-125fdbb4a528/-/resize/1460x/-/format/auto/-/quality/smart/)
+*Still from the documentary Easter Monday (2012)*
 
 ### With Filmhub: fair, transparent, and profitable digital distribution
 
@@ -44,9 +44,8 @@ Miguel takes advantage of Filmhub’s free services; upload, QC, storage, transc
 
 > *“The process with Filmhub is impeccable. We are now able to set our independent release dates, target our most important streaming services, and coordinate our promotion like social media & ads around it.”*
 
-https://ucarecdn.com/5ba9aad9-05e7-46b1-bda8-1f7726a33761/-/resize/1460x/-/format/auto/-/quality/smart/ "Screenshot from the documentary Down, But Not Out!")
-
-*Screenshot from the documentary Down, But Not Out! (2015)*
+![Still from the documentary Down, But Not Out!](https://ucarecdn.com/5ba9aad9-05e7-46b1-bda8-1f7726a33761/-/resize/1460x/-/format/auto/-/quality/smart/)
+*Still from the documentary Down, But Not Out!*
 
 ### Removing the burden of distribution for independent filmmakers
 

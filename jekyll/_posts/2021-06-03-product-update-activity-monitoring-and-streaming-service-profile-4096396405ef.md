@@ -28,4 +28,4 @@ We also added a [list of all streaming services](https://app.filmhub.com/owner/o
 
 Click on a streaming service to find more details — including their respective go live time, curation policy, and payment structure.
 
-https://ucarecdn.com/f910ce24-1189-48ef-a4eb-f9fef74beb76/-/resize/1460x/-/format/auto/-/quality/smart/)
+![](https://ucarecdn.com/f910ce24-1189-48ef-a4eb-f9fef74beb76/-/resize/1460x/-/format/auto/-/quality/smart/)
