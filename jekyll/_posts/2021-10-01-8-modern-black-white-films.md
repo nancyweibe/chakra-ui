@@ -3,7 +3,7 @@ layout: post
 title: 8 Foreign Horror Films to Stream Now
 author: Keju Luo
 category: Articles
-date: 2021-10-04T14:57:18.706Z
+date: 2021-10-18T14:57:18.706Z
 image: https://ucarecdn.com/1e23f1f2-727f-40f9-9a0b-ff9a9e486785/-/resize/1460x/-/format/auto/-/quality/smart/
 ---
 > Horror films are having a moment. Modern-day classics such as *Get Out* and *Hereditary* are finding success as box-office hits and critical darlings. As filmmakers working in the horror genre continue successfully breaking down the barriers between commercial and art cinema, we're seeing more and more terrifying films that challenge audiences without losing mainstream appeal. 
