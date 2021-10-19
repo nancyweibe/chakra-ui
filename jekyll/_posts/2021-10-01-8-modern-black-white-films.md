@@ -49,7 +49,7 @@ image: https://ucarecdn.com/1e23f1f2-727f-40f9-9a0b-ff9a9e486785/-/resize/1460x/
 
 ## Tokyo Grand Guignol
 
-*Directed by Nicolas Alberny, Yann Moreau, Gilles Landucci, Francois Gaillard | Horror | 2017 | 115 mins | Japan*
+*Directed by Nicolas Alberny, Yann Moreau, Gilles Landucci, Francois Gaillard / Horror / 2017 / 115 mins / Japan*
 
 **Synopsis:** Blood, werewolf, lust, time travel, shadow hunter, Giallo, love, and insanity. Four scary and wicked stories for a feature film anthology gathered under the lights of Tokyo nights.
 
@@ -61,7 +61,7 @@ image: https://ucarecdn.com/1e23f1f2-727f-40f9-9a0b-ff9a9e486785/-/resize/1460x/
 
 ## KL24: Zombies
 
-*Directed by James Lee, Gavin Yap, Shamaine Othman | Horror | 2016 | 76 mins | Malaysia*
+*Directed by James Lee, Gavin Yap, Shamaine Othman / Horror / 2016 / 76 mins / Malaysia*
 
 **Synopsis:** A flu-like infection has taken over Kuala Lumpur which turns into a zombie outbreak as we follow three intersecting stories of the survivors fleeing for safety.
 
@@ -73,7 +73,7 @@ image: https://ucarecdn.com/1e23f1f2-727f-40f9-9a0b-ff9a9e486785/-/resize/1460x/
 
 ## 3 Doors of Horrors
 
-*Directed by Leroy Low, Ken Kin Ng, Edmund Yeo | Documentary | 2014 | 68 mins | Malaysia*
+*Directed by Leroy Low, Ken Kin Ng, Edmund Yeo / Documentary / 2014 / 68 mins / Malaysia*
 
 **Synopsis:** 3 winning shorts from an online horror contest - I Miss You Two, Floating Sun, and Horror Mission.
 
@@ -97,7 +97,7 @@ image: https://ucarecdn.com/1e23f1f2-727f-40f9-9a0b-ff9a9e486785/-/resize/1460x/
 
 ## Ghetto Goblin
 
-*Directed by Jordan Harland | Horror | 2013 | 72 mins | South Africa*
+*Directed by Jordan Harland / Horror / 2013 / 72 mins / South Africa*
 
 **Synopsis:** A South African creature horror centering around attacks by the fabled Tokoloshe.
 
