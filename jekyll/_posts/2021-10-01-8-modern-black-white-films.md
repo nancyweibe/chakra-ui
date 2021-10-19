@@ -1,106 +1,105 @@
 ---
 layout: post
-title: 8 Foreign Horror Films to Stream Now
+title: 8 Modern Black and White Films To Stream Now
 author: Keju Luo
 category: Articles
-date: 2021-10-18T14:57:18.706Z
-image: https://ucarecdn.com/1e23f1f2-727f-40f9-9a0b-ff9a9e486785/-/resize/1460x/-/format/auto/-/quality/smart/
+date: 2021-10-04T14:57:18.706Z
+image: https://ucarecdn.com/bef69ee7-4343-4c76-b439-7db332120b88/-/resize/1460x/-/format/auto/-/quality/smart/
 ---
-> Horror films are having a moment. Modern-day classics such as *Get Out* and *Hereditary* are finding success as box-office hits and critical darlings. As filmmakers working in the horror genre continue successfully breaking down the barriers between commercial and art cinema, we're seeing more and more terrifying films that challenge audiences without losing mainstream appeal. 
-> In the spirit of Halloween, we selected nine horror flicks on Filmhub. Set across various decades and four continents, you can stream them now.
+> More than half a century into the age of color, filmmakers still opt for black and white with specific purposes. Some of the finest films of the 21st century are black and white - from *The Artist (2011)* to *Ida (2013)* to *Roma (2018)*. Bong Joon Ho even recently released an alternative black and white version of his history-making Oscar winner *Parasite*. Black and white cinematography is here to stay and here are 8 Filmhub titles that champion it.
 
-![Rift](https://ucarecdn.com/aa40cd8b-8351-4eee-ad69-5a5816aab055/-/resize/1460x/-/format/auto/-/quality/smart/ "Rift")
+![Six Rounds](https://ucarecdn.com/4a2595a4-ad7e-442a-bf1d-a2e8690a25ac/-/resize/1460x/-/format/auto/-/quality/smart/ "Six Rounds")
 
-## Rift
+## Six Rounds
 
-*Directed by Erlingur Thoroddsen / Horror / 2017 / 111 mins / Iceland*
+*Directed by Marcus Flemmings / Drama / 2017 / 57 mins / United Kingdom*
 
-**Synopsis:** Gunnar receives a distraught phone call from his ex and drives up to a secluded cabin to see him. He discovers that there's more going on than he imagined and the two find that they are haunted by someone -- or something.
+**Synopsis:** During the 2011 London Riots and the killing of Mark Duggan, ex-boxer, Stally, must fight an old friend in order to save his life after a drug deal goes wrong.
 
-**What makes it special:** A gay-centric horror-thriller shot against the backdrop of Iceland's stark and magnificent landscapes. One of Icelandic cinema's rising stars, Thoroddsen took a Hitchcockian approach to tell an intimate story about a broken relationship in his second feature film.
+**What makes it special:** Set against the backdrop of a real event, Flemmings's vigorous and enchanting film summons the tropes of all the classic boxer films and crime noirs and interrogates the racial tensions in the UK. Centered in its bleak imagery is a kinetic leading performance from Adam J. Bernard, who's in *Star Wars: The Force Awakens* as the stunt double for John Boyega.
 
-**Where to stream it:** [Plex](https://watch.plex.tv/movie/rift-2017) / [Filmocracy](https://filmocracy.com/movie/NTJiZDZlZTMtNDgwYS0xMWVhLTk3NGYtMDJhYzU3ODc3Mzlj/play)
+**Where to stream it:** [Amazon](https://www.amazon.com/Six-Rounds-Adam-J-Bernard/dp/B08RCVS3SD/) / [Tubi](https://tubitv.com/movies/575716/six-rounds)
 
-![Is That You?](https://ucarecdn.com/67967fac-d419-438e-b485-b1e657cde19e/-/resize/1460x/-/format/auto/-/quality/smart/ "Is That You?")
+![The Sleepless](https://ucarecdn.com/7d19e630-8ab8-439f-a1a8-3a43a3b62c29/-/resize/1460x/-/format/auto/-/quality/smart/ "The Sleepless")
 
-## Is That You?
+## The Sleepless
 
-*Directed by Rudy Riverón Sánchez / Horror / 2018 / 107 mins / United Kingdom, Cuba*
+*Directed by Michael DiBiasio-Ornelas / Drama/Romance / 2021 / 118 mins / United States*
 
-**Synopsis:** When a teen's tyrannical father disappears, she uses a psychic's ritual to bring him back but instead uncovers the disturbing truth behind his disappearance.
+**Synopsis:** Chronic insomniacs Zach and Sophia wander the pre-dawn streets of New York City on an impromptu first date.
 
-**What makes it special:** The first psychological horror film made in Cuba is surprisingly slow-paced and sparse in dialogues, and doesn't resort to typical horror elements. Cuban native Riverón Sánchez's debut rewards patient viewers with a story far more disturbing than it appears at first.
+**What makes it special:** A gentle delight named “Best U.S. Feature” by the New York Independent Cinema Awards. To make a "walk-and-talk" film seem effortless is in fact a tall order only achieved by the very best. The Sleepless is as authentic and engaging as the prototypes of the micro-genre - namely *The Before Trilogy*.
 
-**Where to stream it:** [Plex](https://watch.plex.tv/movie/is-that-you-2018)
+**Where to stream it:** [Amazon](https://www.amazon.com/Sleepless-Nyambi/dp/B091V5TH6X) / [Tubi](https://tubitv.com/movies/589941/the-sleepless)
 
-![Dark Souls](https://ucarecdn.com/5a1ab8d3-f8af-4f5c-9dc9-5b8cd6b90f15/-/resize/1460x/-/format/auto/-/quality/smart/ "Dark Souls")
+![We Feel Fine](https://ucarecdn.com/cc41d57c-0885-4685-bc15-6dceeae986b7/-/resize/1460x/-/format/auto/-/quality/smart/ "We Feel Fine")
 
-## Dark Souls
+## We Feel Fine
 
-*Directed by César Ducasse, Mathieu Peteul / Horror / 2010 / 95 mins / Norway*
+*Directed by Adam Luxton / Drama / 2012 / 93 mins / New Zealand*
 
-**Synopsis:** A revengeful father embarks on a dark thrill ride of lost memories, conspiracy, and zombie-like symptoms. Finding the mysterious darkness within is the source of the bizarre world he has uncovered.
+**Synopsis:** A web of chance transactions and shared concerns among an incongruent group of Aucklanders.
 
-**What makes it special:** A gritty and eerie nordic hit and a fresh take on the zombie genre. Marvelously shot on 16 mm film with brilliant practical effects, Dark Souls offers both a psychological slow burn and in-your-face gory goodness.
+**What makes it special:** A criminally underappreciated gem and an essential piece of New Zealand cinema in the 21st century that remains fresh and unique after almost a decade. No words summarize it better than those by the filmmakers themselves: "A thoughtful and often funny film about people stuck in a kind of hesitation about what to do with themselves, framed against an irreverent view of Auckland as a trashy, billboard infested motorway junction."
 
-**Where to stream it:** [Xumo](https://www.xumo.tv/channel/9999300/alice-movies?v=XM00HCJ16L04Q2&p=8736) / [Overdrive](https://www.overdrive.com/media/6480444/dark-souls)
+**Where to stream it:** [Plex](https://watch.plex.tv/movie/we-feel-fine) / [Typhoon On Demand](https://typhoonondemand.com/movies/361)
 
-![Tokyo Grand Guignol](https://ucarecdn.com/356c3774-3b85-4ae7-92f0-47310bc546f0/-/resize/1460x/-/format/auto/-/quality/smart/ "Tokyo Grand Guignol")
+![Wedding Guests](https://ucarecdn.com/fa2426a6-f4b3-4751-bb7a-7836ea9ee577/-/resize/1460x/-/format/auto/-/quality/smart/ "Wedding Guests")
 
-## Tokyo Grand Guignol
+## Wedding Guests
 
-*Directed by Nicolas Alberny, Yann Moreau, Gilles Landucci, Francois Gaillard / Horror / 2017 / 115 mins / Japan*
+*Directed by Niko von Glasow / Drama / 1990 / 41 mins / Poland*
 
-**Synopsis:** Blood, werewolf, lust, time travel, shadow hunter, Giallo, love, and insanity. Four scary and wicked stories for a feature film anthology gathered under the lights of Tokyo nights.
+**Synopsis:** A female photographer from Western Europe drives through Poland and stops in a village. By chance, her eye is caught by the arrival of a wedding party. This marks the point of departure for several stories that unfold during the course of the wedding.
 
-**What makes it special:** A love letter to the city of Tokyo and the great Japanese horror traditions from four upcoming French directors. All 4 stories are highly original and executed with true passion and precision.
+**What makes it special:** One of Filmhub's best-kept secrets, German auteur Niko von Glasow's first film made following his studies at the National Film School in Łódź - whose alumni include Kieślowskia and Wajda, is an instant classic about young love and revenge in late-communist Poland.
 
-**Where to stream it:** [Tubi](https://tubitv.com/movies/588295/tokyo-grand-guignol) / [Plex](https://watch.plex.tv/movie/tokyo-grand-guignol)
+**Where to stream it:** [Amazon](https://www.amazon.com/Wedding-Guests-Anna-Dabrowska/dp/B00XE30J2Y/) / [Tubi](https://tubitv.com/movies/577131/wedding-guests)
 
-![KL24: Zombies](https://ucarecdn.com/2c17b339-5ac3-4ab3-b9c8-2809993254af/-/resize/1460x/-/format/auto/-/quality/smart/ "KL24: Zombies")
+![Pablo's Winter](https://ucarecdn.com/de6f6670-bd63-4950-9402-8ac77c56fcfd/-/resize/1460x/-/format/auto/-/quality/smart/ "Pablo's Winter")
 
-## KL24: Zombies
+## Pablo's Winter
 
-*Directed by James Lee, Gavin Yap, Shamaine Othman / Horror / 2016 / 76 mins / Malaysia*
+*Directed by Chico Pereira / Drama / 2012 / 77 mins / United Kingdom*
 
-**Synopsis:** A flu-like infection has taken over Kuala Lumpur which turns into a zombie outbreak as we follow three intersecting stories of the survivors fleeing for safety.
+**Synopsis:** After working in the mercury mines of Almadén, Spain, Pablo has already suffered 5 heart attacks. His only hope for survival now is to quit smoking.
 
-**What makes it special:** We've featured Malaysian director Jame Lee's arthouse gem *The Beautiful Washing Machine* in [7 Summertime Films]({% post_url 2021-07-23-7-summertime-films %}), and here's the same director pulling off something worlds away. Co-directed with Gavin Yap and Shamaine Othman and featuring iconic singer-songwriter and actor Pete Teo, KL24: Zombies is a rare Asian zombie comedy flick that hits all the right notes.
+**What makes it special:** An award winner at International Documentary Film Festival Amsterdam and DOKLeipzig. Melancholic and heart-warming at the same time, Chico Pereira's unvarnished portrayal of Pablo's everyday life signifies something larger and universal - decaying mining towns and their aging communities.
 
-**Where to stream it:** [Amazon](https://www.amazon.com/KL24-Zombies-Sharifah-Amani/dp/B076H25XGC/) / [Tubi](https://tubitv.com/movies/574046/kl24-zombies)
+**Where to stream it:** [GuideDoc](https://guidedoc.tv/documentary/pablos-winter-documentary-film/) / [Plex](https://watch.plex.tv/movie/pablos-winter)
 
-![3 Doors of Horrors](https://ucarecdn.com/e70ea1c7-9763-4c27-9e98-20601cbf582b/-/resize/1460x/-/format/auto/-/quality/smart/ "3 Doors of Horrors")
+![Allure](https://ucarecdn.com/bb6dad77-d89c-4a7a-9262-f2e8a1dc6281/-/resize/1460x/-/format/auto/-/quality/smart/ "Allure")
 
-## 3 Doors of Horrors
+## Allure
 
-*Directed by Leroy Low, Ken Kin Ng, Edmund Yeo / Documentary / 2014 / 68 mins / Malaysia*
+*Directed by Vladan Nikolic / Drama / 2014 / 83 mins / United States*
 
-**Synopsis:** 3 winning shorts from an online horror contest - I Miss You Two, Floating Sun, and Horror Mission.
+**Synopsis:** Based on true stories, Allure tells the stories of five women in New York, who come from five very different countries. Each one struggles to overcome her personal conflict, set against the Occupy Wall Street movements of 2011.
 
-**What makes it special:** James Lee launched this project in 2013 - each year his production company Doghouse 73 help 3 young local directors make their horror shorts and launch them right on YouTube for the Chinese hungry ghost festival. Here's the wicked trio from the first year. You can also watch 2014 and 2015's selections on [YouTube](https://www.youtube.com/playlist?list=PL_I_xW06YeiTJ6FVRndvhh-edHogakANI).
+**What makes it special:** A fitting time to revisit professor/director Vladan Nikolic's film as Occupy Wall Street turns 10. Allure is a largely improved group portrait that provides a microscopic look at immigrant uncertainty. By shooting scenes on the streets with real protests in the background, it's also able to preserve a significant piece of history.
 
-**Where to stream it:** [Screambox](https://www.screambox.com/details-movie/614cf063550dad17c3e1cf16/3-doors-of-horrors)
+**Where to stream it:** [Amazon](https://www.amazon.com/Allure-Diana-Sillaots/dp/B086JNZKHF/) / [Hoopla](https://www.hoopladigital.com/title/13408361)
 
-![Dark Seed](https://ucarecdn.com/b12cb16d-0f5c-4b63-92ff-b8eddb5c3e30/-/resize/1460x/-/format/auto/-/quality/smart/ "Dark Seed")
+![House of Children](https://ucarecdn.com/e5fdb33c-b4ba-4536-b70c-6fbf9846bc66/-/resize/1460x/-/format/auto/-/quality/smart/ "House of Children")
 
-## Dark Seed
+## House of Children
 
-*Directed by Michael Chuah / Drama / 2006 / 102 mins / Malaysia*
+*Directed by Daniel Drema / Documentary / 2020 / 60 mins / United Kingdom*
 
-**Synopsis:** Dark Seed weaves a spooky tale of the life of a single mother by choice who decides to undergo an "in-vitro" fertilization (IVF) process to have her child of her own. Seven years later, she moves into a new apartment and her child begins to behave oddly.
+**Synopsis:** Conversations at a Zimbabwean children's home. The children exuberate so much innocence and courage... that it is hard not to feel like that you're in the room with them or in the stories themselves.
 
-**What makes it special:** A decade before Malaysian and Indonesian horror films start making waves internationally, came this local box office hit that delivered solid old-fashioned supernatural horror - something that never gets old.
+**What makes it special:** A unique approach to a subject matter that is usually riddled with negative stereotypes. "Intimate and refreshingly aimless" - as one review puts it, Drema's camera seeks merely to amplify and dignify.
 
-**Where to stream it:** [Amazon](https://www.amazon.com/Dark-Seed-Wong-Sze-Zen/dp/B092RT2PXK/)
+**Where to stream it:** [Tubi](https://tubitv.com/movies/580328/house-of-children)
 
-![Ghetto Goblin](https://ucarecdn.com/3b2ed6fa-5383-44d7-8d98-b55e49f3497c/-/resize/1460x/-/format/auto/-/quality/smart/ "Ghetto Goblin")
+![Down, But Not Out!](https://ucarecdn.com/d8c3a880-1a4a-412b-a28b-afc261c94bde/-/resize/1460x/-/format/auto/-/quality/smart/ "Down, But Not Out!")
 
-## Ghetto Goblin
+## Down, But Not Out!
 
-*Directed by Jordan Harland / Horror / 2013 / 72 mins / South Africa*
+*Directed by Miguel Gaudencio / Documentary / 2014 / 68 mins / Poland*
 
-**Synopsis:** A South African creature horror centering around attacks by the fabled Tokoloshe.
+**Synopsis:** The 24 hours of four amateur women boxers as they step for the first time into the ring.
 
-**What makes it special:** Originally titled Blood Tokoloshe, this groundbreaking South African film revived the mythical creature from Zulu mythology with B movie aesthetics.
+**What makes it special:** Another great documentary that simply allows the audience to see and experience for themselves. Director/cinematographer Miguel Gaudencio is a master in creating tension with shots and edits, and the raw energy he captured is so infectious you don't even need the subtitles.
 
-**Where to stream it:** [Amazon](https://www.amazon.com/Ghetto-Goblin-Msimbithi-Mahamba/dp/B08FJC3YBL/) / [Plex](https://watch.plex.tv/movie/ghetto-goblin)
+**Where to stream it:** [Amazon](https://www.amazon.com/Down-But-Not-Anna-Pazdur-Czarnowska/dp/B00XCM8R2G/) / [Alice Movies on Xumo](https://www.xumo.tv/channel/9999300/alice-movies?v=XM0C5DWYVGK3A2&p=31046)
